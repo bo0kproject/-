@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>MCQ Quiz</title>
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="start-screen">
+      <button id="start-button">Начать</button>
+    </div>
+    <div id="display-container">
+      <div class="header">
+        <div class="number-of-count">
+          <span class="number-of-question">1 из 50 вопросов</span>
+        </div>
+        <div class="timer-div">
+          <img src="timer-icon.svg" />
+          <span class="time-left">10s</span>
+        </div>
+      </div>
+      <div id="container">
+        <!-- Вопросы будут отображаться тут  -->
+      </div>
+      <button id="next-button">>>></button>
+    </div>
+    <div class="score-container hide">
+      <div id="user-score">Демо</div>
+      <button id="restart">Рестарт</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
