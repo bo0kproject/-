@@ -57,7 +57,7 @@ let questions = [
 },
 {
   numb: 6,
-  question: "Вопрос номер 1?",
+  question: "Вопрос номер 6?",
   answer: "1",
   options: [
     "1",
