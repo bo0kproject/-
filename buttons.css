@@ -1,14 +1,6 @@
-/*
-*************************************
-          Copyright 2018
-               benn
-*************************************
-*/
 
-/* Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(http://fonts.googleapis.com/css?family=Lato);
-/* set global font to Open Sans */
 body {
   font-family: 'Open Sans', 'sans-serif';
   background-image: url(http://benague.ca/files/pw_pattern.png);
@@ -17,13 +9,10 @@ body {
   margin: 0;
   padding: 0;
 }
-/* header */
 h1 {
   color: #55acee;
   text-align: center;
 }
-
-/* header/copyright link */
 .link {
   text-decoration: none;
   color: #55acee;
@@ -39,14 +28,10 @@ h1 {
   color: #2ecc71;
   border-bottom: 2px dotted #2ecc71;
 }
-
-/* button div */
 #buttons {
   padding-top: 50px;
   text-align: center;
 }
-
-/* start da css for da buttons */
 .btn {
   border-radius: 5px;
   padding: 15px 25px;
