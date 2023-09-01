@@ -13,7 +13,7 @@ body {
   font-family: 'Open Sans', 'sans-serif';
   background-image: url(http://benague.ca/files/pw_pattern.png);
   font-family: 'Lato', sans-serif;
-  background-color: rgb(25,25,25); 
+  background-color: #5696ab; 
   margin: 0;
   padding: 0;
 }
@@ -57,7 +57,7 @@ h1 {
   position: relative;
   display: inline-block;
   max-height: 100px;
-  max-width: 150px;
+  max-width: 20%;
   text-align: center;
 }
 
@@ -67,10 +67,10 @@ h1 {
   box-shadow: 0px 1px 0px 0px;
 }
 .purple {
-  background-color: #9b59b6;
-  box-shadow: 0px 5px 0px 0px #82409D;
+  background-color: #04597c;
+  box-shadow: 0px 5px 0px 0px #04597c;
 }
 
 .purple:hover {
-  background-color: #B573D0;
+  background-color: #04597c;
 }
