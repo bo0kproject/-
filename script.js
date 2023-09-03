@@ -1,4 +1,4 @@
-//selecting all required elements
+//выбор всех необходимых элементов
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -10,24 +10,24 @@ const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 
-// if startQuiz button clicked
+// если кнопка startQuiz нажата
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
+    info_box.classList.add("activeInfo"); //показать info box
 }
 
-// if exitQuiz button clicked
+// есть кнопка exitQuiz нажата
 exit_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
+    info_box.classList.remove("activeInfo"); //убрать info box
 }
 
-// if continueQuiz button clicked
+// если кнопка continueQuiz нажата
 continue_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
-    quiz_box.classList.add("activeQuiz"); //show quiz box
-    showQuetions(0); //calling showQestions function
-    queCounter(1); //passing 1 parameter to queCounter
-    startTimer(60); //calling startTimer function
-    startTimerLine(0); //calling startTimerLine function
+    info_box.classList.remove("activeInfo"); //спрятать info box
+    quiz_box.classList.add("activeQuiz"); //показать quiz box
+    showQuetions(0); //вызвать функцию showQestions 
+    queCounter(1); //передача парамметра 1 queCounter
+    startTimer(60); //вызов функции startTimer
+    startTimerLine(0); //вызвать функцию startTimerLine
 }
 
 let timeValue =  60;
