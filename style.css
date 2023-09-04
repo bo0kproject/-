@@ -106,15 +106,16 @@ body{
     border: 1px solid #007bff;
     transition: all 0.3s ease;
 }
+
 .quiz_box{
-    top: 95%;
     width: 95%;
+    height: 95%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;  
+    transition: all 1s ease;  
 }
 
 .quiz_box header{
@@ -145,8 +146,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 145px;
+    width: 245px;
 }
+
 
 .quiz_box header .timer .time_left_txt{
     font-weight: 400;
@@ -167,7 +169,6 @@ body{
     border: 1px solid #343a40;
     user-select: none;
 }
-
 .quiz_box header .time_line{
     position: absolute;
     bottom: 0px;
@@ -175,7 +176,6 @@ body{
     height: 3px;
     background: #007bff;
 }
-
 section{
     padding: 25px 30px 20px 30px;
     background: #fff;
@@ -204,6 +204,10 @@ section .option_list .option{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+section .option_list .option:last-child{
+    margin-bottom: 0px;
 }
 
 section .option_list .option:hover{
@@ -308,7 +312,7 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 25px 30px;
-    width: 450px;
+    width: 90%;
     align-items: center;
     flex-direction: column;
     justify-content: center;
