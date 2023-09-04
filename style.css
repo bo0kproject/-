@@ -123,7 +123,7 @@ body{
     position: relative;
     z-index: 2;
     height: 70px;
-    padding: 110 130px;
+    padding: 0 130px;
     background: #fff;
     border-radius: 5px 5px 0 0;
     display: flex;
