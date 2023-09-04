@@ -108,6 +108,7 @@ body{
 }
 
 .quiz_box{
+    top: 80%;
     width: 95%;
     background: #fff;
     border-radius: 5px;
