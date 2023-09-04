@@ -106,22 +106,22 @@ body{
     border: 1px solid #007bff;
     transition: all 0.3s ease;
 }
-
 .quiz_box{
+    top: 80%;
     width: 95%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease;  
 }
 
 .quiz_box header{
     position: relative;
     z-index: 2;
     height: 70px;
-    padding: 100 30px;
+    padding: 0 30px;
     background: #fff;
     border-radius: 5px 5px 0 0;
     display: flex;
@@ -182,8 +182,9 @@ section{
 }
 
 section .que_text{
-    font-size: 25px;
+    font-size: 15px;
     font-weight: 600;
+    padding: 20px 0px;
 }
 
 section .option_list{
@@ -203,9 +204,6 @@ section .option_list .option{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-section .option_list .option:last-child{
-    margin-bottom: 0px;
 }
 
 section .option_list .option:hover{
