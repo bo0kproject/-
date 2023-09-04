@@ -116,6 +116,7 @@ body{
     pointer-events: none;
     transition: all 0.3s ease;
     padding-top:20px;
+    padding-bottom:200px;
 }
 
 .quiz_box header{
