@@ -80,8 +80,7 @@ let questions = [
     {
     numb: 8,
     question: "Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxan qiymətə təqdim edildikdə vergiyə cəlb edilən gəlir necə müəyyən olunur?",
-    answer: "
-D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı Və ya Səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payınm və ya səhmin nominal dəyəri arasındakı fərq",
+    answer: "D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı Və ya Səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payınm və ya səhmin nominal dəyəri arasındakı fərq",
     options: [
       "A)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə səhmin nominal dəyəri vergiyə cəlb olunan gəlirdir",
       "B)	Səhmlərin bazar qiyməti ilə nominal dəyəri arasındakı fərq",
