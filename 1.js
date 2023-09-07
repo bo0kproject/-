@@ -41,7 +41,7 @@ let questions = [
       "A)	Ödəmə mənbəyində gəlirdən xərclər çıxılmamaqla",
       "B)	Gəlirdən gəlirin əldə edilməsi ilə bağlı xərclər çıxılmaqla",
       "C)	Ödəmə mənbəyində gəlirdən xərclər çıxılmaqla",
-      "D)	Gəlirdən Azərbaycan Respublikasının hüdudlarından kənarda çəkilən xərclər çıxılmaqla (VM maddə "
+      "D)	Gəlirdən Azərbaycan Respublikasının hüdudlarından kənarda çəkilən xərclər çıxılmaqla"
     ]
   },
     {
