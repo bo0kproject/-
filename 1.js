@@ -3,12 +3,12 @@ let questions = [
     {
     numb: 1,
     question: "Azərbaycan Respublikasında gəlir vergisinin ödəyicisi kimlərdir?",
-    answer: "rezident və qeyri-rezident fiziki şəxslər",
+    answer: "C) rezident və qeyri-rezident fiziki şəxslər",
     options: [
-      "yalnız rezident fiziki şəxslər",
-      "yalnız qeyri-rezident fiziki şəxslər",
-      "rezident və qeyri-rezident fiziki şəxslər",
-      "fərdi sahibkarlar"
+      "A)   yalnız rezident fiziki şəxslər",
+      "B)   yalnız qeyri-rezident fiziki şəxslər",
+      "C)   rezident və qeyri-rezident fiziki şəxslər",
+      "D)   fərdi sahibkarlar"
     ]
   },
     {
