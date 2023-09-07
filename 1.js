@@ -3,22 +3,22 @@ let questions = [
     {
     numb: 1,
     question: "Azərbaycan Respublikasında gəlir vergisinin ödəyicisi kimlərdir?",
-    answer: "C) rezident və qeyri-rezident fiziki şəxslər",
+    answer: "C) Rezident və qeyri-rezident fiziki şəxslər",
     options: [
-      "A)   yalnız rezident fiziki şəxslər",
-      "B)   yalnız qeyri-rezident fiziki şəxslər",
-      "C)   rezident və qeyri-rezident fiziki şəxslər",
-      "D)   fərdi sahibkarlar"
+      "A)   Yalnız rezident fiziki şəxslər",
+      "B)   Yalnız qeyri-rezident fiziki şəxslər",
+      "C)   Rezident və qeyri-rezident fiziki şəxslər",
+      "D)   Fərdi sahibkarlar"
     ]
   },
     {
     numb: 2,
     question: "Rezident fiziki şəxslərin gəlirləri üzrə vergitutma obyekti nədir?",
-    answer: "C)	vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyən-ləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
+    answer: "C)	Vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyən-ləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
     options: [
-      "A)	vergi ili üçün rezidentlərin yalnız Azərbaycan mənbəyindən əldə etdiyi gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyənləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
-      "B)	vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyənləşdirilən gəlirdən çıxılan məbləğ nəzərə alınmadan vergiyə cəlb edilən gəlirdir.",
-      "C)	vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyən-ləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
+      "A)	Vergi ili üçün rezidentlərin yalnız Azərbaycan mənbəyindən əldə etdiyi gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyənləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
+      "B)	Vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyənləşdirilən gəlirdən çıxılan məbləğ nəzərə alınmadan vergiyə cəlb edilən gəlirdir.",
+      "C)	Vergi ili üçün rezidentlərin bütün gəliri ilə həmin dövr üçün Vergi Məcəlləsi ilə müəyyən-ləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir.",
       "D)	Dövlət Vergi Xidməti tərəfindən müəyyənləşdirilən dövr üçün rezidentlərin bütün gəliri ilə həmin dövrdə Vergi Məcəlləsi ilə müəyyənləşdirilən gəlirdən çıxılan məbləğ arasındakı fərqdən ibarət olan vergiyə cəlb edilən gəlirdir."
     ]
   },
