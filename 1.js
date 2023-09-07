@@ -77,4 +77,15 @@ let questions = [
       "D)	Yalnız Azərbaycan Respublikasının hüdudlarından kənarda təqvim ili ərzində əldə etdiyi bütün növ ümumi gəliri məbləği üzrə"
     ]
   },
+    {
+    numb: 8,
+    question: "Сам вопрос",
+    answer: "Ответ Правильный",
+    options: [
+      "1 ответ",
+      "2 ответ",
+      "3 ответ",
+      "4 ответ"
+    ]
+  },
   ];
