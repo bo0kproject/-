@@ -68,7 +68,7 @@ let questions = [
   },
 {
     numb: 7,
-    question: "7.	Məşğulluqdan və ya əmlakın təqdim edilməsindən gəlir əldə edən qeyri-rezident fizi¬ki şəxs hansı gəlirləri üzrə gəlir vergisinin ödəyicisidir?",
+    question: "Məşğulluqdan və ya əmlakın təqdim edilməsindən gəlir əldə edən qeyri-rezident fizi¬ki şəxs hansı gəlirləri üzrə gəlir vergisinin ödəyicisidir?",
     answer: "A)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin V.Məcəllə- sinə əsasən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
     options: [
       "A)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin V.Məcəllə- sinə əsasən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
