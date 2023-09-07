@@ -35,24 +35,24 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Вопрос номер 4?",
-    answer: "1",
+    question: "Azərbaycan Respublikasında daimi nümayəndəlik vasitəsilə fəaliyyət göstərən qeyri- rezident fiziki şəxsin daimi nümayəndəliyi ilə əlaqədar olan gəlirindən vergi necə tutulur??",
+    answer: "B)	Gəlirdən gəlirin əldə edilməsi ilə bağlı xərclər çıxılmaqla",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Ödəmə mənbəyində gəlirdən xərclər çıxılmamaqla",
+      "B)	Gəlirdən gəlirin əldə edilməsi ilə bağlı xərclər çıxılmaqla",
+      "C)	Ödəmə mənbəyində gəlirdən xərclər çıxılmaqla",
+      "D)	Gəlirdən Azərbaycan Respublikasının hüdudlarından kənarda çəkilən xərclər çıxılmaqla (VM maddə "
     ]
   },
     {
     numb: 5,
-    question: "Вопрос номер 5?",
-    answer: "1",
+    question: "Azərbaycan Respublikasında daimi nümayəndəlik vasitəsilə fəaliyyət göstərən qeyri- rezident vergi ödəyicisi hansı gəlirləri üzrə gəlir vergisinin ödəyicisidir?",
+    answer: "A)	Daimi nümayəndəliyi ilə əlaqədar olan vergiyə cəlb edilən gəlirləri üzrə",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Daimi nümayəndəliyi ilə əlaqədar olan vergiyə cəlb edilən gəlirləri üzrə",
+      "B)	Bütün gəlirləri üzrə",
+      "C)	yalnız Azərbaycan Respublikasının hüdudlarından kənarda əldə etdiyi gəlirləri üzrə",
+      "D)	daimi nümayəndəliyi ilə əlaqədar olmayan vergiyə cəlb edilən gəlirləri üzrə",
     ]
   },
   {
