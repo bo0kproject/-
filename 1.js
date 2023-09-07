@@ -79,6 +79,40 @@ let questions = [
   },
     {
     numb: 8,
+    question: "Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxan qiymətə təqdim edildikdə vergiyə cəlb edilən gəlir necə müəyyən olunur?",
+    answer: "
+D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı Və ya Səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payınm və ya səhmin nominal dəyəri arasındakı fərq",
+    options: [
+      "A)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə səhmin nominal dəyəri vergiyə cəlb olunan gəlirdir",
+      "B)	Səhmlərin bazar qiyməti ilə nominal dəyəri arasındakı fərq",
+      "C)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə faktiki təqdimetmə qiyməti",
+      "D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı Və ya Səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payınm və ya səhmin nominal dəyəri arasındakı fərq"
+    ]
+  },
+    {
+    numb: 9,
+    question: "Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə vergiyə cəlb edilən gəlir necə müəyyən olunur?",
+    answer: "A)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə alqı-satqı müqaviləsinin bağlandığı tarixə xalis aktivlərin mütənasib dəyəri ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən gəlirdir",
+    options: [
+      "A)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə alqı-satqı müqaviləsinin bağlandığı tarixə xalis aktivlərin mütənasib dəyəri ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən gəlirdir",
+      "B)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə xalis aktivlərin mütənasib dəyəri ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən gəlirdir",
+      "C)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə faktiki təqdimetmə qiyməti",
+      "D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payının və ya səhmin nominal dəyəri arasındakı fərq"
+    ]
+  },
+        {
+    numb: 8,
+    question: "Сам вопрос",
+    answer: "Ответ Правильный",
+    options: [
+      "1 ответ",
+      "2 ответ",
+      "3 ответ",
+      "4 ответ"
+    ]
+  },
+            {
+    numb: 8,
     question: "Сам вопрос",
     answer: "Ответ Правильный",
     options: [
