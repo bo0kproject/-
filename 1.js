@@ -24,13 +24,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "Вопрос номер 3?",
-    answer: "1",
+    question: "Fiziki şəxslərdən ödəmə mənbəyində vergi tutulduğu halda vergiyə cəlb olunan gəlir vergitutma obyekti hesab edilə bilərmi?",
+    answer: "B)	Hesab edilə bilər ",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Hesab edilə bilməz ",
+      "B)	Hesab edilə bilər ",
+      "C)   Bu Nazirlər Kabinetinin qərarı ilə müəyyənləşdirilir",
+      "D)   Bu Dövlət Vergi Xidməti tərəfindən müəyyənləşdirilir"
     ]
   },
     {
