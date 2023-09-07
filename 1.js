@@ -57,13 +57,24 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Вопрос номер 6?",
-    answer: "1",
+    question: "Qeyri-rezident fiziki şəxsin ödəmə mənbəyində vergiyə cəlb edilməsi nəzərdə tutulan ümumi gəliri hansı qaydada vergitutma obyektidir?",
+    answer: "A)	Gəlirdən çıxılan məbləğ nəzərə alınmadan ödəniş yerində vergitutma obyektidir",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Gəlirdən çıxılan məbləğ nəzərə alınmadan ödəniş yerində vergitutma obyektidir",
+      "B)	Vergitutma obyekti deyil",
+      "C)	Gəlirdən çıxılan məbləğ nəzərə alınmaqla ödəniş yerində vergitutma obyektidir",
+      "D)	Əgər fiziki şəxsin vergiyə cəlb edilməsi ödəmə mənbəyində nəzərdə tutulan ümumi gəliri, yalnız sahibkarlıq fəaliyyətindən əldə edilmişdirsə, vergitutma obyektidir"
+    ]
+  },
+{
+    numb: 7,
+    question: "7.	Məşğulluqdan və ya əmlakın təqdim edilməsindən gəlir əldə edən qeyri-rezident fizi¬ki şəxs hansı gəlirləri üzrə gəlir vergisinin ödəyicisidir?",
+    answer: "A)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin V.Məcəllə- sinə əsasən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
+    options: [
+      "A)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin V.Məcəllə- sinə əsasən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
+      "B)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bütün növ ümumi gəlirləri üzrə",
+      "C)	Azərbaycan mənbəyindən və onun hüdudlarından kənarda təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin Vergi Məcəlləsində müəyyənləşdirilən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
+      "D)	Yalnız Azərbaycan Respublikasının hüdudlarından kənarda təqvim ili ərzində əldə etdiyi bütün növ ümumi gəliri məbləği üzrə"
     ]
   },
   ];
