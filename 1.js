@@ -144,24 +144,24 @@ let questions = [
 },
   {
   numb: 14,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "Hansı gəlir muzdlu işlə əlaqədar alman gəlirə aid deyildir?",
+  answer: "D)	Faiz gəliri",
   options: [
-    "1ответ",
-    "2 ответ",
-    "3 ответ",
-    "4 ответ"
+    "A)	Əmək haqqı",
+    "B)	İşəgötürən tərəfindən verilən maddi yardım",
+    "C)	Muzdlu işdən alınan hər hansı ödəmə və ya fayda",
+    "D)	Faiz gəliri"
   ]
 },
   {
   numb: 15,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "İşəgötürən tərəfindən fiziki şəxsə banklararası kredit hərracında olan faiz dərəcə-sindən aşağı faiz dərəcəsi ilə ssuda verildiyi halda hansı məbləğ muzdlu işlə əlaqədar alınan gəlirdir?",
+  answer: "C)	Bu tipli ssudalar üzrə banklararası kredit hərracında olan faiz dərəcəsinə uyğun faizlə ödənməli olan məbləğlə aşağı faiz dərəcəsinə uyğun ödənməli olan məbləğ arasındakı fərq",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Ssudanm tam məbləği",
+    "B)	Bu halda muzdlu işlə əlaqədar gəlir yaranmır",
+    "C)	Bu tipli ssudalar üzrə banklararası kredit hərracında olan faiz dərəcəsinə uyğun faizlə ödənməli olan məbləğlə aşağı faiz dərəcəsinə uyğun ödənməli olan məbləğ arasındakı fərq",
+    "D)	Bu tipli ssudalar üzrə banklararası kredit hərracında olan faiz dərəcəsinə uyğun faizlə ödənməli olan məbləğlə aşağı faiz dərəcəsinə uyğun ödənməli olan məbləğin çəmi "
   ]
 },
       {
