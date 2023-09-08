@@ -308,36 +308,36 @@ let questions = [
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 29,
+  question: "Aşağıdakılardan hansı sahibkarlıq fəaliyyətindən gəlirə aiddir?",
+  answer: "B)	Əvvəllər gəlirdən çıxılmış xərc, zərər və ya şübhəli borc ödənilirsə, əldə edilən məbləğ V3 əvvəllər gəlirdən çıxılmış ehtiyat azahrsa, həmin ehtiyatın azalmış məbləği",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Xərc, zərər və ya şübhəli borc ödənilirsə, əldə edilən məbləğ və ehtiyat azahrsa, həmin ehtiyatın azalmış məbləği",
+    "B)	Əvvəllər gəlirdən çıxılmış xərc, zərər və ya şübhəli borc ödənilirsə, əldə edilən məbləğ V3 əvvəllər gəlirdən çıxılmış ehtiyat azahrsa, həmin ehtiyatın azalmış məbləği",
+    "C)	Vergi ödəyicisinin aktivlərinin ilkin qiymətinin artdığını göstərən hər hansı digər gəlir (təqdim olunduğu təqdirdə) - əmək haqqından başqa, təqvim ili ərzində alınan hədiyyə və miras¬ların məbləği",
+    "D)	Sahibkarlıq fəaliyyəti məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən gəlir"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 30,
+  question: "Hansı gəlir qeyri-sahibkarlıq fəaliyyətindən gəlirə aid deyildir?",
+  answer: "A)	Sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına və ya müəssisənin bağlanmasına razılıq verilməsinə görə alman gəlir",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına və ya müəssisənin bağlanmasına razılıq verilməsinə görə alman gəlir",
+    "B)	Sahibkarlıq fəal, məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən gəlir",
+    "C)	Əmlakın icarəyə verilməsindən gəlir",
+    "D)	Həyatın yığım sığortası üzrə sığorta olunanın ödədiyi və ya onun xeyrinə ödənilən sığorta haqları ilə sığorta ödənişləri arasındakı fərq"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 31,
+  question: "Hansı gəlir qeyri-sahibkarlıq fəaliyyətindən gəlirə aid deyildir?",
+  answer: "A) Faktiki ezamiyyə xərclərinin ödənilməsi ",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A) Faktiki ezamiyyə xərclərinin ödənilməsi ",
+    "B) Royalti ",
+    "C) Faiz gəliri ",
+    "D) Dividend "
   ]
 },
 {
