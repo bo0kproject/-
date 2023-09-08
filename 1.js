@@ -440,58 +440,58 @@ let questions = [
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 41,
+  question: "İki və ya daha çox yerdə muzdla işləyən fiziki şəxslərin gəlirlərindən hansı qaydada gəlir vergisi hesablanır və hansı büdcəyə ödənilir?",
+  answer: "B)	Hər bir iş yerində ödənilən məbləğdən ayrıca hesablanır və dövlət büdcəsinə ödənilir",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Ən çox əmək haqqı aldığı yerdə hesablanır və dövlət büdcəsinə ödənilir",
+    "B)	Hər bir iş yerində ödənilən məbləğdən ayrıca hesablanır və dövlət büdcəsinə ödənilir",
+    "C)	Əsas iş yerində gəlirlərin ümumi məbləğindən tutularaq dövlət büdcəsinə ödənilir",
+    "D)	Hər bir iş yerində ödənilən məbləğdən ayrıca hesablanır və bələdiyyə büdcəsinə ödənilir "
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 42,
+  question: "Fiziki şəxslərin Vergi Məcəlləsinin 150.1.1-ci və 150.1.2-ci maddələrinə əsasən ödəmə mənbəyində vergiyə cəlb olunan gəlirlərindən vergi hansı qaydada hesablanır?",
+  answer: "A)	Vergi Məcəlləsinin 101.1-ci və 101.1-1-ci maddələrində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Vergi Məcəlləsinin 101.1-ci və 101.1-1-ci maddələrində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır",
+    "B)	Vergi Məcəlləsinin 101.1-1-ci maddəsində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır",
+    "C)	Vergi Məcəlləsin 101.1-ci maddəsində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır",
+    "D)	8.000 manatdan artıq olan məbləğin 14 faizi"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 43,
+  question: "Vergi Məcəlləsinin 150.1.3-cü və 150.1.7-ci (vergi orqanlarında uçota alınmayan fiziki şəxslərin göstərdiyi xidmətlərə (işlərə) münasibətdə) maddələri tətbiq edilərkən gəlir vergisi pensiya alan və xidməti göstərən şəxsin gəlirlərindən necə hesablanır?",
+  answer: "C)	Vergi Məcəlləsinin 101.1-ci maddəsində nəzərdə tutulan verginin dərəcəsi müvafiq olaraq pensiya alan və xidməti göstərən şəxsin gəlirlərinə tətbiq edilməklə hesablanır",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Vergi Məcəlləsinin 101.1-ci və 101.1-1-ci maddələrində nəzərdə tutulan dərəcələrə uyğun olaraq hesablanır",
+    "B)	Müvafiq olaraq pensiya alan və xidməti göstərən şəxsin gəlirlərindən 14 faiz",
+    "C)	Vergi Məcəlləsinin 101.1-ci maddəsində nəzərdə tutulan verginin dərəcəsi müvafiq olaraq pensiya alan və xidməti göstərən şəxsin gəlirlərinə tətbiq edilməklə hesablanır",
+    "D)	Vergidən azaddır"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 44,
+  question: "Vergi Məcəlləsinin məqsədləri üçün neft-qaz sahəsində fəaliyyətin və qeyri-dövlət sektorunun meyarları hansı orqan (qurum) tərəfindən müəyyən edilir?",
+  answer: "D)	Azərbaycan Respublikası Nazirlər Kabineti",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Azərbaycan Respublikası Maliyyə Nazirliyi",
+    "B)	Azərbaycan Respublikası Dövlət Vergi Xidməti",
+    "C)	Azərbaycan Respublikası İqtisadyyat Nazirliyi",
+    "D)	Azərbaycan Respublikası Nazirlər Kabineti"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 45,
+  question: "Qeyri-sahibkarlıq fəaliyyəti üzrə illik gəlirdən gəlir vergisi necə tutulur?",
+  answer: "B)	14 faiz",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	25 faiz",
+    "B)	14 faiz",
+    "C)	30.000 manat x 14% + 30.0000 manatdan çox olan məbləğin 25 faizi",
+    "D)	10000 manat x 14% + 10000 manatdan çox olan məbləğin 25 faizi"
   ]
 },
 {
