@@ -55,7 +55,7 @@ let questions = [
       "D)	daimi nümayəndəliyi ilə əlaqədar olmayan vergiyə cəlb edilən gəlirləri üzrə",
     ]
   },
-  {
+    {
     numb: 6,
     question: "Qeyri-rezident fiziki şəxsin ödəmə mənbəyində vergiyə cəlb edilməsi nəzərdə tutulan ümumi gəliri hansı qaydada vergitutma obyektidir?",
     answer: "A)	Gəlirdən çıxılan məbləğ nəzərə alınmadan ödəniş yerində vergitutma obyektidir",
@@ -66,7 +66,7 @@ let questions = [
       "D)	Əgər fiziki şəxsin vergiyə cəlb edilməsi ödəmə mənbəyində nəzərdə tutulan ümumi gəliri, yalnız sahibkarlıq fəaliyyətindən əldə edilmişdirsə, vergitutma obyektidir"
     ]
   },
-{
+    {
     numb: 7,
     question: "Məşğulluqdan və ya əmlakın təqdim edilməsindən gəlir əldə edən qeyri-rezident fizi¬ki şəxs hansı gəlirləri üzrə gəlir vergisinin ödəyicisidir?",
     answer: "A)	Azərbaycan mənbəyindən təqvim ili ərzində əldə etdiyi bu növ ümumi gəlirin V.Məcəllə- sinə əsasən, həmin dövrdə bu gəlirə aid olan və ondan çıxılan xərclər qədər azaldılan məbləği üzrə",
@@ -99,7 +99,7 @@ let questions = [
       "D)	Hüquqi şəxsin nizamnamə kapitalındakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə faktiki təqdimetmə qiyməti ilə nizamnamə kapitalındakı iştirak payının və ya səhmin nominal dəyəri arasındakı fərq"
     ]
   },
-        {
+    {
     numb: 10,
     question: "10.	İştirak payları və ya səhmlər nominal qiymətdən yuxan qiymətə alınmışdırsa, hə¬min iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər necə müəyyən olunur?",
     answer: "C)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır",
@@ -110,7 +110,7 @@ let questions = [
       "D)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki təqdim edilmə qiyməti ilə nəzərə alınır"
     ]
   },
-            {
+    {
     numb:11,
     question: "Vergitutma məqsədləri üçün rezident fiziki şəxsin gəliri dedikdə hansı gəlir başa dü¬şülür?",
     answer: "C)	Azərb. Resp.-da və Azərbaycan Respublikasının hüdudlarından kənarda əldə etdiyi gəlir",
