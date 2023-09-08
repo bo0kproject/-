@@ -101,7 +101,7 @@ let questions = [
   },
     {
     numb: 10,
-    question: "10.	İştirak payları və ya səhmlər nominal qiymətdən yuxan qiymətə alınmışdırsa, hə¬min iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər necə müəyyən olunur?",
+    question: "İştirak payları və ya səhmlər nominal qiymətdən yuxan qiymətə alınmışdırsa, hə¬min iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər necə müəyyən olunur?",
     answer: "C)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır",
     options: [
       "A)   İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xorclsi1 bil üktİVİSTİH faktiki bazar qiyməti ilə nəzərə alınır",
