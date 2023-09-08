@@ -385,6 +385,204 @@ let questions = [
   ]
 },
 {
+  numb: 36,
+  question: "Fiziki şəxsin aldığı və Vergi Məcəlləsinə uyğun olaraq Azərbaycan Respublikasında ödəmə mənbəyindən vergi tutulmuş hansı məbləğlər gəlirdən çıxılır?",
+  answer: "B)	Dividend, faiz, icarə haqqı, royalti, daşınmaz əmlakın təqdim edilməsindən əldə edilən gəlirlər, lotereyalardan və idman mərc oyunlarından əldə edilən uduşlar",
+  options: [
+    "A) Dividend, faiz, təqvim ili ərzində ahnan hədiyyə və miraslar",
+    "B)	Dividend, faiz, icarə haqqı, royalti, daşınmaz əmlakın təqdim edilməsindən əldə edilən gəlirlər, lotereyalardan və idman mərc oyunlarından əldə edilən uduşlar",
+    "C)	Dividend, icarə haqqı, royalti, sığorta haqları",
+    "D)	Icarə haqqı, faiz, royalti, təqvim ili ərzində alınan hədiyyə və miraslar, sığorta haqları "
+  ]
+},
+{
+  numb: 37,
+  question: "Aylıq gəliri 2.500 manatdan artıq olan dövlət sektorunda çalışan fiziki şəxslərin gəlir vergisinin hesablanması zamanı hansı ən yüksək dərəcə tətbiq olunur?",
+  answer: "C) 25 faiz ",
+  options: [
+    "A) 14 faiz",
+    "B) 2o faiz",
+    "C) 25 faiz",
+    "D) 30 faiz"
+  ]
+},
+{
+  numb: 38,
+  question: "Vergi M. 101.1-1-ci maddəsinin müddəaları nəzərə alınmaqla, ayhq gəliri 2500 ma-natadək olan fiziki şəxsin gəlir vergisinin hesablanması zamanı hansı dərəcə tətbiq olunur?",
+  answer: "B)	14 faiz",
+  options: [
+    "A)	25 faiz",
+    "B)	14 faiz",
+    "C)	140 manat + 1000 manatdan çox olan məbləğin 25 faizi",
+    "D)	280 manat + 2000 manatdan çox olan məbləğin 25 faizi"
+  ]
+},
+{
+  numb: 39,
+  question: "Neft-qaz sahəsində fəaliyyəti olmayan və qeyri-dövlət sektoruna aid edilən vergi ödəyicilərində işləyən fiziki şəxslərin muzdlu işdən aylıq gəlirlərindən ayhq gəliri 8.000 manatadək olan fiziki şəxsin gəlir vergisinin hesablanması zamanı hansı dərəcə tətbiq olunur?",
+  answer: "B)	0 faiz",
+  options: [
+    "A)	14 faiz",
+    "B)	0 faiz",
+    "C)	140 manat + 1000 manatdan çox olan məbləğin 25 faizi",
+    "D)	280 manat + 2000 manatdan çox olan məbləğin 25 faizi"
+  ]
+},
+{
+  numb: 40,
+  question: "Neft-qaz sahəsində fəaliyyəti olmayan və qeyri-dövlət sektoruna aid edilən vergi ödəyicilərində işləyən fiziki şəxslərin muzdlu işdən aylıq gəlirlərindən ayhq gəliri 8.000 manatdan artıq olan fiziki şəxsin gəlir vergisinin hesablanması zamanı hansı ən yüksək dərəcə tətbiq olunur?",
+  answer: "A) 14 faiz",
+  options: [
+    "A) 14 faiz",
+    "B) 25 faiz",
+    "C) 20 faiz",
+    "D) 30 faiz"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
   numb: 23,
   question: "Самвопрос",
   answer: "ОтветПравильный",
