@@ -386,91 +386,113 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 36,
+  question: "İstehsalatdan ayrılmaqla təhsil almağa göndərilmiş tələbələrə, aspirantlara müəs¬sisə və təşkilatların hesabına ödənilən təqaüdün hansı hissəsi vergiyə cəlb edilir?",
+  answer: "B) cəlb edilmir ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 30 faizi ",
+    "B) cəlb edilmir ",
+    "C) 40 faizi ",
+    "D) 50 faizi "
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 37,
+  question: "Təbii fəlakət və digər fövqəladə hallarla əlaqədar müvafiq icra hakimiyyəti orqanlarının qərarları əsasında, habelə xarici dövlətlər və digər təşkilatlar tərəfindən göstərilən birdəfəlik yardımlar gəlir vergisinə necə cəlb olunur?",
+  answer: "B) Cəlb edilmir ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 faizi",
+    "B) Cəlb edilmir",
+    "C) 30 faizi",
+    "D) 50 faizi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 38,
+  question: "Verdikləri qana görə donorlara ödənilən kompensasiya məbləğləri və dalğıc işləri üçün pul mükafatı gəlir vergisinə necə cəlb olunur?",
+  answer: "A) Cəlb olunmur ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Cəlb olunmur ",
+    "B) Ümumi qaydada ",
+    "C) 30 faizi",
+    "D) 40 faizi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 39,
+  question: "İctimai təşkilatlar, xeyriyyə cəmiyyətləri və fondları tərəfindən verilən maddi yardımlar hansı qaydada gəlir vergisinə cəlb olunur?",
+  answer: "D) Azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 faizi",
+    "B) Ümumi qaydada",
+    "C) 50 faizi",
+    "D) Azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 40,
+  question: "Hərbi qulluqçulara, prokurorluq orqanlarının prokurorluq işçilərinə və prokuror¬luq işçiləri olmayan hərbi qulluqçularına, hüquq mühafizə orqanlarının xüsusi rütbəsi olan əməkdaşlarına ödənilən bütün növ ödənişlər (vəzifə və hərbi (xüsusi) rütbəyə görə maaşlar istisna olmaqla), habelə, əməliyyat-axtarış fəaliyyəti subyektləri ilə əməkdaşlıq edən şəxslərə, kəşfiyyat və əks-kəşfiyyat fəaliyyəti subyektlərinə kömək edən şəxslərə ödənilən bütün növ əmək haqqı, mükafat və digər maddi təminatlar gəlir vergisinə necə cəlb olunur?",
+  answer: "C)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	50 faizi vergiyə cəlb olunur",
+    "B)	Mükafatın tam məbləği vergiyə cəlb olunur",
+    "C)	Vergidən azaddır",
+    "D)	155 manatdan çox olan hissəsindən vergi tutulur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 41,
+  question: "İşəgötürən tərəfindən işçinin hərbi və alternativ xidmətə çağırılması ilə əlaqədar ödənilən müavinətlərin məbləği gəlir vergisinə cəlb olunurmu?",
+  answer: "A)	Qanunvericilikdə nəzərdə tutulan məbləği vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Qanunvericilikdə nəzərdə tutulan məbləği vergidən azaddır",
+    "B)	Tam məbləği vergiyə cəlb olunur",
+    "C)	200 manatdan yuxarı hissəsi vergiyə cəlb olunur",
+    "D)	50 faizi vergiyə cəlb olunur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 42,
+  question: "Şəhər və rayon yarışlarında və müsabiqələrində pul şəklində alman mükafatların dəyəri gəlir vergisinə necə cəlb olunur",
+  answer: "C)	Mükafatın 200 manatdan çox olan hissəsindən vergi tutulur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mükafatın 50 faizi vergiyə cəlb olunur",
+    "B)	Mükafatın tam məbləği vergiyə cəlb olunur",
+    "C)	Mükafatın 200 manatdan çox olan hissəsindən vergi tutulur",
+    "D)	Mükafatın 300 manatdan çox olan hissəsindən vergi tutulur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 43,
+  question: "Yarışlarda, müsabiqələrdə əşya şəklində alınan mükafatların hansı dəyəri gəlir ver-gisinə cəlb olunur?",
+  answer: "B)	Əşya şəklində olan mükafatın tam dəyəri vergiyə cəlb olunmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mükafatın 50 faizi vergiyə cəlb olunur",
+    "B)	Əşya şəklində olan mükafatın tam dəyəri vergiyə cəlb olunmur",
+    "C)	Əşya şəklində olan mükafatın 300 manatdan çox olan hissəsindən vergi tutulur",
+    "D)	Əşya şəklində olan mükafatın 200 manatdan çox olan hissəsindən vergi tutulur"
+  ]
+},
+{
+  numb: 44,
+  question: "Beynəlxalq yarışlarda və müsabiqələrdə pul şəklində alman mükafatların dəyəri gə¬lir vergisinə necə cəlb olunur?",
+  answer: "A)	Mükafatların 4000 manatdan çox olan hissəsindən vergi tutulur",
+  options: [
+    "A)	Mükafatların 4000 manatdan çox olan hissəsindən vergi tutulur",
+    "B)	Vergi tutulmur",
+    "C)	Mükafatların şərti maliyyə vahidinin 2000 mislindən çox olan hissəsindən vergi tutulur",
+    "D)	Mükafatın 35 faizi vergiyə cəlb olunur"
+  ]
+},
+{
+  numb: 45,
+  question: "Dövlət qulluqçusuna pensiya yaşına çatmasına görə könüllü işdən çıxması ilə əla-qədar verilən birdəfəlik haqq gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "A) Vergidən azaddır",
+  options: [
+    "A) Vergidən azaddır",
+    "B) 1000 manatdan çox olan hissəsindən vergi tutulur",
+    "C) Tam məbləğdə vergi tutulur ",
+    "D) Birdəfəlik haqqın 50 faizi vergiyə cəlb olunur "
   ]
 },
 ];
