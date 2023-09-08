@@ -134,13 +134,18 @@ let questions = [
   },
     {
     numb: 13,
-    question: "Самвопрос",
-    answer: "ОтветПравильный",
+    question: "Qeyri-rezident vergi ödəyicisinin gəlirinə aşağıdakılardan hansılar aiddir?
+1)	muzdlu işlə əlaqədar əldə edilən gəlir
+2)	faktiki ezamiyyə xərcləri
+3)	muzdlu işə aid olmayan fəaliyyətdən əldə edilən gəlir
+4)	vergilərdən azad edilən gəlirlərdən yə əsas vəsaitlərin (vəsaitin) yenidən qiymətləndirib məsindən yaranan artımdan başqa bütün digər gəlirlər
+5)	vergilərdən azad edilən və edilməyən digər gəlirlər",
+    answer: "B) 1;3;4 ",
     options: [
-      "1ответ",
-      "2 ответ",
-      "3 ответ",
-      "4 ответ"
+      "A) 1;2;3 ",
+      "B) 1;3;4 ",
+      "C)2;3;4 ",
+      "D) 3;4;5"
     ]
   },
     {
