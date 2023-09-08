@@ -221,58 +221,58 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 21,
+  question: "Əmək qabiliyyətinin müvəqqəti itirilməsinə görə ödənilən müavinətdən gəlir vergisi hansı qaydada tutulur?",
+  answer: "C)	ümumi qaydada vergiyə cəlb olunur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	55 manatdan çox olan hissəsindən",
+    "B)	vergi tutulmur",
+    "C)	ümumi qaydada vergiyə cəlb olunur",
+    "D)	50 faizi vergiyə cəlb olunur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 22,
+  question: "Fiziki şəxslərə ödənilmiş dövlət müavinətləri hansı qaydada vergiyə cəlb edilir?",
+  answer: "C)	Vergiyə cəlb edilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	1000 manatdan artıq olan hissəsi vergiyə cəlb olunur",
+    "B)	100 manatdan artıq olan hissəsi vergiyə cəlb edilir",
+    "C)	Vergiyə cəlb edilmir",
+    "D)	2000 manatdan artıq olan hissəsindən vergi tutulmur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 23,
+  question: "Alimentlər gəlir vergisinə hansı qaydada cəlb edilir?",
+  answer: "A)	Gəlir vergisindən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlir vergisindən azaddır",
+    "B)	ümumi qaydada vergiyə cəlb edilir ",
+    "C) qismən cəlb edilir",
+    "D) vergi aliment ödəyən tərəfindən ödənilir "
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 24,
+  question: "Fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) ayliq gəliri 2500 man-atadək olduqda, gəlir vergisinə münasibətdə hansı məbləğdə azadolma tətbiq edilir?",
+  answer: "A)	2500 manatadək olduqda, 200 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2500 manatadək olduqda, 200 manat",
+    "B)	Minimum əmək haqqının 1 misli",
+    "C)	2500 manatadək olduqda, 100 manat",
+    "C)	2500 manatadək olduqda, 100 manat"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 25,
+  question: "Fiziki şəxsin əsas iş yerində (əmək kitabçasının olduğu yerdə) illik gəliri зо.ооо ma-natadək olduqda, gəlir vergisinə münasibətdə hansı məbləğdə azadolma tətbiq edilir?",
+  answer: "B)	2.400 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Əmək qabiliyyətli əhali üçün adambaşına minimum istehlak səbətinin dəyərinin 12 misli",
+    "B)	2.400 manat",
+    "C)	8.000 manat",
+    "D)	Minimum əmək haqqının 12 misli"
   ]
 },
 {
