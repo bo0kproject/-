@@ -100,22 +100,66 @@ let questions = [
     ]
   },
         {
-    numb: 8,
-    question: "Сам вопрос",
-    answer: "Ответ Правильный",
+    numb: 10,
+    question: "10.	İştirak payları və ya səhmlər nominal qiymətdən yuxan qiymətə alınmışdırsa, hə¬min iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər necə müəyyən olunur?",
+    answer: "C)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır",
     options: [
-      "1 ответ",
+      "A)   İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xorclsi1 bil üktİVİSTİH faktiki bazar qiyməti ilə nəzərə alınır",
+      "B)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin nominal qiyməti ilə nəzərə ahnır",
+      "C)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır",
+      "D)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki təqdim edilmə qiyməti ilə nəzərə alınır"
+    ]
+  },
+            {
+    numb:11,
+    question: "Vergitutma məqsədləri üçün rezident fiziki şəxsin gəliri dedikdə hansı gəlir başa dü¬şülür?",
+    answer: "C)	Azərb. Resp.-da və Azərbaycan Respublikasının hüdudlarından kənarda əldə etdiyi gəlir",
+    options: [
+      "A)	Ancaq Azərbaycan Respublikasında əldə etdiyi gəlir",
+      "B)	Ancaq Azərbaycan Respublikasının hüdudlarından kənarda əldə etdiyi gəlir",
+      "C)	Azərb. Resp.-da və Azərbaycan Respublikasının hüdudlarından kənarda əldə etdiyi gəlir",
+      "D)	Yalnız sahibkarlıq fəaliyyətindən əldə edilən gəlir"
+    ]
+  },
+    {
+    numb: 12,
+    question: "Vergitutma məqsədləri üçün qeyri-rezident fiziki şəxsin gəliri dedikdə hansı gəlir başa düşülür?",
+    answer: "A)	Azərbaycan Respublikası mənbələrindən əldə edilən gəlir",
+    options: [
+      "A)	Azərbaycan Respublikası mənbələrindən əldə edilən gəlir",
+      "B)	Azərbaycan Respublikasından kənarda əldə edilən gəlir",
+      "C)	Azərbaycan Res mənbələrindən və Respublika hüdudlarından kənarda əldə edilən gəlir.",
+      "D)	Rezidenti olduğu ölkədə əldə etdiyi gəlir"
+    ]
+  },
+    {
+    numb: НомерВопроса,
+    question: "Самвопрос",
+    answer: "ОтветПравильный",
+    options: [
+      "1ответ",
       "2 ответ",
       "3 ответ",
       "4 ответ"
     ]
   },
-            {
-    numb: 8,
-    question: "Сам вопрос",
-    answer: "Ответ Правильный",
+    {
+    numb: НомерВопроса,
+    question: "Самвопрос",
+    answer: "ОтветПравильный",
     options: [
-      "1 ответ",
+      "1ответ",
+      "2 ответ",
+      "3 ответ",
+      "4 ответ"
+    ]
+  },
+    {
+    numb: НомерВопроса,
+    question: "Самвопрос",
+    answer: "ОтветПравильный",
+    options: [
+      "1ответ",
       "2 ответ",
       "3 ответ",
       "4 ответ"
