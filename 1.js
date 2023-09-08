@@ -341,25 +341,25 @@ let questions = [
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 32,
+  question: "Hansı gəlirlər qeyri -sahibkarlıq fəaliyyətindən gəlirə aiddir? 1.sahibkarlıq fəali məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən gəlir 2.gəlirdən çıxılan kompensasiya edilən məbləğlərdən və ya ehtiyatların azalmasından gəlir 3.həyatın yığım sığortası üzrə sığorta olunanın ödədiyi və ya onun xeyrinə ödənilən sığorta haqları ilə sığorta ödənişləri arasındakı fərq 4.dividend 5.işçinin xərclərinin əvəzi ödənildiyi halda, ödənən vəsaitin məbləği",
+  answer: "A) 1,3,4 ",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A) 1,3,4",
+    "B) 1,4,5",
+    "C) 2,3,4",
+    "D) 2,4,5"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 33,
+  question: "Aşağıdakı hansı gəlirlər qeyri-sahibkarlıq fəaliyyətindən gəlirlərə aiddir? 1.	sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına və ya müəssisənin bağlanmasına razılıq verilməsinə görə ahnan gəlir 2.	vergi ödəyicisinin aktivlərinin ilkin qiymətinin artdığını göstərən hər hansı digər gəlir [təqdim olunduğu təqdirdə] — əmək haqqından başqa 3.	sahibkarlıq fəaliyyəti məqsədləri üçün istifadə olunan aktivlərin təqdim edilməsindən gəlir 4.	əmlakın icarəyə verilməsindən gəlir 5.	faiz gəliri 6.	idman mərc oyunlarından əldə olunan uduşlar",
+  answer: "D) 2,4,5,6",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A) 1,3,4,6",
+    "B) 1,4,5,6",
+    "C) 2,3,4,6",
+    "D) 2,4,5,6"
   ]
 },
 {
