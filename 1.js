@@ -166,35 +166,35 @@ let questions = [
 },
       {
   numb: 16,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "İşəgötürənin öz işçisinə malı, işi və ya xidməti təqdim etdiyi, yaxud hədiyyə verdiyi halda - bu cür malların, işlərin və xidmətlərin bazar qiyməti ilə dəyəri muzdlu işlə əlaqədar alınan gəlirə aid edilə bilərmi?",
+  answer: "A)	Aid edilə bilər",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Aid edilə bilər",
+    "B)	Aid edilə bilməz",
+    "C)	Bu cür malların, işlərin və xidmətlərin bazar qiyməti ilə dəyərinin 25 faizi aid edilə bilər",
+    "D)	Bunu gəlir əldə edənin özü müəyyənləşdirir"
   ]
 },
           {
   numb: 17,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "Muzdlu işlə əlaqədar alınan gəlirlərə aşağıdakılardan hansılar aiddir? 1)	işçinin xərclərinin əvəzi ödənildiyi halda - ödənən vəsaitin məbləği 2)	işçinin işəgötürənə olan borcunun və ya öhdəliyinin bağışlanıldığı halda, həmin borcun və ya öhdəliyin məbləği 3)	əsas vəsaitlərin təqdim edilməsindən alınan gəlir 4)	işəgötürən tərəfindən ödənilən sığorta haqları 5)	dividend",
+  answer: "C) 1;2;4 ",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)l;2;3 ",
+    "B)2;3;4 ",
+    "C) 1;2;4 ",
+    "D) 3;4;5"
   ]
 },
               {
   numb: 18,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "İşçinin işəgötürənə olan borcunun və ya öhdəliyinin bağışlanıldığı halda həmin bor-cun və ya öhdəliyin məbləği hansı gəlirə aiddir?",
+  answer: "A)	Muzdlu işlə əlaqədar alınan gəlirə",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Muzdlu işlə əlaqədar alınan gəlirə",
+    "B)	Sahibkarlıq fəaliyyətindən gəlirə",
+    "C)	Qeyri- sahibkarlıq fəaliyyətindən gəlirə",
+    "D)	Həmin məbləğ vergi tutulan gəlirə aid edilmir"
   ]
 },
                   {
