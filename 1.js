@@ -133,7 +133,7 @@ let questions = [
     ]
   },
     {
-    numb: НомерВопроса,
+    numb: 13,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -144,7 +144,7 @@ let questions = [
     ]
   },
     {
-    numb: НомерВопроса,
+    numb: 14,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -155,7 +155,7 @@ let questions = [
     ]
   },
     {
-    numb: НомерВопроса,
+    numb: 15,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
