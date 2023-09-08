@@ -133,7 +133,7 @@ let questions = [
 },
 {
   numb: 13,
-  question: "13.	Qeyri-rezident vergi ödəyicisinin gəlirinə aşağıdakılardan hansılar aiddir? 1)	muzdlu işlə əlaqədar əldə edilən gəlir 2)	faktiki ezamiyyə xərcləri 3)	muzdlu işə aid olmayan fəaliyyətdən əldə edilən gəlir 4)	vergilərdən azad edilən gəlirlərdən yə əsas vəsaitlərin (vəsaitin) yenidən qiymətləndirib məsindən yaranan artımdan başqa bütün digər gəlirlər 5)	vergilərdən azad edilən və edilməyən digər gəlirlər",
+  question: "Qeyri-rezident vergi ödəyicisinin gəlirinə aşağıdakılardan hansılar aiddir? 1)	muzdlu işlə əlaqədar əldə edilən gəlir 2)	faktiki ezamiyyə xərcləri 3)	muzdlu işə aid olmayan fəaliyyətdən əldə edilən gəlir 4)	vergilərdən azad edilən gəlirlərdən yə əsas vəsaitlərin (vəsaitin) yenidən qiymətləndirib məsindən yaranan artımdan başqa bütün digər gəlirlər 5)	vergilərdən azad edilən və edilməyən digər gəlirlər",
   answer: "B) 1;3;4 ",
   options: [
     "A) 1;2;3 ",
@@ -199,24 +199,24 @@ let questions = [
 },
                   {
   numb: 19,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  question: "İşəgötürən tərəfindən ödənilən sığorta haqları hansı gəlirə aiddir?",
+  answer: "D) Muzdlu işlə əlaqədar alınan gəlirə",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Gəlirə aid deyildir",
+    "B)	Sahibkarlıq fəaliyyətindən gəlirə ",
+    "C) Qeyri- sahibkarlıq fəaliyyətindən gəlirə",
+    "D) Muzdlu işlə əlaqədar alınan gəlirə"
   ]
 },
                       {
-  numb: 21,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 20,
+  question: "Hər hansı digər halda - normativ hüquqi aktlarda başqa qiymətləndirmə metodu göstərilmirsə, malların qiyməti necə müəyyən olunur?",
+  answer: "B)	Bazar qiymətinə uyğun olaraq",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Razılaşma yolu ilə",
+    "B)	Bazar qiymətinə uyğun olaraq",
+    "C)	Işəgötürənin müəyyən etdiyi qiymət görə",
+    "D)	Dəyərin toplanması üsuluna əsasən"
   ]
 },
                           {
