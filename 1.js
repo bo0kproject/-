@@ -220,7 +220,95 @@ let questions = [
   ]
 },
                           {
-  numb:22,
+  numb:21,
+  question: "İşəgötürən tərəfindən işçiyə (təhtəlhesab şəxsə) verilmiş təhtəlhesab vəsait Azərbay-can Respublikasının Nazirlər Kabineti tərəfindən müəyyən edilmiş qaydada geri qaytarıl- madıqda həmin vəsait hansı qaydada işçinin vergi tutulan gəlirlərinə aid edilir?",
+  answer: "A)	Həmin vəsaitin məbləği işçinin vergi tutulan gəlirlərinə aid edilir.",
+  options: [
+    "A)	Həmin vəsaitin məbləği işçinin vergi tutulan gəlirlərinə aid edilir",
+    "B)	Həmin vəsaitin məbləği işçinin vergi tutulan gəlirlərinə aid edilmir",
+    "C)	Həmin vəsaitin 100 manatadək olan hissəsi işçinin vergi tutulan gəlirlərinə aid edilmir",
+    "D)	Həmin vəsaitin 50%-i işçinin vergi tutulan gəlirlərinə aid edilir"
+  ]
+},
+                              {
+  numb: 22,
+  question: "Faktiki ezamiyyə xərclərinin, habelə Azərbaycan Res. Nazirlər Kabineti tərəfindən müəyyən edilmiş dəniz nəqliyyatında ezamiyyə xərcləri əvəzinə üzücü heyətin üzvlərinə sutkalıq ödənişlərin və ya digər işgüzar xərclərin əvəzinin ödənilməsi hansı gəlirə daxildir?",
+  answer: "B)	Gəlirə daxil deyildir",
+  options: [
+    "A)	Sahibkarlıq fəaliyyətindən gəlirə ",
+    "B)	Gəlirə daxil deyildir",
+    "C) Muzdlu işlə əlaqədar alınan gəlirə",
+    "D) Qeyri- sahibkarlıq fəaliyyətindən gəlirə"
+  ]
+},
+{
+  numb: 23,
+  question: "Vergi Məcəlləsinin 98.2-ci maddəsində göstərilən məbləğlərə və xərclərə aksizlər, əlavə dəyər vergisi və qiymətləndirilən əqdlə əlaqədar işəgötürənin ödəməli olduğu hər hansı digər vergi	",
+  answer: "C) Muzdlu işlə əlaqədar alınan gəlirə daxildir",
+  options: [
+    "A)	Sahibkarlıq fəaliyyətindən gəlirə daxildir ",
+    "B)	Gəlirə daxil deyildir",
+    "C) Muzdlu işlə əlaqədar alınan gəlirə daxildir",
+    "D) Aksizsiz və ƏDV-siz gəlirə daxildir"
+  ]
+},
+{
+  numb: 24,
+  question: "İşəgötürən tərəfindən əyləncə və yemək xərclərinin [müvafiq icra hakimiyyəti orqa¬nı tərəfindən müəyyən edilmiş normalar daxilində müalicə-profilaktik yeməklərə, süd və ona bərabər tutulan digər məhsullara və vasitələrə sərf olunan xərclər, həmçinin dəniz nəqliy-yatında üzücü heyətə verilən yemək xərcləri istisna olmaqla], habelə işçilərin mənzil və digər sosial xarakterli xərclərinin çəkilməsinin nəticəsi kimi əldə edilən gəlir vergi tutulan gəlirə aiddirmi?",
+  answer: "D)	Vergi tutulan gəlirə aid deyildir",
+  options: [
+    "A)	Qeyri- sahibkarlıq fəaliyyətindən gəlirə aiddir",
+    "B)	Sahibkarlıq fəaliyyətindən gəlirə aiddir",
+    "C)	Vergilərdən azad edilən gəlirlərdən və əsas vəsaitlərin (vəsaitin) yenidən qiymətləndiril-məsindən yaranan artımdan başqa digər gəlirlərə aiddir",
+    "D)	Vergi tutulan gəlirə aid deyildir"
+  ]
+},
+{
+  numb: 25,
+  question: "Muzdlu işə aid olmayan fəaliyyətdən gəlirlər hansı gəlirlərdən ibarətdir?",
+  answer: "C)	Sahibkarlıq və qeyri-sahibkarlıq fəaliyyətindən əldə edilən gəlirlərdən",
+  options: [
+    "A)	Yalnız sahibkarlıq fəaliyyətindən əldə edilən gəlirlərdən",
+    "B)	Yalnız qeyri-sahibkarlıq fəaliyyətindən əldə edilən gəlirlərdən",
+    "C)	Sahibkarlıq və qeyri-sahibkarlıq fəaliyyətindən əldə edilən gəlirlərdən",
+    "D)	Belə bir bölgü nəzərdə tutulmayıb"
+  ]
+},
+{
+  numb: 26,
+  question: "Aşağıdakılardan hansı sahibkarlıq fəaliyyətindən gəlirə aiddir?",
+  answer: "A) Sahibkarhq fəaliyyəti məqsədləri üçün istifadə olunan aktivlərin təqdim edilməsindən gəlir",
+  options: [
+    "A) Sahibkarhq fəaliyyəti məqsədləri üçün istifadə olunan aktivlərin təqdim edilməsindən gəlir",
+    "B) Sahibkarlıq fəali məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən gəlir ",
+    "C) Əsas vəsaitlərin köhnəlməsindən əldə olunan gəlir",
+    "D) Faiz gəliri"
+  ]
+},
+{
+  numb: 27,
+  question: "Aşağıdakılardan hansı sahibkarlıq fəaliyyətindən gəlirə aiddir?",
+  answer: "B)	Sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına və ya müəssisənin bağlanmasına razılıq verilməsinə görə alınan gəlir",
+  options: [
+    "A)	Sahibkarlıq fəali məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən gəlir",
+    "B)	Sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına və ya müəssisənin bağlanmasına razılıq verilməsinə görə alınan gəlir",
+    "C)	Faiz gəliri",
+    "D)	Heç biri"
+  ]
+},
+{
+  numb: 28,
+  question: "Aşağıdakılardan hansı sahibkarlıq fəaliyyətindən gəlirə aiddir?",
+  answer: "D)	Əsas vəsaitlərin təqdim edilməsindən ahnan məbləğ həmin əsas vəsaitlərin (vəsaitin) qalıq dəyərindən artıqdırsa, yaranmış fərq",
+  options: [
+    "A)	Sahibkarlıq fəaliyyəti məqsədləri üçün istifadə olunmayan aktivlərin təqdim edilməsindən və sahibkarlıq fəaliyyətinin məhdudlaşdırılmasına görə ahnan gəlir",
+    "B)	Dividend gəliri",
+    "C)	Faiz gəliri",
+    "D)	Əsas vəsaitlərin təqdim edilməsindən ahnan məbləğ həmin əsas vəsaitlərin (vəsaitin) qalıq dəyərindən artıqdırsa, yaranmış fərq"
+  ]
+},
+{
+  numb: 23,
   question: "Самвопрос",
   answer: "ОтветПравильный",
   options: [
@@ -230,7 +318,139 @@ let questions = [
     "4ответ"
   ]
 },
-                              {
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
+  numb: 23,
+  question: "Самвопрос",
+  answer: "ОтветПравильный",
+  options: [
+    "1ответ",
+    "2ответ",
+    "3ответ",
+    "4ответ"
+  ]
+},
+{
   numb: 23,
   question: "Самвопрос",
   answer: "ОтветПравильный",
