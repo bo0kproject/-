@@ -276,36 +276,113 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 26,
+  question: "Qiymətli daşlardan və metallardan, qiymətli daşlar və metalların məmulatlarından, incəsənət əsərlərindən, əntiq əşyalardan və vergi ödəyicisinin sahibkarlıq fəaliyyətində isti¬fadə edilən və ya istifadə edilmiş əmlakdan başqa daşman maddi əmlakın təqdim edilməsin¬dən əldə edilən gəlir hansı qaydada gəlir vergisinə cəlb edilir?",
+  answer: "C)	Əldə edilən gəlirdən vergi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	200 manatdan çox olan hissəsindən vergi tutulur",
+    "B)	50 faizi vergiyə cəlb olunur",
+    "C)	Əldə edilən gəlirdən vergi tutulmur",
+    "D)	Tam məbləğdən vergi tutulur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 27,
+  question: "Həyatın yığım sığortası və pensiya sığortası üzrə 3 ildən az olmayan müddətə bağ-lanan müqavilənin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra sığor-taçılara ödənilən hər hansı məbləğlərin hansı hissəsi vergiyə cəlb olunur?",
+  answer: "D)	Sığortaolunanın vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsi gəlir vergisindən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	1000 manatdan artıq olan hissəsi",
+    "B) 2000 manatdan artıq olan hissəsi",
+    "C)	3000 manatdan artıq olan hissəsi",
+    "D)	Sığortaolunanın vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsi gəlir vergisindən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 28,
+  question: "Fiziki şəxsə dəymiş zərərlərin ödənilməsi ilə bağlı alınan kompensasiya ödənişləri gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "A)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergidən azaddır",
+    "B)	200 manatdan çox olan hissəsindən vergi tutulur",
+    "C)	Tam məbləğdə vergi tutulur",
+    "D)	Kompensasiya ödənişlərinin 50 faizi vergiyə cəlb olunur"
+  ]
+},
+{
+  numb: 29,
+  question: "Fiziki şəxslərin bilavasitə kənd təsərrüfatı məhsullarının istehsalından əldə etdikləri gəlirləri gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "A) Vergidən azaddır",
+  options: [
+    "A) Vergidən azaddır",
+    "B) 200 manatdan çox olan hissəsindən vergi tutulur",
+    "C) gəlirin 50 faizi vergiyə cəlb olunur ",
+    "D) tam məbləğdən vergi tutulur"
+  ]
+},
+{
+  numb: 30,
+  question: "Ağac materiallardan məişət alətlərinin hazırlanması sahəsində fəaliyyət göstərən fi-ziki şəxslərin gəliri hansı qaydada vergiyə cəlb olunur?",
+  answer: "A)	Vergidən azaddır",
+  options: [
+    "A)	Vergidən azaddır",
+    "B)	Vergiyə cəlb edilən gəlir 30 manat azaldılır",
+    "C) 100 manatdan artıq olan hissəsindən vergi tutulur",
+    "D) bələdiyyələr tərəfindən müəyyənləşdirilir"
+  ]
+},
+{
+  numb: 31,
+  question: "Fiziki şəxslərin xalq musiqi alətlərinin istehsalından əldə etdikləri gəlirləri gəlir vergisinə necə cəlb olunur?",
+  answer: "B)	Vergi tutulmur",
+  options: [
+    "A)	Gəlirin 50 faizi vergiyə cəlb ",
+    "B)	Vergi tutulmur",
+    "C) Tam məbləğdən vergi tutulur",
+    "D) 200 manatdan çox olan hissəsindən vergi tutulur"
+  ]
+},
+{
+  numb: 32,
+  question: "Fiziki şəxslərə kompensas. xarakt ödəm, gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "A)	gəlir vergisindən azaddır",
+  options: [
+    "A)	Gəlir vergisindən azaddır",
+    "B)	Gəlir vergiyə cəlb olunur",
+    "C)	Kompensasiyanın xarekterindən asılı olaraq vergiyə cəlb edilə bilər",
+    "D)	Ödənilmiş kompensasiyanın 200 manatdan çox olan hissəsi vergiyə cəlb olunur"
+  ]
+},
+{
+  numb: 33,
+  question: "Nazirlər Kabinetinin qərarı ilə müəyyən edilmiş ezamiyyə xərclərinin məbləğləri gəlir vergisinə necə cəlb olunur?",
+  answer: "A) Cəlb olunmur",
+  options: [
+    "A) Cəlb olunmur",
+    "B) 10 faizi",
+    "C) 14 faizi",
+    "D) 50 faizi"
+  ]
+},
+{
+  numb: 34,
+  question: "Ağır, zərərli və təhlükəli istehsalatlarda işçilərin tibbi müayinədən keçirilməsi üçün işəgötürənin hesabına qanunvericiliklə müəyyən edilmiş qaydada ödənilmiş xərc məbləğləri gəlir vergisinə cəlb olunurmu?",
+  answer: "D)	Gəlir vergisindən azaddır",
+  options: [
+    "A)	200 manatdan çox olan hissəsi vergiyə cəlb olunur",
+    "B)	Ümumi qaydada vergiyə cəlb olunur",
+    "C)	100 manatdan çox olan hissəsi vergiyə cəlb olunur",
+    "D)	Gəlir vergisindən azaddır"
+  ]
+},
+{
+  numb: 35,
+  question: "Əmək şəraiti zərərli, ağır olan və yeraltı işlərdə çalışan işçilərə verilən pulsuz müalicə-profilaktik yeməklər, süd və ona bərabər tutulan digər məhsulların dəyəri və işçilərə müəyyən edilmiş müddətlərdə və tələb olunan çeşidlərdə verilən xüsusi geyim, xüsusi ayaqqabı və digər fərdi mühafizə vasitələrinin dəyəri gəlir vergisinə cəlb olunurmu?",
+  answer: "C)	Gəlir vergisindən azaddır",
+  options: [
+    "A)	Bazar qiyməti ilə dəyəri vergiyə cəlb olunur",
+    "B)	Ümumi qaydada vergiyə cəlb olunur",
+    "C)	Gəlir vergisindən azaddır",
+    "D)	200 manatdan çox olan hissəsi vergiyə cəlb olunur"
   ]
 },
 {
