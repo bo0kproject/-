@@ -41,8 +41,7 @@ h1 {
   color: #fff;
   position: relative;
   display: inline-block;
-  max-height: 70px;
-  min-height: 70px;
+  height: 70px;
   text-align: center;
 }
 
