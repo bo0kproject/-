@@ -171,7 +171,7 @@ let questions = [
     ]
   },
         {
-    numb: 15,
+    numb: 16,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -182,7 +182,7 @@ let questions = [
     ]
   },
             {
-    numb: 15,
+    numb: 17,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -193,7 +193,7 @@ let questions = [
     ]
   },
                 {
-    numb: 15,
+    numb: 18,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -204,7 +204,7 @@ let questions = [
     ]
   },
                     {
-    numb: 15,
+    numb: 19,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -215,7 +215,7 @@ let questions = [
     ]
   },
                         {
-    numb: 15,
+    numb: 21,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -226,7 +226,7 @@ let questions = [
     ]
   },
                             {
-    numb: 15,
+    numb:22,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
@@ -237,7 +237,7 @@ let questions = [
     ]
   },
                                 {
-    numb: 15,
+    numb: 23,
     question: "Самвопрос",
     answer: "ОтветПравильный",
     options: [
