@@ -2,7 +2,7 @@
 let questions = [
   {
   numb: 1,
-  question: "Вопрос номер 1?",
+  question: "46.	Muzdlu işçi kimi cəlb etmədiyi fiziki şəxslərə hüquqi şəxslər və ya fərdi sahibkarlar tərəfindən ödənilən maddi yardım, mükafat və təqaüdlərdən gəlir vergisi necə tutulur?",
   answer: "1",
   options: [
     "1",
