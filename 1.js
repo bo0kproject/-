@@ -363,25 +363,25 @@ let questions = [
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 34,
+  question: "Vergi Məcəlləsində xüsusi notariusların gəlirləri hansı növ gəlirlərə aid edilir?",
+  answer: "B)	Qeyri-sahibkarlıq fəaliyyətindən gəlirlərə",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A)	Sahibkarlıq fəaliyyətindən gəlirlərə",
+    "B)	Qeyri-sahibkarlıq fəaliyyətindən gəlirlərə",
+    "C)	Muzdlu işlə əlaqədar əldə edilən gəlirlərə",
+    "D)	Sahibkarlıq, qeyri-sahibkarlıq fəaliyyətindən və muzdlu işlə əlaqədar əldə edilən gəlirlər¬dən başqa digər gəlirlərə"
   ]
 },
 {
-  numb: 23,
-  question: "Самвопрос",
-  answer: "ОтветПравильный",
+  numb: 35,
+  question: "Xüsusi notariuslar aşağıdakı vergilərdən hansının ödəyicisi sayıla bilər?",
+  answer: "D) Gəlir vergisinin",
   options: [
-    "1ответ",
-    "2ответ",
-    "3ответ",
-    "4ответ"
+    "A) ƏDV",
+    "B) Sadələşdirilmiş ",
+    "C) Yol",
+    "D) Gəlir vergisinin"
   ]
 },
 {
