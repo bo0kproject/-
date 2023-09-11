@@ -423,10 +423,10 @@ let questions = [
   question: "Aşağıdakı şəxslərdən kim vergi ödəyicisinin himayəsində olanlara aid edilmir?",
   answer: "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı",
   options: [
-   "A)	Vergi ödəyicisinin işsizlik müavinəti almayan arvadı [əri]"
-   "B)	Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı"
-   "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı"
-   "D)	Vergi ödəyicisinin 17 yaşlı uşağı"
+   "A) Vergi ödəyicisinin işsizlik müavinəti almayan arvadı [əri]"
+   "B) Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı"
+   "C) Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı",
+   "D) Vergi ödəyicisinin 17 yaşlı uşağı"
   ]
 },
   {
