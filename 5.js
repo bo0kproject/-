@@ -210,36 +210,91 @@ let questions = [
   ]
 },
 {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "“Məşğulluq haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq Azərbaycan Respublikası Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Daya- - ıqlı və Operativ Sosial Təminat Agentliyinin haqqı ödənilən ictimai işlərin təşkili ilə bağlı Aaliyyətdən əldə etdiyi gəlirdən vergi hansı qaydada tutulur?",
+  answer: "B)	Vergi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada",
+    "B)	Vergi tutulmur",
+    "C)	Gəlirlərinin 50 faizi vergidən azaddır",
+    "D)	gəlirlərinin 75 faizi vergidən azaddır"
   ]
 },
 {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən lüəyyən olunmuş qaydada dövlət büdcəsinin vəsaiti hesabına ödənilən ixrac təşviqi vergiyə -ecə cəlb olunur?",
+  answer: "D)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada",
+    "B)	Gəlirlərinin 75 faizi vergidən azaddırr",
+    "C)	Gəlirlərinin 50 faizi vergidən azaddır",
+    "D)	Vergidən azaddır"
   ]
 },
 {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Lotereya biletlərinin satıcısı ilə bağlanmış müqavilə əsasında və ya onun tapşırığı əsasında lotereya biletlərinin bütün mərhələlərdə agent qaydasında satışının həyata keçirilməsi üzrə göstərilən xidmətlərdən əldə olunan gəlirlər vergi necə tutulur?",
+  answer: "D)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada",
+    "B)	Gəlirlərinin 75 faizi vergidən azaddırr",
+    "C)	Gəlirlərinin 50 faizi vergidən azaddır",
+    "D)	Vergidən azaddır"
+  ]
+},
+  {
+  numb: 23,
+  question: "Əlilliyi olan şəxslərin qeyri-hökumət təşkilatlarına məxsus olan, işçilərinin ümumi sayının azı neçə faizi əlilliyi olan şəxslərdən ibarət olan istehsal müəssisələrinə mənfəət vergisindən 50 faiz güzəşt verilir?",
+  answer: "D) 50 faizi",
+  options: [
+    "A) 30 faizi",
+    "B) 25 faizi",
+    "C) 75 faizi",
+    "D) 50 faizi"
+  ]
+},
+{
+  numb: 24,
+  question: "Əlilliyi olan şəxslərin qeyri-hökumət təşkilatlarına məxsus olan, işçilərinin ümumi sayının azı 50 faizi əlilliyi olan şəxslərdən ibarət olan istehsal müəssisələrinə mənfəət vergisindən neçə faiz güzəşt verilir?",
+  answer: "B) 50 faizi ",
+  options: [
+    "A) 30 faizi ",
+    "B) 50 faizi ",
+    "C) 75 faizi ",
+    "D) 25 faizi "
+  ]
+},
+{
+  numb: 25,
+  question: "Pərakəndə satış qaydasında malların satışının həyata keçirilməsi üzrə ticarət fəaliyyəti və (və ya) ictimai iaşə fəaliyyəti ilə məşğul olan hüquqi şəxslər tərəfindən büdcəyə ödənilməli olan mənfəət vergisinin məbləği necə hesablanır?",
+  answer: "C)	POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin (vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlər istisna olmaqla) ümumi gəlirdəki xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+  options: [
+    "A)	Ümumi qaydada",
+    "B)	POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi gəlirdəki xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+    "C)	POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin (vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlər istisna olmaqla) ümumi gəlirdəki xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+    "D)	POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin (vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlər istisna olmaqla) ümumi gəlirdəki xüsusi çəkisinə uyğun müəyyən edilən verginin 75 faizi həcmində azaldılır"
+  ]
+},
+{
+  numb: 26,
+  question: "Pərakəndə satış qaydasında malların satışının həyata keçirilməsi üzrə ticarət fəaliyyəti və (və ya) ictimai iaşə fəaliyyəti ilə məşğul olan hüquqi şəxslərə POSterminal vasitəsilə nağdsız qaydada aparılan ödənişlərə görə güzəşt neçə il müddətinə nəzərdə tutulub?",
+  answer: "C) 2019-cu il yanvarın 1-dən 3 il müddətinə",
+  options: [
+    "A) 2019-cu il yanvarın 1-dən 5 il müddətinə",
+    "B) 2019-cu il yanvarın 1-dən 10 il müddətinə",
+    "C) 2019-cu il yanvarın 1-dən 3 il müddətinə",
+    "D) Müddətsiz"
+  ]
+},
+{
+  numb: 27,
+  question: "Qanunla müəyyən olunmuş qaydada gəlirlərin və xərclərin uçotunu aparan, ƏDV- nin məqsədləri üçün qeydiyyata alınmayan və əməliyyatlarının həcmi ardıcıl 12 aylıq dövrün istənilən ayında (aylarında) 200.000 manatadək rezident müəssisənin təsisçisi (payçısı) və yaxud səhmdarları olan hüquqi şəxslərin dividend gəlirləri vergiyə necə cəlb olunur?",
+  answer: "D)	Vergidən azaddır",
+  options: [
+    "A)	Ümumi qaydada",
+    "B)	dividend gəlirlərinin 75 faizi vergidən azaddır",
+    "C)	dividend gəlirlərinin 50 faizi vergidən azaddır",
+    "D)	Vergidən azaddır"
   ]
 },
 ];
