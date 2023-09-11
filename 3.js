@@ -452,4 +452,48 @@ let questions = [
     "4"
   ]
 },
+   {
+  numb: 6,
+  question: "Вопрос номер 1?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+   {
+  numb: 6,
+  question: "Вопрос номер 1?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+   {
+  numb: 6,
+  question: "Вопрос номер 1?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+   {
+  numb: 6,
+  question: "Вопрос номер 1?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
 ];
