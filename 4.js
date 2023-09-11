@@ -265,47 +265,47 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Vergi Məcəlləsi ilə müəyyən olunmuş qaydada gəlirlərin və xərclərin uçotunu aparan mikro sahibkarlıq subyekti olan hüquqi şəxslərin sahibkarlıq fəaliyyətindən əldə etdikləri mənfəətindən vergi hansı qaydada tutulur?",
+  answer: "D)	Sahibkarlıq fəaliyyətindən əidə etdikləri mənfəətin 75 faizi vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada",
+    "B)	Vergi tutulmur",
+    "C)	Sahibkarlıq fəaliyyətindən əldə etdikləri mənfəətin 50 faizi vergidən azaddır",
+    "D)	Sahibkarlıq fəaliyyətindən əidə etdikləri mənfəətin 75 faizi vergidən azaddır"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "KOB klaster şirkətinin mənfəəti - KOB klaster şirkətinin KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən neçə il müddətinə vergidən azaddır?",
+  answer: "B) 7 il ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 5 il",
+    "B) 7 il",
+    "C) 10 il",
+    "D) 3 il"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+  numb: 27,
+  question: "КОВ klasterin iştirakçısı olan hüquqi şəxsin KOB klaster şirkəti ilə bağlanmış müqavilə əsasında təqdim etdiyi mal (iş, xidmət) üzrə əldə etdiyi mənfəətin kapital xarakterli xərclərin çəkilməsinə yönəldilən hissəsi neçə il müddətinə vergidən azaddır?",
+  answer: "A) 7 il ",
+  options: [    
+    "A) 7 il",
+    "B) 5 il",
+    "C) 10 il",
+    "D) 3 il "
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Mikro və ya kiçik sahibkarlıq subyekti olan və hüquqi şəxs kimi fəaliyyət göstərən «tartaplarm “Startap” şəhadətnaməsi aldığı tarixdən innovasiya fəaliyyətindən əldə etdikləri mənfəəti neçə il müddətinə vergidən azaddır?",
+  answer: "A) 3 il ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 3 il ",
+    "B) 5 il",
+    "C) 10 il",
+    "D) Müddətsiz"
   ]
 },
 ];
