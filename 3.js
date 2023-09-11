@@ -442,58 +442,80 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 40,
+  question: "Təqaüd, pensiya və işsizlik müavinəti alan şəxslər (uşaqlardan başqa) vergi ödəyicisinin himayəsində olanlara aid edilirlərmi?",
+  answer: "B)	Aid edilmirlər ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aid edilirlər ",
+    "B)	Aid edilmirlər ",
+    "C) Belə bir hal nəzərdə tutulmayıb",
+    "D) Müstəsna hallarda aid edilə bilərlər"
   ]
 },
    {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 41,
+  question: "Aşağıdakı şəxslərdən kim vergi ödəyicisinin himayəsində olanlara aid edilmir?",
+  answer: "A)	Dövlət təminatında olan şəxslər (pensiya alanlar, uşaq və körpə evlərində tərbiyə alanlar)",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Dövlət təminatında olan şəxslər (pensiya alanlar, uşaq və körpə evlərində tərbiyə alanlar)",
+    "B)	Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı",
+    "C)	Dövlət təminatında olan şəxslər (xəstələr, uşaq və körpə evlərində tərbiyə alanlar)",
+    "D)	Vergi ödəyicisinin 17 yaşlı uşağı"
   ]
 },
    {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 42,
+  question: "Dövlət təminatında olan şəxslər ( uşaq və körpə evlərində tərbiyə alanlar) vergi ödəyicisinin himayəsində olanlara aid edilirlərmi?",
+  answer: "B)	Aid edilmirlər ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aid edilirlər ",
+    "B)	Aid edilmirlər ",
+    "C) Belə bir hal nəzərdə tutulmayıb",
+    "D) Müstəsna hallarda aid edilə bilərlər"
   ]
 },
    {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 43,
+  question: "Xüsusi məktəblərin şagirdləri və internat evlərində olan, saxlanmasına görə qəyyumlardan haqq alınmayan uşaqlar, habelə tam dövlət təminatındakı məktəblər yanında internatlarda olan uşaqlar vergi ödəyicisinin himayəsində olanlara aid edilirlərmi?",
+  answer: "C) Aid edilmirlər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aid edilirlər",
+    "B)	Belə bir hal nəzərdə tutulmayıb",
+    "C) Aid edilmirlər",
+    "D) Müstəsna hallarda aid edilə bilərlər"
   ]
 },
    {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 44,
+  question: "Fiziki şəxsin Məcəllənin 102.2-ci, 102.3-cü və 102.4-cü maddələri üzrə güzəşt hüququ olduqda, ona bu güzəştlərdən hansı verilir?",
+  answer: "B)	Məbləğcə ən böyük olanı verilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Məbləğcə ən kiçik olanı verilir",
+    "B)	Məbləğcə ən böyük olanı verilir",
+    "C)	Fiziki şəxsin istəyinə görə verilir",
+    "D)	Hamısı verilir"
+  ]
+},
+   {
+  numb: 45,
+  question: "Əmək haqqından tutulan vergi hesablanarkən fiziki şəxslərin vergi güzəştləri hüququ nə vaxtdan tətbiq edilir?",
+  answer: "C)	Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan",
+  options: [
+    "A)	Güzəşt almaq üçün vergi ödəyicisi tərəfindən ərizənin verildiyi andan",
+    "B)	Fiziki şəxsin işə başladığı gündən",
+    "C)	Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan",
+    "D)	Bu vaxt işəgötürən tərəfindən müəyyənləşdirilir."
+  ]
+},
+  {
+  numb: 46,
+  question: "Fiziki şəxsin bu maddədə sadalanan vergi güzəştlərini əldə etməyə əsas verən statusu olduğu, lakin güzəşt hüququnu təsdiq edən müvafiq sənədləri əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindikdən sonra təqdim etdiyi halda vergi güzəşti hansı tarixdən hesablanır?",
+  answer: "B)	Həmin fiziki şəxsin əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindiyi tarixdən",
+  options: [
+    "A)	Güzəşt almaq üçün vergi ödəyicisi tərəfindən ərizənin verildiyi andan",
+    "B)	Həmin fiziki şəxsin əmək müqaviləsi (kontraktı) hüquqi qüvvəyə mindiyi tarixdən",
+    "C)	Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyənləşdirilmiş sənədlərin təqdim edildiyi andan",
+    "D)	Bu vaxt işəgötürən tərəfindən müəyyənləşdirilir."
   ]
 },
 ];
