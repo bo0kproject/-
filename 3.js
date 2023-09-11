@@ -427,7 +427,6 @@ let questions = [
    "B)	Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı"
    "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı"
    "D)	Vergi ödəyicisinin 17 yaşlı uşağı"
-
   ]
 },
   {
