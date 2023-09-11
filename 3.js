@@ -210,17 +210,6 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
   numb: 20,
   question: "Mikro və ya kiçik sahibkarlıq subyekti olan və fərdi sahibkar kimi fəaliyyət göstərən startaplarm “Startap” şəhadətnaməsi aldığı tarixdən innovasiya fəaliyyətindən əldə etdikləri gəlir neçə il müddətinə vergidən azaddır?",
   answer: "D) 3 il",
