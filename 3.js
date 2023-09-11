@@ -243,201 +243,202 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 22,
+  question: "“Məşğulluq haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq Azərbaycan Respublikası Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Dayanıqlı və Operativ Sosial Təminat Agentliyinin haqqı ödənilən ictimai işlərə cəlb etdiyi işçilərinin bu fəaliyyətlə əlaqədar gəlirlərinə neçə faiz azadolma tətbiq edilir?",
+  answer: "B)	Tam azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	75%",
+    "B)	Tam azaddır",
+    "C)	50%",
+    "D)	10%"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 23,
+  question: "Müvafıq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş qaydada dövlət büdcəsinin vəsaiti hesabına ödənilən ixrac təşviqi gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "B)	Tam azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	75% vergiyə cəlb olunur",
+    "B)	Tam azaddır",
+    "C)	50% vergiyə cəlb olunur",
+    "D)	Ümumi qaydada"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 24,
+  question: "Lotereya biletlərinin satıcısı ilə bağlanmış müqavilə əsasında və ya onun tapşırığı əsasında lotereya biletlərinin bütün mərhələlərdə agent qaydasında satışının həyata keçirilməsi üzrə göstərilən xidmətlərdən əldə olunan gəlirlər gəlir vergisinə hansı qaydada cəlb olunur?",
+  answer: "B)	Azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	75% vergiyə cəlb olunur",
+    "B)	Azaddır",
+    "C)	50% vergiyə cəlb olunur",
+    "D)	Ümumi qaydada"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 25,
+  question: "Aşağıdakı hansı fiziki şəxslərin hər hansı muzdlu işdən vergi tutulmalı olan aylıq gəliri 400 manat məbləğində azaldılır:1.	həlak olmuş, yaxud sonralar vəfat etmiş döyüşçülərin valideynləri, habelə vəzifələrinin icrası zamanı həlak olmuş dövlət qulluqçularının valideynləri və arvadları (ərləri). Bu şəxslərin arvadlarına (ərlərinə) güzəşt o halda verilir ki, onlar təkrar nikaha girmiş olmasınlar 2.	Azərbaycan Respublikasının Milli Qəhrəmanlarının 3.	Əfqanıstana və döyüş əməliyyatları aparılan başqa ölkələrə göndərilmiş hərbi qulluqçular və təlim-yoxlama toplanışlarına çağırılmış hərbi vəzifəlilər 4.	Sovet İttifaqı və Sosialist Əməyi Qəhrəmanlarının 5.	həlak olmuş, yaxud sonralar vəfat etmiş döyüşçülərin dul arvadlarının və övladlarının",
+  answer: "D) 2,4,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3 ",
+    "B) 1,2,4 ",
+    "C) 3,4,5 ",
+    "D) 2,4,5"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 26,
+  question: "Müharibə ilə əlaqədar əlilliyi olan şəxslərin hər hansı muzdlu işdən əldə etdikləri aylıq gəlirinin hansı məbləğindən vergi tutulur?",
+  answer: "C)	400 manatdan çox olan hissəsindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bütün məbləğdən vergi tutulmur",
+    "B)	Gəlirin 30 faizi vergiyə cəlb olunur",
+    "C)	400 manatdan çox olan hissəsindən",
+    "D)	100 manatdan çox olan hissəsindən"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 27,
+  question: "Həlak olmuş, yaxud sonralar vəfat etmiş döyüşçülərin övladlarına hansı məbləğdə güzəşt hüququ verilir?",
+  answer: "C)	400 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Güzəşt verilmir",
+    "B)	200 manat",
+    "C)	400 manat",
+    "D)	100 manat"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 28,
+  question: "1941-1945-ci illərdə arxa cəbhədə fədakar əməyinə görə medallar ilə təltif edilmiş şəxslərin hər hansı muzdlu işdən əldə etdikləri gəlirləri gəlir vergisinə necə cəlb olunur?",
+  answer: "C)	400 manatdan çox olan hissəsi cəlb edilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlirin 50 faizindən vergi tutulur",
+    "B)	Vergi tutulmur",
+    "C)	400 manatdan çox olan hissəsi cəlb edilir",
+    "D)	200 manatdan çox olan hissəsi cəlb edilir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 29,
+  question: "Müharibə veteranı adı almış şəxslərin hər hansı muzdlu işdən əldə etdikləri ayhq gəlirin hansı məbləğindən vergi tutulur?",
+  answer: "D)	400 manatdan çox olan hissəsindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Şərti maliyyə vahidinin 300 mislindən çox olan hissəsindən",
+    "B)	Gəlirin 50 faizindən",
+    "C)	Bütün məbləğdən vergi tutulmur",
+    "D)	400 manatdan çox olan hissəsindən"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 30,
+  question: "Çernobıl AES-də qəza nəticəsində şüa xəstəliyinə tutulmuş şəxslərin hər hansı muzdlu işdən əldə etdikləri aylıq gəlirinin hansı məbləğindən vergi tutulur?",
+  answer: "D)	400 manatdan çox olan hissəsindən vergi tutulur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Şərti maliyyə vahidinin 300 mislindən çox olan hissəsindən",
+    "B)	Gəlirin 50 faizindən",
+    "C)	Bütün məbləğdən vergi tutulmur",
+    "D)	400 manatdan çox olan hissəsindən vergi tutulur"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 31,
+  question: "Orqanizmin funksiyalarının 61-100 faiz pozulmasına görə əlilliyi olan şəxslərin [müharibə ilə əlaqədar əlilliyi olan şəxslərdən başqa] hər hansı muzdlu işdən əldə etdikləri ayhq gəlirinin hansı məbləğindən vergi tutulur?",
+  answer: "D)	200 manatdan çox olan hissəsindən vergi tutulur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	400 manatdan çox olan hissəsindən vergi tutulur",
+    "B)	100 manatdan çox olan hissəsindən vergi tutulur",
+    "C)	Gəlirin tam məbləği vergiyə cəlb olunur",
+    "D)	200 manatdan çox olan hissəsindən vergi tutulur"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 32,
+  question: "122.	Aşağıdakı hansı fiziki şəxslərin hər hansı muzdlu işdən vergi tutulmalı olan ayhq gəliri 100 manat məbləğində azaldılır? 1.	həlak olmuş, yaxud sonralar vəfat etmiş döyüşçülərin valideynləri, habelə vəzifələrinin icrası zamanı həlak olmuş dövlət qulluqçularının valideynləri və arvadları [ərləri]. [Bu şəxslərin arvadlarına [ərlərinə] güzəşt o halda verilir ki, onlar təkrar nikaha girmiş olmasınlar] 2.	müharibə əlilləri 3.	sağlamlığının 75%-i pozulmuş əlil olan şəxslər [müharibə ilə əlaqədar əlilliyi olan şəxslərdən başqa] 4.	1990-cı il yanvarın 20-də SSRİ qoşunlarının müdaxiləsi nəticəsində, habelə Azərbaycan Res. ərazi bütövlüyünün müdafiəsi zamanı həlak olmuş şəxslərin valideynləri və arvadları [ərləri]. [Bu şəxslərin arvadlarına [ərlərinə] güzəşt o halda verilir ki, onlar təkrar nikaha girmiş olmasınlar] 5.	Əfqanıstana və döyüş əməliyyatları aparılan başqa ölkələrə göndərilmiş hərbi qulluqçular və təlim-yoxlama toplanışlarına çağırılmış hərbi vəzifəlilər",
+  answer: "D) 1,4,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,3,5",
+    "B) 2,3,4",
+    "C) 2,4,5",
+    "D) 1,4,5"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 33,
+  question: "Daimi qulluq tələb edən sağlamlıq imkanları məhdud uşağa və ya Orqanizmin funksiyalarının 81-100 faiz pozulmasına görə əlilliyi olan şəxsə baxan və onunla yaşayan valideynlərdən birinin [özlərinin istəyi ilə], arvad [ər], himayəçi və ya qəyyumun hər hansı muzdlu işdən vergi tutulmalı olan aylıq gəliri hansı məbləğdə azaldılır?",
+  answer: "B) 200 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 100 manat",
+    "B) 200 manat",
+    "C) 50 manat",
+    "D) 400 manat"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 34,
+  question: "Məcburi köçkünlərin və onlara bərabər tutulan şəxslərin hər hansı muzdlu işdən əldə etdikləri aylıq gəlirinin hansı məbləğindən vergi tutulur",
+  answer: "D)	100 manatdan çox olan hissəsindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	200 manatdan çox olan hissəsindən",
+    "B)	50 manatdan çox olan hissəsindən",
+    "C)	Gəlirin tam məbləği vergiyə cəlb olunur",
+    "D)	100 manatdan çox olan hissəsindən"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 35,
+  question: "Qohumluq dərəcəsindən asılı olmayaraq himayəsində azı 3 nəfər, o cümlədən gün-düz təhsil alan 23 yaşınadək şagirdlər və tələbələr olan ər və ya arvaddan birinin vergi tutul-malı olan aylıq gəliri nə qədər azaldılır?",
+  answer: "C) 50 manat ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 400 manat ",
+    "B) 200 manat ",
+    "C) 50 manat ",
+    "D) 100 manat"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 36,
+  question: "50 manat məbləğində güzəşt uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı ilin hansı dövrünədək verilir?",
+  answer: "D)	Uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı ilin sonunadək",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı aydan sonrakı ayın 1-dək",
+    "B)	Uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı aydan sonrakı ayın sonunadək",
+    "C)	Uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı aym sonunadək",
+    "D)	Uşaqların 18 yaşa, tələbələrin və şagirdlərin 23 yaşa çatdığı ilin sonunadək"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 37,
+  question: "Uşaqların və himayədəkilərin öldüyü hallarda güzəşt hansı müddətə verilir?",
+  answer: "A)	Ölüm ilinin sonunadək saxlanılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ölüm ilinin sonunadək saxlanılır",
+    "B)	Ölüm ayından sonrakı ayadək",
+    "C)	Ölüm aymadək",
+    "D)	Ölüm ayından 3 ay müddətində"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 38,
+  question: "Himayədə olanların sayı il ərzində azaldıqda (uşaqların ölüm halları istisna olmaq-la) hansı dövrdən başlayaraq onların saxlanması üçün məbləğin çıxılmasına xitam verilir",
+  answer: "D)	Himayədə olanların sayının azaldığı ilin sonunadək güzəşt hüququ saxlanılır.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Himayədə olanların sayının azaldığı aydan sonrakı aydan başlayaraq",
+    "B)	Himayədə olanların sayının azaldığı aydan başlayaraq",
+    "C)	Himayədə olanların sayının azaldığı aydan sonrakı 3 ay müddətiə",
+    "D)	Himayədə olanların sayının azaldığı ilin sonunadək güzəşt hüququ saxlanılır."
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  numb: 39,
+  question: "Aşağıdakı şəxslərdən kim vergi ödəyicisinin himayəsində olanlara aid edilmir?",
+  answer: "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+   "A)	Vergi ödəyicisinin işsizlik müavinəti almayan arvadı [əri]"
+   "B)	Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı"
+   "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı"
+   "D)	Vergi ödəyicisinin 17 yaşlı uşağı"
+
   ]
 },
   {
