@@ -415,7 +415,7 @@ let questions = [
     "A)	Himayədə olanların sayının azaldığı aydan sonrakı aydan başlayaraq",
     "B)	Himayədə olanların sayının azaldığı aydan başlayaraq",
     "C)	Himayədə olanların sayının azaldığı aydan sonrakı 3 ay müddətiə",
-    "D)	Himayədə olanların sayının azaldığı ilin sonunadək güzəşt hüququ saxlanılır."
+    "D)	Himayədə olanların sayının azaldığı ilin sonunadək güzəşt hüququ saxlanılır"
   ]
 },
   {
@@ -423,8 +423,8 @@ let questions = [
   question: "Aşağıdakı şəxslərdən kim vergi ödəyicisinin himayəsində olanlara aid edilmir?",
   answer: "C)	Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı",
   options: [
-   "A) Vergi ödəyicisinin işsizlik müavinəti almayan arvadı [əri]"
-   "B) Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı"
+   "A) Vergi ödəyicisinin işsizlik müavinəti almayan arvadı [əri]",
+   "B) Vergi ödəyicisinin gündüz təhsil alan 23 yaşınadək olan uşağı",
    "C) Vergi ödəyicisinin qiyabi təhsil alan 20 yaşlı uşağı",
    "D) Vergi ödəyicisinin 17 yaşlı uşağı"
   ]
