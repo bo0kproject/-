@@ -254,14 +254,14 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Vergi ödəyicisinin azı 3 (üç) il ərzində mülkiyyətində olan iştirak payının və ya səhmin təqdim edilməsindən əldə olunan gəlirlərindən vergi tutulurmu?",
+  answer: "C)	Gəlirlərinin 50 faizi vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2019-cü il yanvarın 1-dən 5 il müddətinə azaddır",
+    "B)	Vergi tutulmur",
+    "C)	Gəlirlərinin 50 faizi vergidən azaddır",
+    "D)	Gəlirlərinin 20 faizi vergidən azaddır"
   ]
 },
   {
