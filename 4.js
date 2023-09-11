@@ -111,146 +111,146 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 11,
+  question: "Hüquqi şəxsin nizamnamə kapitalmdakı iştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən yuxarı qiymətə təqdim edildikdə vergi¬tutma obyekti necə müəyyən olunur?",
+  answer: "D)	Faktiki təqdimetmə qiyməti ilə nizamnamə kapitalmdakı iştirak payının və ya səhmin nominal dəyəri arasındakı fərq vergiyə cəlb edilən mənfəətdir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nizamnamə kapitalmdakı iştirak payının nominal dəyəri vergiyə cəlb edilən mənfəətdir",
+    "B)	Faktiki təqdimetmə qiyməti vergiyə cəlb edilən mənfəətdir",
+    "C)	Vergitutma obyekti yaranmır vergiyə cəlb edilən mənfəətdir",
+    "D)	Faktiki təqdimetmə qiyməti ilə nizamnamə kapitalmdakı iştirak payının və ya səhmin nominal dəyəri arasındakı fərq vergiyə cəlb edilən mənfəətdir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 12,
+  question: "İştirak payı və ya səhmlər xalis aktivlərin iştirak payı və ya səhmlərə mütənasib dəyərindən aşağı qiymətə (güzəştli qiymətlə) təqdim edildikdə vergitutma obyekti necə müəyyən olunur?",
+  answer: "C)	Alqı-satqı müqaviləsinin bağlanıldığı tarixə xalis aktivlərin mütənasib dəyən ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən mənfəətdir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Alqı-satqı müqaviləsinin bağlanıldığı tarixə nizamnamə kapitalındakı iştirak payının nominal dəyəri vergiyə cəlb edilən mənfəətdir",
+    "B)	Xalis aktivlərin mütənasib dəyəri ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən mənfəətdir",
+    "C)	Alqı-satqı müqaviləsinin bağlanıldığı tarixə xalis aktivlərin mütənasib dəyən ilə nizamnamə kapitalındakı iştirak payının nominal dəyəri arasındakı fərq vergiyə cəlb edilən mənfəətdir",
+    "D)	Alqı-satqı müqaviləsinin bağlanıldığı tarixə xalis aktivlərin mütənasib dəyəri vergiyə cəlb edilən mənfəətdir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 13,
+  question: "İştirak paylan və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, hə¬min iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər nəzərə almırını?",
+  answer: "B)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nəzərə alınmır",
+    "B)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin faktiki satınalma qiyməti ilə nəzərə alınır.",
+    "C)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin nominal qiyməti ilə nəzərə alınır.",
+    "D)	İştirak payları və ya səhmlər nominal qiymətdən yuxarı qiymətə alınmışdırsa, həmin iştirak paylarının və ya səhmlərin təqdim edilməsi zamanı gəlirdən çıxılan xərclər bu aktivlərin bazar qiyməti ilə nəzərə alınır."
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
+  numb: 14,
+  question: "Vəkil qurumunun tərkibində fəaliyyət göstərən vəkillər tərəfindən göstərilən, yaxud göstərilməsi nəzərdə tutulan vəkillik fəaliyyəti ilə bağlı vəkil qurumuna daxil olan ödənişlərin vəkillərə ödənilən, yaxud ödənilməsi nəzərdə tutulan hissəsi qurumun vergi tutulan gəlirlərinə aid edilirmi?",
   answer: "1",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aid edilir",
+    "B)	Aid edilmir",
+    "C)	50 faizi aid edilir",
+    "D)	40 faizi aid edilmir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 15,
+  question: "Mənfəətdən vergi hansı dərəcə ilə tutulur?",
+  answer: "B)20%",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)30%",
+    "B)20%",
+    "C)25%",
+    "D)18%"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 16,
+  question: "16.	Qeyri-rezidentin daimi nümayəndəliklə bağlı olmayan, lakin Azərbaycan mənbə-yindən əldə edilə ümumi gəlirindən vergi necə tutulur?",
+  answer: "B)	Təqvjm ili ərzində Azərbaycan mənbəyindən əldə etdiyi bu növ ümumi gəlirindən (ƏDV və aksizlər çıxılmaqla) Vergi Məcəlləsinin 125-ci maddəsində göstərilən dərəcələrlə vergi tutulur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təqvim ili ərzində Azərbaycan mənbəyindən əldə etdiyi əmlak təqdim edilməsindən ümumi gəlirindən Vergi Məcəlləsində göstərilən və həmin dövrdə bu cür gəlirə aid olan xərclər çıxıldıqdan sonra vergi tutulur",
+    "B)	Təqvjm ili ərzində Azərbaycan mənbəyindən əldə etdiyi bu növ ümumi gəlirindən (ƏDV və aksizlər çıxılmaqla) Vergi Məcəlləsinin 125-ci maddəsində göstərilən dərəcələrlə vergi tutulur",
+    "C)	Vergi tutulmur",
+    "D)	Təqvim ili ərzində Azərbaycan mənbəyindən əldə etdiyi bu növ ümumi gəlirindən həmin dövrdə bütün xərcləri çıxıldıqdan sonra vergi tutulur"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 17,
+  question: "Xeyriyyə təşkilatının sahibkarlıq fəaliyyətindən əldə etdiyi gəlir hansı qaydada mən-fəət vergisinə cəlb edilir?",
+  answer: "D)	Vergi Məcəlləsi ilə müəyyən edilmiş qaydada vergiyə cəlb edilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	22 faiz dərəcə ilə",
+    "B)	10 faiz dərəcə ilə",
+    "C)	Xeyriyyə təşkilatı kimi vergiyə cəlb edilmir",
+    "D)	Vergi Məcəlləsi ilə müəyyən edilmiş qaydada vergiyə cəlb edilir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 18,
+  question: "Aşağıda göstərilənlərdən hansı mənfəət vergisindən azadoimalara aid deyil?",
+  answer: "D)	Bir hüquqi şəxsin balansından əvəzsiz olaraq digər hüquqi şəxsin balansına verilmiş əsas vəsaitlərin dəyəri",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş hallarda hüquqi şəxsin qərarı ilə onun özünün və onun tam mülkiyyətində olan rezident törəmə müəssisələrinin birinin balansından digərinin balansına əvəzsiz olaraq verilən aktivlərin dəyəri",
+    "B)	Müvafiq icra hakimiyyəti orqanının qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının idarəedici təşkilatının və ya operatorunun mənfəətinin sənaye, yaxud texnologiyalar parklarının infrastrukturunun tikintisinə və saxlanılmasına yönəldilmiş hissəsi",
+    "C)	Neft-qaz ehtiyatlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü, ixrac boru kəmərləri haqqında və bu qəbildən olan digər sazişlərə uyğun olaraq əsas fondların, daşmar əmlakın və digər aktivlərin hər hansı şəkildə həmin sazişlərdə azərbaycan Azərbaycan Respublikasını təmsil edən tərəfə təqdim edilməsi üzrə əməliyyatlar",
+    "D)	Bir hüquqi şəxsin balansından əvəzsiz olaraq digər hüquqi şəxsin balansına verilmiş əsas vəsaitlərin dəyəri"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 19,
+  question: "Aşağıda göstərilənlərdən hansı doğru olanlara aid deyil?",
+  answer: "B)	Vergi Ödəyicisinin azı 2 (İki) İl ərzində mülkiyyətində olan iştirak payının və ya səhmin təqdim edilməsindən əldə olunan gəlirləri mənfəət vergisindən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Körpələr evlərinin, körpələr evi-uşaq bağçalarının, uşaq bağçalarının, xüsusi uşaq bağça-larının və uşaq evlərinin bu fəaliyyətdən əldə etdikləri gəlirləri 2014-cü il yanvarın 1-dən 10 il müddətinə mənfəət vergisindən azaddır",
+    "B)	Vergi Ödəyicisinin azı 2 (İki) İl ərzində mülkiyyətində olan iştirak payının və ya səhmin təqdim edilməsindən əldə olunan gəlirləri mənfəət vergisindən azaddır",
+    "C)	Azərbaycan Respublikasında keçirilən UEFA 2019 Avropa Liqasının final oyunu ilə əlaqədar UEFA-nm, onun yaratdığı qeyri-rezident hüquqi şəxslərin, qeyri-rezident futbol klublarının həmin oyunla bağlı əldə etdiyi gəlirləri mənfəət vergisindən azaddır",
+    "D)	Azərbaycan Respublikasında keçirilən UEFA 2020 Futbol çempionatının oyunları ilə əlaqədar UEFA, onu təmsil edən və onun yaratdığı qeyri-rezident hüquqi şəxslərin, habelə qeyri- rezident futbol klublarının çempionatla bağlı əldə etdiyi gəlirləri mənfəət vergisindən azaddır"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 20,
+  question: "Xeyriyyə təşkilatlarının sahibkarlıq fəaliyyətindən əldə etdikləri gəlirdən başqa digər gəlirləri hansı dərəcə ilə mənfəət vergisinə cəlb olunur?",
+  answer: "D) Vergi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 22 faiz ",
+    "B) 15 faiz ",
+    "C) 10 faiz ",
+    "D) Vergi tutulmur"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 21,
+  question: "Qeyri-kommersiya təşkilatlarının aldıqları əvəzsiz köçürmələr, üzvlük haqları və İanələr üzrə vergilər hansı qaydada tutulur?",
+  answer: "C) Vergi tutulmur ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Ödəmə mənbəyində ",
+    "B) Xərclər çıxıldıqdan sonra ",
+    "C) vergi tutulmur ",
+    "D) Müstəsna hallarda "
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 22,
+  question: "Beynəlxalq, dövlətlərarası və hökumətlərarası təşkilatların sahibkarlıq fəaliyyət-lərindən əldə etdikləri gəlirlərdən başqa digər gəlirləri hansı qaydada mənfəət vergisinə cəlb edilir?",
+  answer: "B)	Vergiyə cəlb edilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsi ilə müəyyən edilmiş qaydada vergiyə cəlb edilir",
+    "B)	Vergiyə cəlb edilmir",
+    "C)	balans mənfəətinə 20 faiz dərəcə tətbiq etməklə",
+    "D)	balans mənfəətinə 10 faiz dərəcə tətbiq etməklə"
   ]
 },
   {
-  numb: 6,
-  question: "Вопро",
-  answer: "1",
+  numb: 23,
+  question: "Dövlət hakimiyyəti orqanlarının, büdcə təşkilatlarının, yerli özünüidarəetmə or-qanlarının və dövlətin adından yaradılan publik hüquqi şəxslərin (sahibkarlıq fəaliyyətindən gəlir istisna olmaqla) gəlirlərindən mənfəət vergisi necə tutulur?",
+  answer: "A)	Vergi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi tutulmur",
+    "B)	20 faiz dərəcəsi ilə vergi tutulur",
+    "C) Xərclər çıxılmadan vergi tutulur",
+    "D) Xərclər çıxılqdan sonra vergi tutulur"
   ]
 },
   {
