@@ -253,4 +253,59 @@ let questions = [
     "D) Xərclər çıxılqdan sonra vergi tutulur"
   ]
 },
+  {
+  numb: 1,
+  question: "Вопрос",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+  {
+  numb: 1,
+  question: "Вопрос",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+  {
+  numb: 1,
+  question: "Вопрос",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+  {
+  numb: 1,
+  question: "Вопрос",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+  {
+  numb: 1,
+  question: "Вопрос",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
 ];
