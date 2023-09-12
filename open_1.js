@@ -5,8 +5,8 @@ let questions = [
   question: "Вопрос номер 1?",
   answer: "1",
   options: [
-    "1",
-    "4"
+    "Duz",
+    "Sehv"
   ]
 },
 ];
