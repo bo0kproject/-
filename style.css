@@ -386,7 +386,9 @@ footer button.show{
     color: #007bff;
     background: #fff;
 }
-
+.foter{
+    heignt:200px;
+}
 .buttons button.quit:hover{
     color: #fff;
     background: #007bff;
