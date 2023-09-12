@@ -52,7 +52,7 @@ h1 {
 }
 .purple {
   background-color: #e99460;
-  box-shadow: 0px 5px 0px 0px #04597c;
+  box-shadow: 0px 5px 0px 0px #e99460;
 }
 
 .purple:hover {
