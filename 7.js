@@ -210,135 +210,135 @@ let questions = [
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "Maşınlar, avadanlıqlar üzrə təmir xərclərinin məhdudlaşdırılan həddi neçə faizdir?",
+  answer: "D) əvvəlki ilin sonuna qalıq dəyərinin 5 %-i",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	əvvəlki ilin sonuna qalıq dəyərinin 8 %-i",
+    "B)	əvvəlki ilin sonuna qalıq dəyərinin 6 %-i",
+    "C) əvvəlki ilin sonuna qalıq dəyərinin 4 %-i",
+    "D) əvvəlki ilin sonuna qalıq dəyərinin 5 %-i"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Nəqliyyat vasitələri üzrə təmir xərclərinin yuxarı həddi necə faizdir?",
+  answer: "D) əvvəlki ilin sonuna qalıq dəyərinin 5 %-i",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	əvvəlki ilin sonuna qalıq dəyərinin 3 %-i",
+    "B)	əvvəlki ilin sonuna qalıq dəyərinin 7 %-i",
+    "C) əvvəlki ilin sonuna qalıq dəyərinin 9 %-i",
+    "D) əvvəlki ilin sonuna qalıq dəyərinin 5 %-i"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Təmir xərclərinin məhdudlaşdırılan həddən artıq olan hissəsi hansı qaydada gəlir¬dən çıxılır?",
+  answer: "D)	Gəlirdən çıxılmır və əsas vəsaitlərin qalıq dəyərinin artmasına aid edilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlirdən tam həcmdə çıxılır",
+    "B)	Növbəti vergi ilinin xərclərinə aid edilir",
+    "C)	Mənfəətin azaldılmasına aid edilir",
+    "D)	Gəlirdən çıxılmır və əsas vəsaitlərin qalıq dəyərinin artmasına aid edilir"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Amortizasiya olunmayan, köhnəlmə (amortizasiya) hesablanmayan avadanlıqların təmirinə çəkilmiş xərclər (torpaqların yaxşılaşdırılmasına çəkilən xərclər istisna olmaqla) gəlirdən hansı qaydada çıxılır?",
+  answer: "A)	Gəlirdən çıxılmır və onların balans dəyərini artırır ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlirdən çıxılmır və onların balans dəyərini artırır ",
+    "B)	Tam həcmdə çıxılır",
+    "C) Çəkilmiş xərclərin 10% çıxılır",
+    "D) Çəkilmiş xərclərin yalniz 40% çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Torpaqların yaxşılaşdırılmasına çəkilən xərclər gəlirdən necə çıxılır?",
+  answer: "A)	Kapitallaşdırılaraq Vergi Məcəlləsinin 114.3.1-ci maddəsinə uyğun olaraq amortizasiya şəklində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Kapitallaşdırılaraq Vergi Məcəlləsinin 114.3.1-ci maddəsinə uyğun olaraq amortizasiya şəklində",
+    "B)	Tam həcmdə çıxılır",
+    "C)	Çıxılmır",
+    "D)	Çəkilmiş xərclərin yalniz 40% çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "İcarəyə götürülmüş binaların, tikililərin və qurğuların təmiri üzrə xərclərin gəlir¬dən çıxılan məbləği hansı faiz həddi ilə məhdudlaşdırılır?",
+  answer: "C)	Həmin əsas vəsaitlərin əvvəlki ilin sonuna qalıq dəyərinin 2%",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin əsas vəsaitlərin əvvəlki ilin sonuna qalıq dəyərinin 3%",
+    "B)	Həmin əsas vəsaitlərin ilin əvvəlinə qalıq dəyərinin 5%",
+    "C)	Həmin əsas vəsaitlərin əvvəlki ilin sonuna qalıq dəyərinin 2%",
+    "D)	Həmin əsas vəsaitlərin ilin əvvəlinə qalıq dəyərinin 7%"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Əsas vəsaitlərin icarəyə götürülməsi müddətləri, şərtləri, habelə onların təmiri üzrə xərclər icarəyə verənlə icarəçi arasında necə razılaşdırılır?",
+  answer: "B)	İcarəyə verənlə icarəçi arasında bağlanılan müqavilə ilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Onlar arasında şifahi razılaşma ilə",
+    "B)	İcarəyə verənlə icarəçi arasında bağlanılan müqavilə ilə",
+    "C)	Razılaşdırılmır",
+    "D)	Həm şifahi, həm də yazılı qaydada razılaşdırılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "Aşağıdakılardan hansı doğru olmayanlara aid deyil?",
+  answer: "C)	İcarəyə götürülmüş əsas vəsaitlər icarəçinin balansında uçota alınmadıqda və ya təmir işləri icarəyə verənin hesabına aparıldıqda, yaxud icarəçinin hesabına aparılaraq, icarə haqqı ilə əvəzləşdirildikdə Vergi Məcəlləsinin 115-ci maddəsinin müddəaları icarəçiyə tətbiq edilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təmir işləri icarəyə verənin hesabına aparıldıqda, yaxud icarəçinin hesabına aparılaraq, icarə haqqı ilə əvəzləşdirildikdə Vergi Məcəlləsinin 115-ci maddəsinin müddəaları icarəçiyə 50 faiz miqdarında tətbiq edilir",
+    "B)	Təmir işləri icarəyə verənin hesabına aparıldıqda, yaxud icarəçinin hesabına aparılaraq, icarə haqqı ilə əvəzləşdirildikdə Vergi Məcəlləsinin 115-ci maddəsinin müddəaları tərəflərin razılığına əsasən tətbiq edilir",
+    "C)	İcarəyə götürülmüş əsas vəsaitlər icarəçinin balansında uçota alınmadıqda və ya təmir işləri icarəyə verənin hesabına aparıldıqda, yaxud icarəçinin hesabına aparılaraq, icarə haqqı ilə əvəzləşdirildikdə Vergi Məcəlləsinin 115-ci maddəsinin müddəaları icarəçiyə tətbiq edilmir",
+    "D)	Təmir işləri icarəyə verənin hesabına aparıldıqda, yaxud icarəçinin hesabına aparılaraq, icarə haqqı ilə əvəzləşdirildikdə Vergi Məc. 115-ci maddəsinin müddəaları icarəçiyə tətbiq edilir (VM maddə 115.6)"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "İcarəçinin balansında uçota alınmayan əsas vəsaitlərin təmirinə çəkilən və icarə haqqı ilə əvəzləşdirilməyən, yaxud icarəyə götürən tərəfindən əvəzi ödənilməyən xərclər icarəçi tərəfindən kapitallaşdırılaraq təmir edilən əsas vəsaitlər necə amortizasiya olunur?",
+  answer: "B)	Əsas vəsaitin aid olduğu kateqoriya üzrə Məcəllənin 114.3-cü maddəsində müəyyən edilmiş amortizasiya dərəcəsi ilə amortizasiya olunur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təmir xərclərinin faktiki məbləği müvafiq kateqoriyaya aid əsas vəsaitlərin qalıq dəyərinə aid edilir, lakin amortizasiya hesablanmır",
+    "B)	Əsas vəsaitin aid olduğu kateqoriya üzrə Məcəllənin 114.3-cü maddəsində müəyyən edilmiş amortizasiya dərəcəsi ilə amortizasiya olunur",
+    "C)	25% hesabı ilə amortizasiya hesablanır",
+    "D)	7% hesabı ilə amortizasiya hesablanır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "Əsas vəsaitlərin hər bir kateqoriyasının ilin sonuna qalıq dəyəri sıfra bərabər ol¬duqda, təmir xərcləri və amortizasiya necə hesablanır?",
+  answer: "C)	Təmir xərclərinin faktiki məbləği müvafiq kateqoriyaya aid əsas vəsaitlərin qalıq dəyərinə aid edilir və Vergi Məcəlləsinin müddəalarına uyğun olaraq amortizasiya hesablanır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təmir xərclərinin faktiki məbləği müvafiq kateqoriyaya aid əsas vəsaitlərin qalıq dəyərinə aid edilir, lakin amortizasiya hesablanmır",
+    "B)	Yalnız amortizasiya hesablanır",
+    "C)	Təmir xərclərinin faktiki məbləği müvafiq kateqoriyaya aid əsas vəsaitlərin qalıq dəyərinə aid edilir və Vergi Məcəlləsinin müddəalarına uyğun olaraq amortizasiya hesablanır",
+    "D)	Təmir xərcləri və amortizasiya hesablanmır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "Vergi Məcəlləsinin müddəaları vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan edirmi?",
+  answer: "D)	Yalnız təmir xərclərinin gəlirdən çıxılan məbləğini məhdudlaşdırır və vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan etmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təmir xərclərinin gəlirdən çıxılan məbləğini məhdudlaşdırır və vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan edir",
+    "B)	Təmir xərclərinin gəlirdən çıxılan məbləğini məhdudlaşdırmır və vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan etmir",
+    "C)	Yalnız təmir xərclərinin gəlirdən çıxılmayan məbləğini məhdudlaşdırır və vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan etmir",
+    "D)	Yalnız təmir xərclərinin gəlirdən çıxılan məbləğini məhdudlaşdırır və vergi ödəyicilərinin digər mənbələr hesabına təmir işlərini həyata keçirməsini qadağan etmir"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "Öz işçilərinin xeyrinə əmlakın zərərdən sığortalanması üzrə sığorta haqları hansı qaydada gəlirdən çıxılır?",
+  answer: "B)	Gəlirdən çıxılmır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sığorta haqqının 50 faizi gəlirdən çıxılır",
+    "B)	Gəlirdən çıxılmır",
+    "C)	Gəlirdən tam məbləğdə çıxılır",
+    "D)	Sığorta ödənişi ilə sığorta haqqı arasındakı fərq gəlirdən çıxılır"
   ]
 },
    {
