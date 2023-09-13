@@ -265,102 +265,212 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Gəlir götürmək məqsədi ilə aparılan elmi-tədqiqat, layihə-axtarış və təcrübə-kon- struktor işlərinə çəkilən xərclərin hansı hissəsi gəlirdən çıxılır?",
+  answer: "C)	Əsas vəsaitlərin alınması və qurulması ilə bağlı xərclər, habelə kapital xarakterli digər xərclər istisna olmaqla, aparılan elmi-tədqiqat, layihə-axtarış və təcrübə-konstruktor işlərinə çəkilən xərclər gəlirdən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Əsas vəsaitlərin alınması və qurulması ilə bağlı xərclər, habelə kapital xarakterli digər xərclər də daxil olmaqla gəlirdən tam həcmdə çıxılır",
+    "B)	Gəlir götürmək məqsədi ilə aparılan elmi-tədqiqat, layihə-axtarış və təcrübə-konstruktor işlərinə çəkilən xərclər (əsas vəsaitlərin alınması və qurulması ilə bağlı xərclər, habelə kapital xarakterli digər xərclər istisna olmaqla) gəlirdən çıxılmır",
+    "C)	Əsas vəsaitlərin alınması və qurulması ilə bağlı xərclər, habelə kapital xarakterli digər xərclər istisna olmaqla, aparılan elmi-tədqiqat, layihə-axtarış və təcrübə-konstruktor işlərinə çəkilən xərclər gəlirdən çıxılır",
+    "D)	Yalnız əsas vəsaitlərin alınması və qurulması ilə bağlı xərclər, habelə kapital xarakterli digər xərclər gəlirdən tam həcmdə çıxılır"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Aşağıdakılardan hansı doğru olmayanlara aid deyil?",
+  answer: "A)	Sahibkarlıq və qeyri-sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amor¬tizasiya ayırmaları gəlirdən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sahibkarlıq və qeyri-sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amor¬tizasiya ayırmaları gəlirdən çıxılır",
+    "B)	Yalnız sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amortizasiya ayırmaları gəlirdən çıxılır",
+    "C)	Əlaqədar vergi orqanının razılığından sonra gəlirdən çıxıla bilər",
+    "D)	Sahibkarlıq və qeyri-sahibkarlıq fəaliyyətində istifadə edilən əsas vəsaitlər üzrə amor¬tizasiya ayırmaları Məcəllənin 114-cü maddəsində qeyd edilən normalara 1.5 əmsal tətbiq edil¬məklə gəlirdən çıxılır"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "Müəssisənin balansında olan torpaqların illik amortizasiya norması neçə faizdir?",
+  answer: "D) Amortizasiya olunmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 7 faizədək",
+    "B) 20 faizədək",
+    "C) 25 faizədək",
+    "D) Amortizasiya olunmur"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Amortizasiya olunmayan aktivlər qrupunu göstərin: 1.	istismar vaxtı çatmayan alma və ərik bağları 2.	atlar 3.	nəqliyyat vasitələri  damazlıq dəvələr və marallar 5. damazlıq inəklər",
+  answer: "C) 1,4,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3",
+    "B) 2,3,5",
+    "C) 1,4,5",
+    "D) 3,4,5"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "İncəsənət əsərləri üçün illik amortizasiya norması neçə faizdir?",
+  answer: "D) amortizasiya olunmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 7 faizədək",
+    "B) 10 faizədək",
+    "C) 20 faizədək",
+    "D) amortizasiya olunmur"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "Amortizasiya olunan aktivlər qrupunu göstərin: 1.	istismar vaxtı çatmayan limon və zeytun bağları 2. atlar	3. damazlıq madyanlar 4. öküzlər	5. damazlıq inəklər dəvələr",
+  answer: "D) 2,4,6",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3",
+    "B) 2,3,5",
+    "C) 1,4,5",
+    "D) 2,4,6"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "Amortizasiya olunmayan aktivləri göstərin: 1.	binalar, tikintilər, qurğular 2.	ümumi istifadədə olan avtomobil yolları 3.	maşınlar, avadanlıq və yüksək texnologiyalar məhsulu olan hesablama texnikası 4.	torpaq, incəsənət əsərləri, nadir tarixi və memarlıq abidələri olan binalar, qurğular 5.	geoloji- kəşfiyyat işlərinə və təbii ehtiyatların hasilatına hazırlıq işlərinə çəkilən xərclər 6.	ümumi istifadədə olan parklardakı avadanlıqlar",
+  answer: " B)2,4, 6",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) l,4,5",
+    "B) 2,4,6",
+    "C) l,3,5",
+    "D) 2,3,6"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Amortizasiya olunan aktivləri göstərin: 1.	nəqliyyat vasitələri 2.	elmi-tədqiqat, tədris və təcrübə məqsədi üçün kabinetlərdə və laboratoriyalarda istifadə edilən avadanlıqlar, eksponatlar, nümunələr, fəaliyyətdə olan vƏ olmayan modellər, maketlər və başqa əyani vəsaitlər 3.	istifadə müddəti məlum olmayan qeyri-maddi aktivlər 4.	heyvanxanalarda və digər analoji müəssisələrdə olan heyvanat aləminin eksponatları 5.	istifadə müddəti məlum olan qeyri-maddi aktivlər 6.	istismara verilməmiş anbarda olan əsas vəsaitlər",
+  answer: "A) 1,3,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,3,5",
+    "B) 2,4,6",
+    "C) 1,4,5",
+    "D) 2,5,5"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Elmi-tədqiqat, tədris və təcrübə məqsədi üçün kabinetlərdə və laboratoriyalarda istifadə edilən avadanlıqlar, eksponatlar, nümunələr, fəaliyyətdə olan və olmayan modellər, maketlər və başqa əyani vəsaitlər üçün illik amortizasiya norması neçə faizdir?",
+  answer: "A) Həmin aktivlər amortizasiya olunmur ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Həmin aktivlər amortizasiya olunmur ",
+    "B) 20%",
+    "C) 10%",
+    "D) 25%"
+  ]
+},
+  {
+  numb: 34,
+  question: "Damazlıq inəklər, camışlar, madyanlar, dəvələr, qoçlar, təkələr, qoyunlar, keçilər, döllük buğalar üçün illik amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "D) Amortizasiya olunmur",
+  options: [
+    "A) 7%",
+    "B) 20%",
+    "C) 10%",
+    "D) Amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 35,
+  question: "Heyvanxanalarda və digər analoji müəssisələrdə olan heyvanat aləminin ekspo¬natları, kitabxana fondları, kinofondlar (video, audio, foto), səhnə rekvizitləri, muzey sər¬vətləri (eksponatları) üzrə illik amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "D) Həmin aktivlər amortizasiya olunmur",
+  options: [
+    "A) 10%",
+    "B) 20%",
+    "C) 25%",
+    "D) Həmin aktivlər amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 36,
+  question: "Konservasiya edilmiş əsas vəsaitlər hansı qaydada amortizasiya olunur?",
+  answer: "C)	Amortizasiya olunmur",
+  options: [
+    "A)	Amortizasiya normasının 50 faizi məbləğində",
+    "B)	Amortizasiya normasının 2 misli miqdarmda",
+    "C)	Amortizasiya olunmur",
+    "D)	Amortizasiya normasının tam məbləğində"
+  ]
+},
+  {
+  numb: 37,
+  question: "İstismara verilməmiş anbarda olan əsas vəsaitlər üzrə amortizasiya normasının yu¬xarı həddi neçə faizdir?",
+  answer: "D) Amortizasiya hesablanmır",
+  options: [
+    "A) 10%",
+    "B) 20%",
+    "C) 25%",
+    "D) Amortizasiya hesablanmır"
+  ]
+},
+  {
+  numb: 38,
+  question: "Torpaqların yaxşılaşdırılması üzrə kapitallaşdırılmış xərclər, binalar, tikintilər və qurğular üçün illik amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "A) 7%",
+  options: [
+    "A) 7%",
+    "B) 20%",
+    "C) 25%"",
+    "D) 10%"
+  ]
+},
+  {
+  numb: 39,
+  question: "Maşınlar və avadanlıq üçün illik amortizasya normasının yuxan həddi neçə faizdir?",
+  answer: "C) 20%",
+  options: [
+    "A) 10%",
+    "B) 25%",
+    "C) 20%",
+    "D) Amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 40,
+  question: "Yüksək texnologiyalar məhsulu olan hesablama texnikası üçün illik amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "B) 25%",
+  options: [
+    "A) 10%",
+    "B) 25%",
+    "C) 20%",
+    "D) Amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 41,
+  question: "Atlar, dəvələr, öküzlər üçün illik amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "C) 20 faiz",
+  options: [
+    ") 7 faiz",
+    "B) 25 faiz",
+    "C) 20 faiz",
+    "D) Amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 42,
+  question: "Geoloji-kəşfiyyat işlərinə və təbii ehtiyatların hasilatına hazırlıq işlərinə çəkilən xər¬clər üçün amortizasiya normasının yuxarı həddi neçə faizdir?",
+  answer: "C) 25 faiz",
+  options: [
+    ") 7 faiz",
+    "B) 20 faiz",
+    "C) 25 faiz",
+    "D) Amortizasiya olunmur"
+  ]
+},
+  {
+  numb: 43,
+  question: "İstifadə müddəti məlum olmayan qeyri-maddi aktivlər üçün illik amortizasiya nor¬masının yuxarı həddi neçə faizdir?",
+  answer: "B) 10 faiz",
+  options: [
+    "A) 7 faiz",
+    "B) 10 faiz",
+    "C) 20 faiz",
+    "D) 25 faiz"
   ]
 },
 ];
