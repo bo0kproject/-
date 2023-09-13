@@ -410,12 +410,12 @@ let questions = [
   {
   numb: 38,
   question: "Torpaqların yaxşılaşdırılması üzrə kapitallaşdırılmış xərclər, binalar, tikintilər və qurğular üçün illik amortizasiya normasının yuxarı həddi neçə faizdir?",
-  answer: "A) 7%",
+  answer: "A) 7 faiz",
   options: [
-    "A) 7%",
-    "B) 20%",
-    "C) 25%",
-    "D) 10%"
+    "A) 7 faiz",
+    "B) 10 faiz",
+    "C) 20 faiz",
+    "D) 25 faiz"
   ]
 },
   {
