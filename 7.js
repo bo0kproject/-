@@ -354,8 +354,8 @@ let questions = [
 },
    {
   numb: 33,
-  question: "Sığortalının və təkrarsığortalınm ödədiyi sığorta haqları gəlirdən çıxılırmı?",
-  answer: "A)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
+  question: "Aşağıdakılardan hansı doğru olanlara aiddir?",
+  answer: "C)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları yalnız bank vasitəsilə sığortaçının bank hesabına ödənildikdə vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
   options: [
     "A)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
     "B)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 2 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 2 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları yalnız bank vasitəsilə sığortaçının bank hesabına ödənildikdə vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
@@ -463,14 +463,14 @@ let questions = [
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 43,
+  question: "Sığortalının və təkrarsığortalınm ödədiyi sığorta haqları gəlirdən çıxılırmı?",
+  answer: "A)	Xarici sığortaçılar ilə bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları istisna olmaqla, sığortalının və təkrarsığortalınm ödədiyi sığorta haqları gəlirdən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Xarici sığortaçılar ilə bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları istisna olmaqla, sığortalının və təkrarsığortalınm ödədiyi sığorta haqları gəlirdən çıxılır",
+    "B)	Yalnız xarici sığortaçılar ilə bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları gəlirdən çıxılır",
+    "C)	Gəlirdən çıxılmır",
+    "D)	Sığorta haqları ilə sığorta ödənişləri arasındakı fərq gəlirdən çıxılır"
   ]
 },
 ];
