@@ -342,124 +342,124 @@ let questions = [
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Xarici sığortaçılarla bağlanmış həyat sığortası müqavilələri üzrə sığorta haqları hansı qaydada gəlirdən çıxılır?",
+  answer: "C)	Gəlirdən çıxılmır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlirdən tam məbləğdə çıxıhr ",
+    "B) 50 faiz məbləğində gəlirdən çıxıhr",
+    "C)	Gəlirdən çıxılmır",
+    "D)	Sığorta haqları ilə sığorta ödənişləri arasındakı fərq gəlirdən çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Sığortalının və təkrarsığortalınm ödədiyi sığorta haqları gəlirdən çıxılırmı?",
+  answer: "A)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
+    "B)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 2 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 2 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları yalnız bank vasitəsilə sığortaçının bank hesabına ödənildikdə vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
+    "C)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları yalnız bank vasitəsilə sığortaçının bank hesabına ödənildikdə vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır",
+    "D)	Fiziki şəxsin Azərbaycan Respublikası sığortaçıları ilə 3 ildən az olmayan müddətə bağlanmış və sığorta ödənişinin sığorta müqaviləsinin qüvvəyə mindiyi andan etibarən 3 illik müddət keçdikdən sonra verilməsini nəzərdə tutan həyatın yığım sığortası və pensiya sığortası üzrə bağladığı sığorta müqavilələri əsasında vergiyə cəlb olunan gəlirlərinin 50 faizindən çox olmayan hissəsindən hesablayıb ödədiyi sığorta haqları nağd və yaxud bank vasitəsilə sığortaçının bank hesabına ödənildikdə vergitutma məqsədləri üçün işəgötürən tərəfindən həmin fiziki şəxsin muzdlu işlə əlaqədar ahnan gəlirindən çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Sığorta müqaviləsinə vaxtından əvvəl xitam verildikdə, ödənilmiş sığorta haqları vergiyə cəlb olunurmu?",
+  answer: "B)	Sığortaçı tərəfindən ödəmə mənbəyində vergiyə cəlb olunur.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Olunmur",
+    "B)	Sığortaçı tərəfindən ödəmə mənbəyində vergiyə cəlb olunur.",
+    "C)	Sığortalı tərəfindən gəlir vergisinə cəlb olunur",
+    "D)	Tərəflərin razılğı əsasında vergiyə cəl olunur"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 35,
+  question: "Geoloji-kəşfiyyat işlərinə və təbii ehtiyatların hasilatına hazırlıq işlərinə çəkilən xərclər hansı qaydada gəlirdən çıxılır?",
+  answer: "D)	Amortizasiya ayırmaları şəklində gəlirdən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Xərclərin 50 faizi gəlirden çıxılır",
+    "B)	Tam məbləğdə gəlirdən çıxılır",
+    "C)	Gəlirdən çıxılmır",
+    "D)	Amortizasiya ayırmaları şəklində gəlirdən çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 36,
+  question: "Geoloji-kəşfiyyat işlərini aparmaq və təbii ehtiyatlan emal, yaxud istismar etmək hüquqlarını əldə etmək üçün qeyri-maddi aktivlərə çəkilən xərclərə də gəlirdən çıxılırmı?.",
+  answer: "A)	Amortizasiya ayırmaları şəklində gəlirdən çıxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Amortizasiya ayırmaları şəklində gəlirdən çıxılır",
+    "B)	Tam məbləğdə gəlirdən çıxılır",
+    "C)	Gəlirdən çıxılmır",
+    "D)	Xərclərin 50 faizi gəlirden çıxılır"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 37,
+  question: "Qeyri-maddi aktivlərə çəkilən xərclər gəlirdən hansı qaydada çıxılır?",
+  answer: "D)	Vergi Məcəlləsi ilə müəyyən edilən amortizasiya dərəcəsi ilə hesablanan amortizasiya ayırmaları şəklində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəlirdən çıxılmır",
+    "B)	Vergi Məcəlləsi ilə müəyyən edilən amortizasiya dərəcəsi ilə hesablanan amortizasiya ayırmalarının 50 faizi miqdarında",
+    "C)	Vergi Məcəlləsi ilə müəyyən edilən amortizasiya dərəcəsi ilə hesablanan amortizasiya ayırmalarının 75 faizi miqdarında",
+    "D)	Vergi Məcəlləsi ilə müəyyən edilən amortizasiya dərəcəsi ilə hesablanan amortizasiya ayırmaları şəklində"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 38,
+  question: "Qeyri-maddi aktivlərin alınmasına və ya istehsalına çəkilən xərclər vergi ödəyicisi¬nin vergiyə cəlb olunan gəlirinin hesablanması zamanı gəlirdən çıxılmışdırsa, həmin xərciər amortizasiya olunmalı qeyri-maddi aktivlərin dəyərinə aid edilirmi?",
+  answer: "B)	Aid edilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aid edilir",
+    "B)	Aid edilmir",
+    "C)	Aid edilib - edilməməsi vergi ödəyicisi tərəfindən müəyyənləşdirilir",
+    "D)	50%-i qeyri-maddi aktivlərin dəyərinə aid edilir"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 39,
+  question: "Aşağıdakılardan hansı gəlirdən çıxılan məbləğlərə aiddir?",
+  answer: "D)	Gəlirin əldə edilməsi ilə bağh mülki hüquq müqavilələri üzrə dəbbə pulu (cərimə)",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsi ilə müəyyən edilmiş qaydada hesablanmış faizlər",
+    "B)	Digər dövlətlərin ərazilərində ödənilmiş gəlirdən hesablanan hər hansı digər vergi",
+    "C)	Vergi Məcəlləsindən başqa digər qanunlarla müəyyən edilmiş qaydada hesablanmış faizlr",
+    "D)	Gəlirin əldə edilməsi ilə bağh mülki hüquq müqavilələri üzrə dəbbə pulu (cərimə)"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 40,
+  question: "Aşağıdakılardan hansı gəlirdən çıxılan məbləğlərə aiddir?",
+  answer: "B)	Gəlirin əldə edilməsi ilə bağh mülki hüquq müqavilələri üzrə icranın gecikdirilməsi ilə əlaqədar vurulmuş zərərin əvəzinin ödənilməsi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsindən başqa digər qanunlarla müəyyən edilmiş qaydada hesablanmış inzibati cərimələr",
+    "B)	Gəlirin əldə edilməsi ilə bağh mülki hüquq müqavilələri üzrə icranın gecikdirilməsi ilə əlaqədar vurulmuş zərərin əvəzinin ödənilməsi",
+    "C)	Digər dövlətlərin ərazilərində ödənilmiş mənfəət vergisi",
+    "D)	Vergi Məcəlləsi ilə müəyyən edilmiş qaydada hesablanmış maliyyə sanksiyaları"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 41,
+  question: "Aşağıdakı hansı verginin gəlirdən çıxılmasına yol verilmir?",
+  answer: "C) Mənfəət vergisinin",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Torpaq vergisinin",
+    "B)	Əmlak vergisinin",
+    "C) Mənfəət vergisinin",
+    "D) Mədən vergisinin"
   ]
 },
    {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 42,
+  question: "Aşağıdakı hansı vergilərin gəlirdən çıxılmasma yol verilmir ?",
+  answer: "C)	Gəlir vergisi və mənfəət vergisinin",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Torpaq vergisi və mənfəət vergisinin",
+    "B)	Gəlir vergisi və əmlak vergisinin",
+    "C)	Gəlir vergisi və mənfəət vergisinin",
+    "D)	Mədən vergisi və ƏDV-nin"
   ]
 },
    {
