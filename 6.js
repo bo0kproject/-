@@ -221,47 +221,47 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Ümidsiz borc məbləğinin gəlirdən çıxılmasına hansı halda yol verilir?",
+  answer: "D)	Vergi ödəyicisinin mühasibat kitablarında ümidsiz borc məbləğinin dəyəri olmayan borc kimi silindiyi vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi ödəyicisi ümidsiz borc məbləğini gəlirdən çıxa bilməz",
+    "B)	Ümidsiz borc məbləğinin gələcəkdə alınması imkanı yarandıqda",
+    "C)	Əlaqədar vergi orqanının razılığından sonra gəlirdən çıxıla bilər",
+    "D)	Vergi ödəyicisinin mühasibat kitablarında ümidsiz borc məbləğinin dəyəri olmayan borc kimi silindiyi vaxt"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Banklar və bank fəaliyyətinin ayrı-ayrı növlərini həyata keçirən kredit təşkilatları qanunvericiliyə müvafiq qaydada hansı məbləğləri Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyən edilmiş qaydada gəlirdən çıxmaq hüququna malikdirlər?",
+  answer: "B)	Aktivlərin təsnif asılı olaraq xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yalnız bankın kredit resurslarının dəyərində olan məbləğləri",
+    "B)	Aktivlərin təsnif asılı olaraq xüsusi ehtiyat fondlarının yaradılmasına aid edilən məbləğləri ",
+    "C) Aktivlərin təsnif asılı olmayaraq xüsusi ehtiyat fondlar yaradılmasına aid edilən məbləğləri ",
+    "D) Valyuta növündən asılı olaraq xüsusi ehtiyat fondları yaradılmasına aid edilən məbləğləri"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Ehtiyat sığorta fondlarına ayırmalar gəlirdən çıxıla bilərmi?",
+  answer: "A)	Sığorta fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının qanunvericili¬yi ilə müəyyən edilmiş normalara uyğun olaraq ehtiyat sığorta fondlarına ayırma məbləğlərini gəlirdən çıxmaq hüququna malikdir.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sığorta fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının qanunvericili¬yi ilə müəyyən edilmiş normalara uyğun olaraq ehtiyat sığorta fondlarına ayırma məbləğlərini gəlirdən çıxmaq hüququna malikdir.",
+    "B)	Sığorta fəaliyyəti ilə məşğul olan hüquqi şəxs Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş normalara uyğun olaraq ehtiyat sığorta fondlarına ayırma məbləğlərinin yalnız 50%-ni gəlirdən çıxmaq hüququna malikdir.",
+    "C)	Sığorta fəaliyyəti i[ə məşğul olan hüquqi şəxs Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş normalara uyğun olaraq ehtiyat sığorta fondlarına ayırma məbləğlərinin yalnız 80%-ni gəlirdən çıxmaq hüququna malikdir.",
+    "D)	Çıxa bilməz"
   ]
 },
   {
-  numb: 1,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Gəlir götürmək məqsədi ilə aparılan elmi-tədqiqat, layihə axtarış və təcrübə- konstruktor işlərinə çəkilən xərclər hansı halda gəlirdən çıxıla bilər?",
+  answer: "D)	Bu xərclər əsas vəsaitlərin alınması, quraşdırılması ilə bağlı olmadıqda və kapital xarakteri daşımadıqda",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu xərclər əsas vəsaitlərin quraşdırılması ilə bağlı olduqda",
+    "B)	Bu xərclər əsas vəsaitlərin quraşdırılması ilə bağlı olduqda",
+    "C)	Bu xərclər kapital xarakteri daşıdıqda",
+    "D)	Bu xərclər əsas vəsaitlərin alınması, quraşdırılması ilə bağlı olmadıqda və kapital xarakteri daşımadıqda"
   ]
 },
   {
