@@ -399,7 +399,7 @@ let questions = [
 {
   numb: 37,
   question: "Vergi Məcəlləsinin 125.1.1-ci - 125.1.4-cü, 125.1.6-cı - 125.1.8-ci və 125.1-1-ci maddələrində göstərilən gəlirlər istisna olmaqla, hüquqi şəxslərin və vergi ödəyicisi kimi uçota alınmış fiziki şəxslərin işlərin görülməsindən və ya xidmətlərin göstərilməsindən əldə edilən gəlirlər və Azərbaycan mənbəyindən əldə edilən digər gəlirlər üzrə ödəmələri vergiyə cəlb olunurmu?",
-  answer: "D) 10 faiz"",
+  answer: "D) 10 faiz",
   options: [
     "A) Vergi tutulmur",
     "B) 20 faiz",
