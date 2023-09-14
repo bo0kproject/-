@@ -13,7 +13,7 @@ let questions = [
 },
   {
   numb: 2,
-  question: "Ödənilmiş maliyyə sanksiyaları hansı qaydada gəlirdən çıxılır?,
+  question: "Ödənilmiş maliyyə sanksiyaları hansı qaydada gəlirdən çıxılır?",
   answer: "C)	Gəlirdən çıxılmır",
   options: [
     "A)	Tam məbləğdə gəlirdən çıxılır",
