@@ -3,9 +3,9 @@ let questions = [
   {
   numb: 1,
   question: "Azərbaycan Respublikasının tərəfdar çıxdığı ikiqat vergitutmanm aradan qaldırıl- > ması haqqında beynəlxalq müqavilələrdə hansı məsələlər nəzərdə tutulduğu halda ödəmə mənbəyində artıq tutulmuş vergi məbləği müəyyən edilmiş qaydada geri qaytarılır?",
-  answer: "A)	Мergilərin aşağı dərəcəsi və ya vergilərdən tam azad olunma",
+  answer: "A)	Vergilərin aşağı dərəcəsi və ya vergilərdən tam azad olunma",
   options: [
-    "A)	Мergilərin aşağı dərəcəsi və ya vergilərdən tam azad olunma",
+    "A)	Vergilərin aşağı dərəcəsi və ya vergilərdən tam azad olunma",
     "B)	Нalnız vergilərin aşağı dərəcəsi",
     "C)	Yalnız vergilərdən tam azad olunma",
     "D)	Ödəmə mənbəyində artıq tutulmuş vergi məbləği geri qaytarılmır"
