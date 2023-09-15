@@ -232,69 +232,69 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Ödəmə qabiliyyətini itirmiş bankların rezolyusiyası və sağlamlaşdırma tədbirləri çərçivəsində Azərbaycan Respublikasının Prezidentinin müəyyən etdiyi qaydada qeyri-işlək (toksik) aktivlərin təqdim edilməsi, habelə bankın iflas proseduru çərçivəsində aktivlərinin təqdim edilməsi 2017-ci il yanvarın 1-dən neçə il müddətinə vergidən azaddır?",
+  answer: "A) 5 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 5 il",
+    "B) 7 il",
+    "C) 10 il",
+    "D)3il"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Heyvan və quş ətinin satışı - 2020-ci il yanvarın 1-dən neçə il müddətinə vergidən azaddır?",
+  answer: "C) 4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1 il",
+    "B) 7 il",
+    "C) 4 il",
+    "D) 5 il"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Sürücü daxil olmaqla 10 nəfərdən çox adam daşımaq üçün nəzərdə tutulmuş sıxılmış qazla işləyən avtobusların idxalı hansı müddətə vergidən azaddır?",
+  answer: "B)	2020-ci il yanvarın 1-dən 5 il müddətinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2019-cu il yanvarın 1-dən 3 il müddətinə",
+    "B)	2020-ci il yanvarın 1-dən 5 il müddətinə",
+    "C) 2019-cu il yanvarın 1-dən 5 il müddətinə",
+    "D) 2020-ci il yanvarın 1-dən 7 il müddətinə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "KOB klaster şirkəti tərəfindən mikro, kiçik və orta sahibkarlığın inkişafını dəstəkləyən Azərbaycan Respublikasının Kiçik və Orta Biznesin İnkişafı Agentliyinin təsdiq- edici sənədi əsasında istehsal, yaxud emal məqsədləri üçün texnikanın, texnoloji avadanlıq¬ların və qurğuların idxalı hansı müddətə vergidən azaddır?",
+  answer: "A)	KOB klaster şirkətinin KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən 7 il müddətinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	KOB klaster şirkətinin KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən 7 il müddətinə",
+    "B)	KOB klaster şirkətinin KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən 5 il müddətinə",
+    "C)	idxal edildiyi tarixdən",
+    "D) 2020-ci il yanvarın 1 -dən 7 il müddətinə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Yalnız elektrik mühərriki ilə işləyən avtomobillərin idxalından və satışından vergi necə tutlur?",
+  answer: "D)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gömrük dəyərindən 18 faiz dərəcə ilı",
+    "B)	2020-ci il yanvarm 1-dən 5 il müddətinə vergidən azaddır",
+    "C)	2019-cu il yanvarm 1-dən 3 il müddətinə vergidən azaddır",
+    "D)	Vergidən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "2022-ci il yanvarın 1-dən hansı hibrid avtomobillərin idxalı və satışı 3 il müddətinə vergidən azaddır?",
+  answer: "C)	İstehsal tarixi 3 ildən və mühərrikinin həcmi 2500 kubsantimetrdən çox olmayan",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İstehsal tarixi 3 ildən və mühərrikinin həcmi 2500 kubsantimetrdən çox olan",
+    "B)	İstehsal tarixi 2 ildən və mühərrikinin həcmi 2500 kubsantimetrdən çox olmayan",
+    "C)	İstehsal tarixi 3 ildən və mühərrikinin həcmi 2500 kubsantimetrdən çox olmayan",
+    "D)	İstehsal tarixi 5 ildən və mühərrikinin həcmi 3000 kubsantimetrdən çox olmayan"
   ]
 },
 {
