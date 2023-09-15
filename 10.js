@@ -298,179 +298,179 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Hüquqi şəxsin sahibliyi əvvəlki ilə nisbətən neçə faiz dəyişdikdə, bu dəyişikliyin baş verdiyi vergi ilindən başlayaraq əvvəlki vergi ilindən zərərin, gəlirdən çıxılmalann, əvəzləşdirmələrin keçirilməsinə müəyyən istisna hallardan başqa icazə verilmir?",
+  answer: "D) 50 və ya daha çox faiz dəyişdikdə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	45 və ya daha çox faiz dəyişdikdə",
+    "B)	30 və ya daha çox faiz dəyişdikdə",
+    "C) 20 və ya daha çox faiz dəyişdikdə",
+    "D) 50 və ya daha çox faiz dəyişdikdə"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "Hüquqi şəxsin sahibliyi əvvəlki ilə nisbətən 50 və ya daha çox faiz dəyişdikdə, bu dəyişikliyin baş verdiyi vergi ilindən başlayaraq əvvəlki vergi ilindən zərərin, gəlirdən çıxıl- maların, əvəzləşdirmələrin keçirilməsinə, hansı hallar istisna edilməklə, icazə verilmir? 1)	dəyişiklikdən sonrakı üç il ərzində hüquqi şəxs həmin sahibkarlıq fəaliyyə həyata keçirirsə 2)	dəyişiklikdən sonrakı iki il ərzində hüquqi şəxs yeni sahibkarlıq fəaliyyətinə başlamırsa 3)	dəyişiklikdən sonrakı beş il ərzində hüquqi şəxs həmin sahibkarlıq fəaliyy həyata keçirirsə 4)	dəyişiklikdən sonrakı bir il ərzində hüquqi şəxs yeni sahibkarlıq fəaliyyətinə başlamırsa",
+  answer: "C) 1,4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2",
+    "B)l,3",
+    "C) 1,4",
+    "D) 2,4"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "202.	Aşağıda göstərilən hansı vergi ödəyiciləri vergi orqanına bəyannamə verirlər? 1.	muzdlu işlə əlaqədar olaraq gəlir əldə edən fiziki şəxslər 2.	rezident müəssisələr 3.	Azərbaycan Respublikasında daimi nümayəndəliyi olan qeyri-rezidentlər 4.	vergiyə cəlb olunan gəliri Azərbaycan mənbəyindən olan və bu gəlirindən ödəmə yerində vergi tutulmayan qeyri-rezidentlər 5.	avtomobil nəqliyyatı vasitələri ilə sərnişin və yük daşımalarını həyata keçirən vergi ödəyiciləri",
+  answer: "C) 2,3,4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3",
+    "B) 3,4,5",
+    "C) 2,3,4",
+    "D) 1,4,5"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "Vergiyə cəlb olunan gəliri Azərbaycan mənbəyindən olan və bu gəlirindən ödəmə yerində vergi tutulmayan qeyri-rezidentlərin gəlirlərinin Azərbaycan Respublikasında bəy¬an edilməsi kim tərəfindən həyata keçirilir?",
+  answer: "C)	Qeyri-rezident şəxs tərəfindən təyin edilən vergi agenti vasitəsilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Qeyri-rezidentin özü tərəfindən",
+    "B)	Qeyri-rezidentin Azərbaycandakı nümayəndəliyi vasitəsilə",
+    "C)	Qeyri-rezident şəxs tərəfindən təyin edilən vergi agenti vasitəsilə",
+    "D)	Bəyan etmə olmur"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Rezident fiziki şəxslər illik gəlir vergisi bəyannaməsini nə vaxt təqdim edirlər?",
+  answer: "B)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin fevral ayının 15-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
+    "C)	Hesabat ilindən sonrakı ilin aprel ayının 1 -dən gec olmayaraq",
+    "D)	Hesabat ilindən sonrakı ilin aprel ayının 15-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Azərbaycan Respublikası ərazisində daimi nümayəndəliyi olan qeyri-rezident fizi¬ki şəxslər gəlir vergisinin illik bəyannaməsini nə vaxt vergi orqanına təqdim edirlər?",
+  answer: "B)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin fevral ayının 15-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
+    "C)	Hesabat ilindən sonrakı ilin aprel ayının 1 -dən gec olmayaraq",
+    "D)	Hesabat ilindən sonrakı ilin aprel ayının 15-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Xüsusi notariuslar üçün gəlir vergisinin hesabat dövrü hansı dövrdür?",
+  answer: "D) yarım il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) il",
+    "B) rüb",
+    "C) ay",
+    "D) yarım il"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 35,
+  question: "Xüsusi notariuslar “xüsusi notariusun gəlir vergisi bəyannaməsi”ni hansı qaydada vergi orqanına təqdim etməlidirlər?",
+  answer: "B)	rübdə bir dəfə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	ildə bir dəfə",
+    "B)	rübdə bir dəfə",
+    "C) ayda bir dəfə",
+    "D) ildə iki dəfə"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 36,
+  question: "Müəssisələr mənfəət vergisi bəyannaməsini nə vaxt vergi orqanına təqdim edirlər?",
+  answer: "D)	Hesabat ilindən sonrakı ilin aprel ayının 31-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin fevral ayının 15-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin mart ayının 15 -dən gec olmayaraq",
+    "C)	Hesabat ilindən sonrakı ilin aprel ayının 1 -dən gec olmayaraq",
+    "D)	Hesabat ilindən sonrakı ilin aprel ayının 31-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 37,
+  question: "Vergi ödəyicisi Azərbaycan Respublikasındakı sahibkarlıq fəaliyyətini dayandır-dıqda, habelə vergi ödəyicisi olan fiziki şəxsin fəaliyyətinə xitam verildikdə neçə gün müddətində vergi orqanına gəlir və ya mənfəət vergisi bəyannaməsini təqdim edir?",
+  answer: "D) 30 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 gün",
+    "B) 5 gün",
+    "C) 45 gün",
+    "D) 30 gün"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 38,
+  question: "Vergi ödəyicisi sahibkarlıq fəaliyyətini dayandırdıqda hesabat dövrü hansı dövrü əhatə edir?",
+  answer: "B)	Vergi ilinin əvvəlindən vergi ödəyicisi fəaliyyətini dayandırdığı və ya fiziki şəxsin fəaliyyətinə xitam verildiyi günə qədər olan dövrü əhatə edir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi ilinin əvvəlindən sonuna qədər olan dövrü",
+    "B)	Vergi ilinin əvvəlindən vergi ödəyicisi fəaliyyətini dayandırdığı və ya fiziki şəxsin fəaliyyətinə xitam verildiyi günə qədər olan dövrü əhatə edir",
+    "C)	Vergi ilinin əvvəlindən vergi ödəyicisinin sahibkarlıq fəaliyyətini dayandırdığı rübün sonuna qədər olan dövrü",
+    "D)	Vergi ilinin əvvəlindən vergi ödəyicisinin sahibkarlıq fəaliyyətini dayandırdığı rübün əvvəlinə qədər olan dövrü"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 39,
+  question: "Qeyri-rezidentin daimi nümayəndəliyi ləğv edildikdə vergi orqanına məlumat kim tərəfindən verilir?",
+  answer: "C) Ləğvetmə komissiyası və ya vergi ödəyicisi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Maliyyə orqanı tərəfindən",
+    "B)	Yalnız ləğv etmə komissiyası",
+    "C) Ləğvetmə komissiyası və ya vergi ödəyicisi",
+    "D) Auditor təşkilatı tərəfindən"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 40,
+  question: "Hüquqi şəxs və ya qeyri-rezidentin daimi nümayəndəliyi ləğv edildikdə hansı müddətə mənfəət vergisi bəyannaməsini vergi orqanına təqdim etməyə borcludur?",
+  answer: "A)	Ləğvetmə balansını qeydiyyat orqanına təqdim etdiyi tarixdən 30 gün müddətində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ləğvetmə balansını qeydiyyat orqanına təqdim etdiyi tarixdən 30 gün müddətində",
+    "B)	Ləğvetmə balansını qeydiyyat orqanına təqdim etdiyi tarixdən 10 gün müddətində",
+    "C)	Ləğv balansını qeydiyyat orqanına təqdim etdiyi tarixdən 20 gün ərzində",
+    "D)	Ləğv balansını qeydiyyat orqanına təqdim etdiyi tarixdən 30 gün ərzində"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 41,
+  question: "Bəyannamə verməli olmayan fiziki şəxs verginin yenidən hesablanması və vəsait¬lərin qaytarılması haqqında tələb irəli sürülən bəyannamə verə bilərmi?",
+  answer: "C) Bəyannamə verə bilər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bəyannamə verə bilər, lakin vəsaitlərin qaytarılması haqqında tələb irəli sürə bilməz",
+    "B)	Bəyannamə verə bilməz",
+    "C) Bəyannamə verə bilər",
+    "D) Yalnız Dövlət Vergi Xidmətinin icazəsi ilə verginin yenidən hesablanması və vəsaitlərin qaytarılması haqqında tələb irəli sürülən bəyannamə verə bilər"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 42,
+  question: "Aşağıdakılardan hansı doğrudur?",
+  answer: "B)	Azərbaycan Respublikasında daimi nümayəndəliyi olmayan, Vergi Məcəlləsinin 125.1.3- cü, 125.1.4-cü, 125.1.5-ci və ya 125.1.7-ci maddələrinə müvafiq qaydada ödəmə mənbəyində vergi tutulan gəlir əldə edən qeyri-rezident vergi ödəyicisi bu cür gəlir haqqında bəyannamə verməklə tutulmuş verginin qaytarılması tələbini irəli sürə bilər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Azərbaycan Respublikasında daimi nümayəndəliyi olmayan, Vergi Məcəlləsinin 125.1.3- cü, 125.1.4-cü, 125.1.5-ci və ya 125.1.7-ci maddələrinə müvafiq qaydada ödəmə mənbəyində vergi tutulan gəlir əldə edən qeyri-rezident vergi ödəyicisi bu cür gəlir haqqında bəyannamə verə bilər, lakin vəsaitlərin qaytarılması haqqında tələb irəli sürə bilməz",
+    "B)	Azərbaycan Respublikasında daimi nümayəndəliyi olmayan, Vergi Məcəlləsinin 125.1.3- cü, 125.1.4-cü, 125.1.5-ci və ya 125.1.7-ci maddələrinə müvafiq qaydada ödəmə mənbəyində vergi tutulan gəlir əldə edən qeyri-rezident vergi ödəyicisi bu cür gəlir haqqında bəyannamə verməklə tutulmuş verginin qaytarılması tələbini irəli sürə bilər",
+    "C)	Azərbaycan Respublikasında daimi nümayəndəliyi olmayan, Vergi Məcəlləsinin 125.1.3- cü, 125.1.4-cü, 125.1.5-ci və ya 125.1.7-ci maddələrinə müvafiq qaydada ödəmə mənbəyində vergi tutulan gəlir əldə edən qeyri-rezident vergi ödəyicisi bu cür gəlir haqqında bəyannamə verə bilməz",
+    "D)	Yalnız Dövlət Vergi Xidmətinin icazəsi ilə verginin yenidən hesablanması və vəsaitlərin qaytarılması haqqında tələb irəli sürülən bəyannamə verə bilər"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 43,
+  question: "Aşağıda göstərilən hansı şəxslər [vergi agentləri] ödəmə mənbəyində gəlir vergisini tutmağa borcludurlar? 1.	vergi ödəyicisi kimi vergi orqanlarında uçota alınmayan, VÖEN təqdim etməyən fiziki şəxslərin göstərdiyi xidmətlərə (işlərə) görə həmin fiziki şəxslərə haqq ödəyən hüquqi şəxslər və ya fərdi sahibkarlar 2.	vergi ödəyicisi kimi vergi orqanlarında uçota alınmayan, icarə haqqı ödəyən fiziki şəxslər 3.	hüquqi və fiziki şəxslərə faizlər ödəyən hüquqi şəxslər və ya sahibkarlar 4.	dövlət sosial təminat sistemi vasitəsilə pensiyalar ödəyən şəxslər 5.	dövlət sosial təminat sistemi vasitəsilə ödənilən pensiyalar istisna edilməklə, digər şəxslərə pensiya ödəyən hüquqi şəxslər və ya sahibkarlar",
+  answer: "C) 1,3,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3",
+    "B) 2,3,4",
+    "C) 1,3,5",
+    "D) 3,4,5"
   ]
 },
 ];
