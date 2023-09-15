@@ -122,201 +122,201 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 12,
+  question: "Hansı doğru olanlara aid deyil?",
+  answer: "A)	Vergi orqanında uçotda olmayan fiziki şəxslər də daxil olmaqla, Məcəllənin 13.2.16.14-1- ci maddəsində göstərilən ödənişləri həyata keçirən şəxslər ödəmə mənbəyində vergi tutmalıdır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi orqanında uçotda olmayan fiziki şəxslər də daxil olmaqla, Məcəllənin 13.2.16.14-1- ci maddəsində göstərilən ödənişləri həyata keçirən şəxslər ödəmə mənbəyində vergi tutmalıdır",
+    "B)	Vergi orqanında uçotda olmayan fiziki şəxslər istisna olmaqla, Məcəllənin 13.2.16.14-1- ci maddəsində göstərilən ödənişləri həyata keçirən şəxslər ödəmə mənbəyində vergi tutmalıdır",
+    "C)	Vergi orqanında uçotda olmayan fiziki şəxslərin Məcəllənin 13.2.16.14-1-cİ maddəsində göstərilən ödənişlərini həyata keçirən yerli bank, xarici bankın Azərbaycan Respublikasındakı filialı və ya poçt rabitəsinin milli operatoru ödəmə mənbəyində vergi tutmalıdır",
+    "D)	“Vəkillər və vəkillik fəaliyyəti haqqında” Azərbaycan Respub Qanununa uyğun olaraq vəkil qurumlarının tərkibində fəaliyyət göstərən vəkillər tərəfindən göstərilən vəkillik fəaliyyəti ilə bağlı vəkillərə ödənişi həyata keçirən vəkil qurumu ödəmə mənbəyində vergi tutmalıdır"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 13,
+  question: "Ödəmə mənbəyində verginin tutulmamasına və ya büdcəyə köçürülməməsinə görə kim məsuliyyət daşıyır?",
+  answer: "A)	Gəliri ödəyən şəxslə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gəliri ödəyən şəxslər",
+    "B)	Gəliri əldə edən şəxslər",
+    "C) Dövlət vergi orqanları",
+    "D) Bank orqanları"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 14,
+  question: "Muzdla işləyən fiziki şəxslərə ödəmələr verən vergi ödəyiciləri ödəmə mənbəyində tutulan vergilər barədə bəyannaməni nə vaxt vergi orqanına təqdim etməlidir?",
+  answer: "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin yanvar ayının 31-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti ayın 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 15,
+  question: "Hərrac təşkilatçısı kimi çıxış edən ixtisaslaşdırılmış təşkilatlar Məcəllənin 150.1.13.5-ci maddəsinə uyğun olaraq ödəmə mənbəyində vergi tutulmayan əməliyyatlar üzrə hərracın nəticələri rəsmiləşdirildiyi gündən neçə gün müddətində müvafiq məlumatı vergi orqanına təqdim etməyə borcludurlar?",
+  answer: "C) 10 iş günü",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 5 iş günü",
+    "B) 5 gün",
+    "C) 10 iş günü",
+    "D) 10 gün"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 16,
+  question: "Məcəllənin 150.1.10-cu və 150.1.11-ci maddələrində göstərilən şəxslər Məcəllənin 101.5-ci maddəsinə uyğun olaraq gəlir vergisini hesablamağa və hansı müddətə hesablanmış vergini dövlət büdcəsinə köçürməyə və müvafiq bəyannaməni vergi orqanına verməyə borcludurlar?",
+  answer: "B)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin yanvar ayının 31 -dən gec olmayaraq",
+    "B)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti ayın 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+  numb: 17,
+  question: "Hüquqi şəxslərə və fərdi sahibkarlara bank hesablarındakı pul vəsaitlərinin nağd qaydada verilməsini həyata keçirən yerli banklar, xarici bankın Azərbaycan Respublika¬sındakı filialı və ya poçt rabitəsinin milli operatoruMəcəllənin 220.12-ci maddəsinə uyğun olaraq sadələşdirilmiş vergini hesablamağa, vəsaiti alan şəxsin bank hesabından tutmağa və hansı müddətə hesablanmış vergini dövlət büdcəsinə köçürməyə və müvafiq bəyannaməni vergi orqanına verməyə borcludurlar?",
+  answer: "B)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+  options: [    
+    "A)	Hesabat ilindən sonrakı ilin yanvar ayının 31 -dən gec olmayaraq",
+    "B)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti ayın 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 18,
+  question: "Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərə “Nağdsız - ssablaşmalar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində ? istərilən malların təqdim edilməsinə görə ( Məcəllə ilə vergidən azad olunan gəlirlər istisna ' maqla) ödəmələr verən hüquqi şəxslər və fərdi sahibkarlar Məcəllənin 101.6-cı maddəsinə _\ğun olaraq gəlir vergisini hesablamağa, hesablanmış vergini hansı müddətə dövlət ■ jdcəsinə köçürməyə və müvafiq bəyannaməni hansı müddətə vergi orqanına verməyə ordudurlar?",
+  answer: "D)	Rüb başa çatdıqdan sonra növbəti aym 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ilindən sonrakı ilin yanvar aymm 31 -dən gec olmayaraq",
+    "B)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti aym 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti aym 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 19,
+  question: "Məcəllənin 150.1.13.5-ci maddəsində nəzərdə tutulmuş halda fərdi sahibkarlar Məcəllənin 220.8-ci və 220.8-1-ci maddələrinə uyğun olaraq sadələşdirilmiş vergini ■ esablamağa və hansı müddətə hesablanmış vergini dövlət büdcəsinə köçürməyə və müvafiq -əyannaməni vergi orqanına verməyə borcludurlar?",
+  answer: "A)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin yanvar ayının 31 -dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti aym 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "Vergi orqanında uçotda olmayan fiziki şəxslər istisna olmaqla, Məcəllənin . 3.2.16.14-1-ci maddəsində göstərilən ödənişləri həyata keçirən şəxslər və vergi orqanında .cotda olmayan fiziki şəxslərin Məcəllənin 13.2.16.14-1-ci maddəsində göstərilən ödənişlərini əyata keçirən yerli bank, xarici bankın Azərbaycan Respublikasındakı filialı və ya poçt -abitəsinin milli operatoru Məcəllənin 125-1-ci maddəsinə uyğun olaraq vergini ■ esablamağa, hesablanmış vergini ödəniş həyata keçirilənədək büdcəyə köçürməyə və - jvafiq bəyan-naməni hansı müddətə vergi orqanına verməyə borcludurlar?",
+  answer: "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat ayından sonrakı ayın 20-dən gec olmayaraq",
+    "B)	Hesabat ilindən sonrakı ilin yanvar ayının 31 -dən gec olmayaraq",
+    "C)	Rüb başa çatdıqdan sonra növbəti aym 15-dən gec olmayaraq",
+    "D)	Rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Aşağıda göstərilən hansı vergi ödəyiciləri vergi orqanına bəyannamə verirlər? 1.	muzdlu işlə əlaqədar olaraq gəlir əldə edən fiziki şəxslər 2.	sadələşdirilmiş vergini hesablayan notarius və ixtisaslaşdırılmış hərrac təşkilatları 3.	vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərə “Nağdsız hesab¬ı-malar haqqında” Azərbaycan Respublikasının Qanununun 3.5-ci maddəsində göstərilən ■ Aların təqdim edilməsinə görə ödəmələr verən hüquqi şəxslər və fərdi sahibkarlar 4.	hüquqi və fiziki şəxslərə faizlər ödəyən hüquqi şəxslər və ya sahibkarlar 5.	avtonəqliyyat vasitələri ilə sərnişin və yük daşımalarını həyata keçirən vergi ödəyiciləri",
+  answer: "C) 2,3,4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3",
+    "B) 3,4,5",
+    "C) 2,3,4",
+    "D) 1,4,5"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Vergi ödəyicisi kimi vergi orqanında uçotda olmayan fiziki şəxslərə ödəmələr erən hüquqi şəxslər və fərdi sahibkarlar hansı müddətə gəlir vergisini hesablamağa, -esablanmış vergini dövlət büdcəsinə köçürməyə və Azərbaycan Respublikasının Dövlət • ergi Xidmətinin müəyyən etdiyi forma üzrə bəyannaməni vergi orqanına verməyə : z rcludurlar.",
+  answer: "D)	Hesablanmış vergini hesabat rübündən sonrakı ayın 20-dən gec olmayaraq dövlət büdcə-sinə köçürməyə və bəyannaməni rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesablanmış vergini hesabat rübündən sonrakı ayın 20-dək dövlət büdcəsinə köçürməyə ə bəyannaməni rüb başa çatdıqdan sonra növbəti aym 20-dək",
+    "B)	Hesablanmış vergini hesabat rübündən sonrakı ayın 15-dən gec olmayaraq dövlət büdcə-sinə köçürməyə və bəyannaməni rüb başa çatdıqdan sonra növbəti ayın 15-dən gec olmayaraq",
+    "C)	Hesablanmış vergini hesabat rübündən sonrakı ayın 15-dək dövlət büdcəsinə köçürməyə və bəyannaməni rüb başa çatdıqdan sonra növbəti ayın 20-dək",
+    "D)	Hesablanmış vergini hesabat rübündən sonrakı ayın 20-dən gec olmayaraq dövlət büdcə-sinə köçürməyə və bəyannaməni rüb başa çatdıqdan sonra növbəti ayın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Aşağıdakılardan hansında muzdlu işlə əlaqədar ödəmə mənbəyində tutulan vergi istisna olmaqla, digər gəlirlərdən ödəmə mənbəyində verginin tutulması öhdəliyinin yaranma vaxtı düzgün müəyyən edilir?",
+  answer: "D)	Hamısında",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi ödəyicisi pul vəsaitini nağd qaydada ödəyirsə, nağd pul vəsaitinin ödənildiyi, nağdsız ödəmə zamanı pul vəsaitinin köçürülməsinə dair ödəmə tapşırığının bank tərəfindən alındığı vaxt",
+    "B)	Vergi ödəyicisinin kreditoru qarşısında maliyyə öhdəlikləri ləğv edildiyi və ya ödənildiyi halda (qarşılıqlı hesablaşmalar aparıldıqda və digər bu kimi hallarda), öhdəliyin ləğv edildiyi və ya ödənildiyi (əvəzləşdirildiyi) vaxt",
+    "C)	Vergi orqanında uçotda olmayan fiziki şəxslərin bu Məcəllənin 13.2.16.14-1-ci maddəsində göstərilən ödəmələrindən pul vəsaitinin köçürülməsinə dair ödəmə tapşırığının bank tərəfindən icra edildiyi vaxt",
+    "D)	Hamısında"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Məcəllənin 150.3.3-cü və 150.3-1 - 150.3-6-cı maddələrində göstərilən vergi ödəyiciləri Azərbaycan Respublikasında fəaliyyətini dayandırdıqda, habelə hüquqi şəxs və ya qeyri-rezidentin daimi nümayəndəliyi ləğv edildikdə, vergi ödəyicisi olan fiziki şəxsin fəaliyyətinə xitam verildikdə, Məcəllənin 150.3.3-cü və 150.3-1 - 150.3-6-cı maddələrində göstərilən müddətlərdən gec olmamaq şərtilə neçə gün müddətində ödəmə mənbəyində tutulan vergilər barədə vergi orqanına bəyannamə verməyə borcludurlar?",
+  answer: "C) 30 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 5 gün",
+    "B) 15 gün",
+    "C) 30 gün",
+    "D) 20 gün"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Hüquqi şəxslər və fərdi sahibkarlar hansı müddətdə gəlir vergisi və ya mənfəət vergisi üzrə cari vergi ödəmələrini dövlət büdcəsinə ödəməlidirlər?",
+  answer: "B)	Rüb qurtardıqdan sonra 15 gündən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Rüb qurtardıqdan sonra 20 gündən gec olmayaraq",
+    "B)	Rüb qurtardıqdan sonra 15 gündən gec olmayaraq",
+    "C)	Rüb qurtardıqdan sonra 10 gündən gec olmayaraq",
+    "D)	Rüb qurtardıqdan sonra 5 gündən gec olmayaraq"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Gəlir [mənfəət] vergisi üzrə rübljjk cari ödəmənin məbləği əvvəlki vergi ilində hes-ablanmış vergi məbləğinin neçə hissəsini təşkil ed'ir?",
+  answer: "B) 1/4 hissəsini",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1/5 hissəsini",
+    "B) 1/4 hissəsini",
+    "C) 1/3 hissəsini",
+    "D) 1/2 hissəsini"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "Cari vergi ödəmələrinin məbləği hansı metod ilə müəyyənləşdirilə bilər?",
+  answer: "A)	Bu rübdəki gəlirinin həcmini onun keçən ilin ümumi gəlirində [gəlirdən çıxılan məbləğlər nəzərə alınmadan] verginin xüsusi çəkisini göstərən əmsala vurmaqla",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu rübdəki gəlirinin həcmini onun keçən ilin ümumi gəlirində [gəlirdən çıxılan məbləğlər nəzərə alınmadan] verginin xüsusi çəkisini göstərən əmsala vurmaqla",
+    "B)	Bu rübdəki gəlirinin həcmini onun keçən ilin müvafiq rübündəki ümumi gəlirində illik hesablanmış verginin xüsusi çəkisini göstərən əmsala vurmaqla",
+    "C)	Bu rübdəki xərclərinin həcmini onun keçən ilin ümumi xərclərində ödənilmiş verginin xüsusi çəkisini göstərən əmsala vurmaqla",
+    "D)	Bu rübdəki gəlirinin həcmini onun keçən ilin ümumi gəlirində ödənilmiş verginin xüsusi çəkisini göstərən əmsala vurmaqla"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Gəlir [mənfəət] vergisi üzrə cari ödəmə məbləğlərinin müəyyən edilməsinin neçə üsulu mövcuddur?",
+  answer: "C) 2",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1",
+    "B) 3",
+    "C) 2",
+    "D) 4"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "Vergi ödəyicisi il ərzində cari vergi ödəmələrinin məbləğini müəyyənləşdirməyin iki mümkün metodundan hansını seçdiyi barədə vergi orqanına nə vaxt məlumat verir ?",
+  answer: "A)	Hər il aprel ayının 15-dək",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər il aprel ayının 15-dək",
+    "B)	Hər il aprel ayının 1 -dək",
+    "C) Hər il aprel ayının 20-dək",
+    "D) Hər il mart ayının 20-dək"
   ]
 },
   {
