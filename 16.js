@@ -244,8 +244,8 @@ let questions = [
 },
 {
   numb: 23,
-  question: "Aşağıda göstərilənlərdən hansı doğrudur? 1.	malların (işlərin, xidmətlərin) alıcısı agentdən aldığı elektron qaimə-faktura əsasında digər şəxsə (vəkalət verənə) malların (işlərin, xidmətlərin) dəyərini nağdsız qaydada, ƏDV məbləğini ƏDV-nin depozit hesabına ödəməklə ödənilmiş ƏDV məbləğini əvəzləşdirir" 2.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, alıcı tərəfindən alınmış malların (işlərin, xidmətlər) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənilsədə, agent tərəfindən həmin malların (işlərin, xidmətlərin) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir. 3.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, ahcı tərəfindən alınmış malların (işlərin, xidmətlərin) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənildiyi halda agent tərəfindən həmin malların (işlərin, xidmə) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir. 4.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir 5.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura Vergi Məcəlləsinin 175-ci maddəsinə uyğun olaraq ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir,
-  answer: " D) 1,3,5",
+  question: "Aşağıda göstərilənlərdən hansı doğrudur? 1.	malların (işlərin, xidmətlərin) alıcısı agentdən aldığı elektron qaimə-faktura əsasında digər şəxsə (vəkalət verənə) malların (işlərin, xidmətlərin) dəyərini nağdsız qaydada, ƏDV məbləğini ƏDV-nin depozit hesabına ödəməklə ödənilmiş ƏDV məbləğini əvəzləşdirir" 2.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, alıcı tərəfindən alınmış malların (işlərin, xidmətlər) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənilsədə, agent tərəfindən həmin malların (işlərin, xidmətlərin) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir. 3.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, ahcı tərəfindən alınmış malların (işlərin, xidmətlərin) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənildiyi halda agent tərəfindən həmin malların (işlərin, xidmə) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir. 4.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir 5.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura Vergi Məcəlləsinin 175-ci maddəsinə uyğun olaraq ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir",
+  answer: "D) 1,3,5",
   options: [
     "A) 1,2,5",
     "B) 2,3,4",
@@ -331,113 +331,113 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "Komitent qeyri-rezident olduqda malların komissiya qaydasında satışı üzrə ƏDV məqsədləri üçün əməliyyatlar kimin apardığı əməliyyatlar hesab edilir?",
+  answer: "D)	Agentin, yəni komisyonçunun apardığı əməliyyatlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Komitentin apardığı əməliyyatlar",
+    "B)	Bu halda malların komisyon qaydada satışı ƏDV məqsədləri üçün əməliyyatlar hesab edilmir",
+    "C)	Komitentlə komisyonçunun razılığı ilə müəyyənləşdirilir",
+    "D)	Agentin, yəni komisyonçunun apardığı əməliyyatlar"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Komitent qeyri-rezident olduqda, ƏDV məqsədləri üçün komisyonçunun vergi tutulan əməliyyatının vaxtı hansı vaxt sayılır?",
+  answer: "A)	Vergi Məcəlləsinin 166-cı maddəsi ilə müəyyən edilən vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsinin 166-cı maddəsi ilə müəyyən edilən vaxt",
+    "B)	Malların komitent tərəfindən komisyonçuya göndərildiyi vaxt",
+    "C)	Əməliyyatın baş verdiyi rübün son günü",
+    "D)	Əməliyyatın baş verdiyi ayın son günü"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Komisyonçu idxal olunmuş mallara görə gömrük orqanlarına ƏDV ödəmişdirsə, bu ödəmənin yerinə yetirildiyini təsdiq edən sənədlər ƏDV ödəyicisi olan komisyonçuya həmin ƏDV məbləğinin əvəzləşdirmək hüququ verirmi?",
+  answer: "B) Verir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Heç bir halda vermir",
+    "B) Verir",
+    "C)	Komitentlə komisyonçunun razılığı əsasında müəyyənləşdirilir",
+    "D)	Əvəzləşdirməni ancaq komitent apara bilər"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Komisyon qaydasında idxal olunmuş mallar ƏDV ödəyicisi olan komisyonçc tərəfindən satılmadan tam və ya qismən komitentin tapşırığı ilə Azərbaycan Respublikas ərazisində başqa şəxsə verildikdə	",
+  answer: "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satıla." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "B)	Komisyonçunun büdcə qarşısında ƏDV öhdəliyi yaranmır",
+    "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "D)	ƏDV öhdəliyi komitentin üzərinə düşür"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 35,
+  question: "ƏDV ödəyicisi olan şəxslər tərəfindən Vergi Məcəlləsinin 172-ci maddəsində göstərilən əməliyyatlardan başqa digər əməliyyatlar da həyata keçirildikdə	",
+  answer: "A)	Həmin əməliyyatların uçotu ayrıca aparılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin əməliyyatların uçotu ayrıca aparılır",
+    "B)	Əməliyyatların uçotu birlikdə aparılır",
+    "C)	Digər əməliyyatların uçotu aparılmır",
+    "D)	Yalnız ƏDV-yə cəlb olunan əməliyyatların uçotu aparılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 36,
+  question: "ƏDV-yə cəlb edilən malların idxalı zamanı ƏDV hansı faiz dərəcəsi ilə tutulur?",
+  answer: "C) 18 faiz",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) sıfır [0] faiz",
+    "B) 15 faiz",
+    "C) 18 faiz",
+    "D) 20 faiz"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 37,
+  question: "ƏDV-nin dərəcəsi vergi tutulan əməliyyatin və idxalın dəyərinin neçə faizidir?",
+  answer: "B)	Vergi tutulan əməliyyatın və idxalın dəyərinin 18 faizi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi tutulan əməliyyatın dəyərinin 10 faizi",
+    "B)	Vergi tutulan əməliyyatın və idxalın dəyərinin 18 faizi",
+    "C) Vergi tutulan idxalın 0 faizi",
+    "D) Vergi tutulan idxalın 15 faizi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 38,
+  question: "Hesabat dövrü ərzində ƏDV-nin məqsədləri üçün vergi tutulan dövriyyə necə müəyyənləşdirilir?",
+  answer: "C)	Vergi tutulan əməliyyatların ümumi dəyərinə görə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yalnız verilən elektron qaimə-fakturaları əsasında təqdim olunmuş malların [görülmüş işlərin və göstərilmiş xidmətlərin] dəyərinə görə",
+    "B)	Təqdim olunmuş malların [görülmüş işlərin və göstərilmiş xidmətlərin] ahş və təqdimetmə qiymətləri arasındakı fərqə görə",
+    "C)	Vergi tutulan əməliyyatların ümumi dəyərinə görə",
+    "D Elektron qaimə-faktura vermədən aparılan əməliyyatların dəyərinə görə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 39,
+  question: "Hesabat dövrü ərzində vergi tutulan dövriyyədən büdcəyə ödənilməli olan ƏDV- nin məbləği necə müəyyənləşdirilir ?",
+  answer: "B)	Vergi tutulan dövriyyəyə vergi dərəcəsinin tətbiqi ilə hesablanan verginin məbləği ilə əvəzləşdirilməli olan verginin məbləği arasında olan fərq kimi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi tutulan dövriyyəyə vergi dərəcəsinin tətbiqi ilə hesablanan verginin məbləği kimi",
+    "B)	Vergi tutulan dövriyyəyə vergi dərəcəsinin tətbiqi ilə hesablanan verginin məbləği ilə əvəzləşdirilməli olan verginin məbləği arasında olan fərq kimi",
+    "C)	Malların [işlərin və xidmətlərin] alış qiymətləri ile təqdimetmə qiymətləri arasındakı fərqdən hesablanan məbləği kimi",
+    "D)	Vergi qanunvericiliyinə müvafiq olaraq əvəzləşdirilməli olan verginin məbləği kimi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 40,
+  question: "Azərbaycan Respublikası ərazisində istehsal olunan kənd təsərrüfatı məhsul¬larının pərakəndə satışı zamanı tətbiq olunmuş ticarət əlavəsindən ƏDV hesablamaq üçün hansı qaydaya əməl etməlidir?",
+  answer: "A)	Satıcılar belə malların uçotunu ayrıca aparmalıdır.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Satıcılar belə malların uçotunu ayrıca aparmalıdır.",
+    "B)	Ödənişlər nağdsız olmalıdır",
+    "C)	Alqı-satqı əməliyyatları yalnız elektron qaimə-faktura əsasında olmalıdır",
+    "D)	Vergi Məcəlləsinin digər maddələrində göstərilən müddəalardan asılı olmayaraq həmin malların pərakəndə satışı zamanı ƏDV ümumi dövriyyədən hesablanır."
   ]
 },
 ];
