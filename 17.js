@@ -166,135 +166,135 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 16,
+  question: "Hansı halda ödənilmiş ƏDV-nin məbləği əvəzləşdirilə bilər?",
+  answer: "C)	Sıfır (0) dərəcəsi ilə ƏDV tutulan əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) elektron qaimə-fakturaları üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) alındıqda ƏDV-nin məbləği ƏDV-nin depozit hesabı vasitəsilə ödənildikdə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	"Büdcə sistemi haqqında" Azərbaycan Respublikası Qanununun 1.1.17-ci maddəsində nəzərdə tutulmuş subsidiyalar istisna olmaqla, dövlət büdcəsindən müxtəlif mənbələr üzrə dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) hesabına mallar (işlər, xidmətlər) alındıqda",
+    "B)	ƏDV-dən azad olunan, yaxud ƏDV-yə cəlb edilməyən əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) alındıqda",
+    "C)	Sıfır (0) dərəcəsi ilə ƏDV tutulan əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) elektron qaimə-fakturaları üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) alındıqda ƏDV-nin məbləği ƏDV-nin depozit hesabı vasitəsilə ödənildikdə",
+    "D)	Vergi ödəyicisinə verilmiş elektron qaimə-fakturaları üzrə mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər edildikdə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 17,
+  question: "Hansı şəxslər tərəfindən mallar, xidmətlər (işlər) alınarkən onlara verilmiş elek¬tron qaimə-fakturalar üzrə ƏDV-nin məbləği ƏDV-nin depozit hesabına köçürülməli-dir?",
+  answer: "A)	ƏDV ödəyiciləri, ƏDV-nin məqsədləri üçün qeydiyyatda olmayan, səhmlərinin və paylarının 50 faizindən çoxu dövlətə məxsus olan hüquqi şəxslər və büdcə təşkilatları, habelə bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən yaşayış və qeyri-yaşayış sahələri alan şəxslər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	ƏDV ödəyiciləri, ƏDV-nin məqsədləri üçün qeydiyyatda olmayan, səhmlərinin və paylarının 50 faizindən çoxu dövlətə məxsus olan hüquqi şəxslər və büdcə təşkilatları, habelə bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən yaşayış və qeyri-yaşayış sahələri alan şəxslər",
+    "B)	ƏDV ödəyiciləri, habelə ƏDV-nin məqsədləri üçün qeydiyyatda olmayan, səhmlərinin və paylarının 50 faizindən çoxu dövlətə məxsus olan hüquqi şəxslər və yerli özünü idarəetmə orqanları",
+    "C)	ƏDV ödəyiciləri, habelə kredit və sığorta təşkilatları, investisiya fondları və büdcə təşkilatları",
+    "D)	ƏDV ödəyiciləri, habelə ƏDV-nin məqsədləri üçün qeydiyyatda olmayan hüquqi şəxslər və dövlət fondları"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 18,
+  question: "Qəbzlər, çeklər və nağd qaydada aparılan əməliyyatların rəsmiləşdirildiyi sənədlər, habelə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən qaydada tərtib edilməyən elektron qaimə-fakturalar verginin əvəzləşdirilməsinə əsas verirmi?",
+  answer: "B)	Vemir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Verir",
+    "B)	Vermir",
+    "C) 50%-i əvəzləşdirilir",
+    "D) Nazirlər Kabinetinin qərarı əsasında əvəzləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 19,
+  question: "Aşağıdakılardan hansı doğru olmayanlara aid deyil?",
+  answer: "B)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olmayaraq verginin əvəzləşdirilməsinə əsas verir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olaraq verginin əvəzləşdirilməsinə əsas verir",
+    "B)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olmayaraq verginin əvəzləşdirilməsinə əsas verir",
+    "C)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olmayaraq verginin əvəzləşdirilməsinə əsas vermir",
+    "D)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olaraq verginin əvəzləşdirilməsinə müəyyən hallarda əsas verir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "Düzgün olanı göstərin",
+  answer: "A)	Müvəqqəti idxal şəklində Azərbaycan Respublikasının ərazisinə buraxılan və müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş mallar sonradan sərbəst dövriyyə üçün buraxılış gömrük proseduru altında yerləşdirildiyi halda idxal əməliyyatı üzrə ödənilmiş ƏDV məbləğləri malların sərbəst dövriyyəyə buraxıldığı hesabat ayında əvəzləşdirilir.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müvəqqəti idxal şəklində Azərbaycan Respublikasının ərazisinə buraxılan və müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş mallar sonradan sərbəst dövriyyə üçün buraxılış gömrük proseduru altında yerləşdirildiyi halda idxal əməliyyatı üzrə ödənilmiş ƏDV məbləğləri malların sərbəst dövriyyəyə buraxıldığı hesabat ayında əvəzləşdirilir.",
+    "B)	Müvəqqəti idxal şəklində Azərbaycan Respublikasının ərazisinə buraxılan və müvəqqəti idxal xüsusi gömrük proseduru altında yerləşdirilmiş mallar sonradan sərbəst dövriyyə üçün buraxılış gömrük proseduru altında yerləşdirildiyi halda idxal əməliyyatı üzrə ödənilmiş ƏDV məbləğləri malların sərbəst dövriyyəyə buraxıldığı aydan sonrakı hesabat ayında əvəzləşdirilir.",
+    "C)	Müvəqqəti idxal şəklində Azərbaycan Respublikasının ərazisinə buraxılan mallar sonradan sərbəst dövriyyə üçün buraxılış gömrük proseduru altında yerləşdirildiyi halda idxal əməliyyatı üzrə ödənilmiş ƏDV məbləğləri malların sərbəst dövriyyəyə buraxıldığı hesabat ayında əvəzləşdirilir.",
+    "D)	Gömrük orqanları tərəfindən verilmiş idxalda ƏDV-nin ödənildiyini göstərən idxal sənədləri ödənişin formasından asılı olaraq verginin əvəzləşdirilməsinə müəyyən hallarda əsas verir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Doğru olan hansıdır?",
+  answer: "D)	Əmtəəsiz və (və ya) riskli əməliyyatların rəsmiləşdirildiyi sənədlər verginin əvəzləşdiril- .məsinə əsas vermir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Riskli vergi ödəyicisindən əldə edilmiş elektron qaimə-faktura verginin əvəzləşdirilməsinə qismən əsas verir",
+    "B)	Əmtəəsiz və (və ya) riskli əməliyyatların rəsmiləşdirildiyi sənədlər istisna olmaqla, riskli vergi ödəyicisindən əldə edilmiş elektron qaimə-faktura verginin əvəzləşdirilməsinə əsas verir",
+    "C)	Əmtəəsiz və (VƏ ya) riskli əməliyyatların rəsmiləşdirildiyi sənədlər, habelə riskli vergi ödəyicisindən əldə edilmiş elektron qaimə-faktura verginin əvəzləşdirilməsinə qismən əsas verir",
+    "D)	Əmtəəsiz və (və ya) riskli əməliyyatların rəsmiləşdirildiyi sənədlər verginin əvəzləşdiril- .məsinə əsas vermir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Kənd təsərrüfatı məhsullarının topdan və pərakəndə satışı ilə məşğul olan vergi ödəyiciləri tərəfindən 2022-ci il yanvarın 1-dən əldə edilmiş kənd təsərrüfatı məhsullarına görə neçə il müddətində ödənilmiş ƏDV məbləğləri əvəzləşdirilmir?",
+  answer: "C) 3 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 2 il",
+    "B) 5 il",
+    "C) 3 il",
+    "D) 1 il"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "ƏDV-nin büdcəyə ödənilmə müddəti dedikdə, nə başa düşülür?",
+  answer: "B)	ƏDV-nin bəyannaməsinin verilməsi üçün müəyyən edilən müddət",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	ƏDV-nin müştəridən alındığı vaxt",
+    "B)	ƏDV-nin bəyannaməsinin verilməsi üçün müəyyən edilən müddət",
+    "C)	Malın [işin, xidmətin] təqdim edildiyi vaxt",
+    "D)	ƏDV elektron qaimə-fakturasının müştəriyə verildiyi vaxt"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Vergi ödəyicisi olan hüquqi şəxs ləğv edildikdə və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxsin fəaliyyətinə xitam verildikdə, ƏDV bəyannaməsi Vergi Məcəlləsində nəzərdə tutulmuş müddətdən gec olmamaq şərti ilə neçə gün müddətində vergi orqanına təqdim edilməlidir?",
+  answer: "A) 30 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 30 gün",
+    "B) 15 gün",
+    "C) 7 gün",
+    "D) 2 gün"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Vergi ödəyicisi olan hüquqi şəxs ləğv edildikdə və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxsin fəaliyyətinə xitam verildikdə ƏDV məqsədləri üçün vergi dövrü hansı dövrü əhatə edir?",
+  answer: "A)	Hesabat dövrü sayılan müddətin əvvəlindən vergi ödəyicisi fəaliyyətini dayandırdığı günə qədər olan dövrü",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat dövrü sayılan müddətin əvvəlindən vergi ödəyicisi fəaliyyətini dayandırdığı günə qədər olan dövrü",
+    "B)	Vergi ödəyicisinin fəaliyyətini dayandırdığı gündən hesabat dövrü sayılan müddətin sonuna qədər olan dövrü",
+    "C)	Vergi ödəyicisinin fəaliyyət göstərdiyi hesabat dövrünü",
+    "D)	Bəyannamənin verilməsi üçün müəyyən edilən müddəti"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "ƏDV-nin bəyannaməsi hər hesabat dövrü üçün hesabat dövründən sonra hansı müddətdə vergi orqanına təqdim olunur?",
+  answer: "C)	Hesabat dövründən sonrakı ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat dövründən sonrakı ayın 10-dan gec olmayaraq",
+    "B)	Hesabat dövründən sonrakı ayın 15-dən gec olmayaraq",
+    "C)	Hesabat dövründən sonrakı ayın 20-dən gec olmayaraq",
+    "D)	Hesabat dövründən sonrakı aym 25-dən gec olmayaraq"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "Yalnız malların idxalı üzrə ƏDV ödəyicisi sayılan şəxslər ƏDV bəyannaməsini nə vaxt vergi orqanına təqdim edirlər?",
+  answer: "D)	Bəyannamə təqdim etmirlər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların idxalı rəsmləşdirildiyi aydan sonrakı ayın 20-dən gec olmayaraq",
+    "B)	Malların idxalı rəsmləşdirildiyi aydan sonrakı ayın 15-dən gec olmayaraq",
+    "C)	Malların idxalı rəsmləşdirildiyi gün",
+    "D)	Bəyannamə təqdim etmirlər"
   ]
 },
 {
