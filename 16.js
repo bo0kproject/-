@@ -366,11 +366,11 @@ let questions = [
 {
   numb: 34,
   question: "Komisyon qaydasında idxal olunmuş mallar ƏDV ödəyicisi olan komisyonçc tərəfindən satılmadan tam və ya qismən komitentin tapşırığı ilə Azərbaycan Respublikas ərazisində başqa şəxsə verildikdə	",
-  answer: "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+  answer: "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
   options: [
-    "A)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satıla." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "A)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satıla. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
     "B)	Komisyonçunun büdcə qarşısında ƏDV öhdəliyi yaranmır",
-    "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
     "D)	ƏDV öhdəliyi komitentin üzərinə düşür"
   ]
 },
