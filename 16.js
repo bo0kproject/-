@@ -221,113 +221,113 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Agent malların [işlərin, xidmətlərin] alıcısına [sifarişçisinə] elektron qaimə-faktura verə bilərmi?",
+  answer: "B)	Agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Agent ƏDV-nin məqsədləri üçün qeydiyyatda olub-olmamasından asılı olmayaraq digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına elektron qaimə-faktura verə bilməz",
+    "B)	Agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir",
+    "C)	Agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına istənilən növ elektron qaimə-faktura verir",
+    "D)	Agent ƏDV-nin məqsədləri üçün qeydiyyatda olub-olmamasından asılı olmayaraq digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Agent [vəkalət alan] digər şəxsə [vəkalət verənə] elektron qaimə-faktura verə bilər-mi?",
+  answer: "A)	Agent ƏDV məqsədləri üçün qeydiyyatdadırsa, göstərdiyi xidmətlərə görə verə bilər",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Agent ƏDV məqsədləri üçün qeydiyyatdadırsa, göstərdiyi xidmətlərə görə verə bilər",
+    "B)	Agentin ƏDV məqsədləri üçün qeydiyyatından asılı olmayaraq verə bilər",
+    "C)	Agentin ƏDV məqsədləri üçün qeydiyyatından asılı olmayaraq verə bilməz",
+    "D)	Malların [işlərin, xidmətlərin] tərkibinə ƏDV daxil edilmişdirsə, elektron qaimə-faktura verə bilər"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Aşağıda göstərilənlərdən hansı doğrudur? 1.	malların (işlərin, xidmətlərin) alıcısı agentdən aldığı elektron qaimə-faktura əsasında digər şəxsə (vəkalət verənə) malların (işlərin, xidmətlərin) dəyərini nağdsız qaydada, ƏDV məbləğini ƏDV-nin depozit hesabına ödəməklə ödənilmiş ƏDV məbləğini əvəzləşdirir" 2.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, alıcı tərəfindən alınmış malların (işlərin, xidmətlər) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənilsədə, agent tərəfindən həmin malların (işlərin, xidmətlərin) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir. 3.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, ahcı tərəfindən alınmış malların (işlərin, xidmətlərin) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənildiyi halda agent tərəfindən həmin malların (işlərin, xidmə) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir. 4.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir 5.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura Vergi Məcəlləsinin 175-ci maddəsinə uyğun olaraq ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir,
+  answer: " D) 1,3,5",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,5",
+    "B) 2,3,4",
+    "C) 1,3,4",
+    "D) 1,3,5"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Agent üçün ƏDV üzrə vergitutma bazası necə müəyyənləşdirilir?",
+  answer: "A)	digər şəxslərə malların təqdim edilməsi (işlərin görülməsi, xidmətlərin göstərilməsi) üzrə göstərdiyi xidmətlərin dəyəri agentin vergitutma bazasını təşkil edir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Digər şəxslərə malların təqdim edilməsi (işlərin görülməsi, xidmətlərin göstərilməsi) üzrə göstərdiyi xidmətlərin dəyəri agentin vergitutma bazasını təşkil edir",
+    "B)	Agentin təqdim etdiyi malların tam dəyəri onun vergitutma bazasını təşkil edir",
+    "C)	Agentin təqdim etdiyi mallara görə ona ödənilən haqlar [mükafatlar] onun vergitutma bazasına aid edilmir.",
+    "D)	Agent tərəfindən digər şəxslərə göstərilən xidmətlərə görə agent üçün vergitutma bazası yaranmır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Agent üçün vergi tutulan əməliyyatların dəyəri necə müəyyənləşdirilir?",
+  answer: "D)	Onun digər şəxsdən almalı olduğu (aldığı) haqdır (mükafatdır).",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Digər şəxslərə malların təqdim edilməsi (işlərin görülməsi, xidmətlərin göstərilməsi) üzrə göstərdiyi xidmətlərin ƏDV-siz dəyəri",
+    "B)	Agentin təqdim etdiyi malların tam dəyəri",
+    "C)	Digər şəxslərə malların təqdim edilməsi (işlərin görülməsi, xidmətlərin göstərilməsi) üzrə göstərdiyi xidmətlərin ƏDV-li dəyəri",
+    "D)	Onun digər şəxsdən almalı olduğu (aldığı) haqdır (mükafatdır)."
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Lotereyaların keçirilməsi şərtlərinə uyğun olaraq uduş fondu tam və ya qismən mallardan ibarət olduqda, lotereya keçirən şəxs tərəfindən uduş fondu üçün alınmış mallara görə ödənilmiş ƏDV-nin məbləği əvəzləşdirilirmi?",
+  answer: "C)	Əvəzləşdirilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər bir halda əvəzləşdirilir",
+    "B)	Uduş fondu üçün alınmış mallara görə ƏDV ödənilmir",
+    "C)	Əvəzləşdirilmir",
+    "D)	ƏDV lotereyanı udmuş şəxs tərəfindən ödənilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "Azərbaycan Respublikası ərazisindən digər ölkələrə keçən marşrutlar üzrə turist xidmətləri göstərən şəxslər üçün ƏDV üzrə vergitutma bazası nədir?",
+  answer: "C)	Turist xidmətlərinin (Azərbaycan Respublikası ərazisindən kənarda göstərilən xidmətlər istisna olmaqla) dəyəri",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Turist xidmətlərinin dəyəri [komisyon haqları çıxılmadan]",
+    "B)	Turist vərəqələrinin dəyəri",
+    "C)	Turist xidmətlərinin (Azərbaycan Respublikası ərazisindən kənarda göstərilən xidmətlər istisna olmaqla) dəyəri",
+    "D)	Turist xidmətlərinin (Azərbaycan Respublikası ərazisindən kənarda göstərilən xidmətlər də daxil olmaqla) dəyəri"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Turist vərəqələrini təqdim edən şəxslər (agentlər) üçün vergitutma bazası nədir?",
+  answer: "A)	Təqdimetmə üzrə göstərilən xidmətlərin dəyəri",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təqdimetmə üzrə göstərilən xidmətlərin dəyəri",
+    "B)	Turist vərəqələrinin dəyəri",
+    "C)	Turist xidmətlərinin (Azərbaycan Respublikası ərazisindən kənarda göstərilən xidmətlər istisna olmaqla) dəyəri ",
+    "D)	Turist xidmətlərinin (Azərbaycan Respublikası ərazisindən kənarda göstərilən xidmətlər də daxil olmaqla) dəyəri"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "Malların komisyon qaydada satışı zamanı komitent üçün ƏDV üzrə vergitutma bazası nədir?",
+  answer: "A)	Komisyonçuya verilmiş malların dəyəri [komisyon haqları çıxılmadan]",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Komisyonçuya verilmiş malların dəyəri [komisyon haqları çıxılmadan]",
+    "B)	Komisyonçuya verilmiş malların dəyəri [komisyon haqları çıxılmaqla]",
+    "C)	Komitentin müəyyən etdiyi satış qiyməti [ƏDV ilə birlikdə]",
+    "D)	Komisyon qaydada malların satışından ƏDV hesablanmır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "Komisyonçunun komitentden aldığı elektron qaimə-faktura komisyonçuya ƏDV məbləğini əvəzləşdirmək hüququ verirmi?",
+  answer: "C)	Komisyonçunun ƏDV ödəyicisi olub-olmamasından asılı olmayaraq əvəzləşdirmək hüququ vermir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Komisyonçu ƏDV ödəyicisi olduqda əvəzləşdirmək hüququ verir",
+    "B)	Komisyonçu ƏDV ödəyicisi olmadıqda əvəzləşdirmək hüququ verir",
+    "C)	Komisyonçunun ƏDV ödəyicisi olub-olmamasından asılı olmayaraq əvəzləşdirmək hüququ vermir",
+    "D)	Komissiya qaydasında malların satışı ƏDV-yə cəlb edilmir"
   ]
 },
 {
