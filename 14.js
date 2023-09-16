@@ -298,135 +298,135 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Elektrik mühərriki ilə işləyən avtomobillər üçün ikinci və üçüncü səviyyə elektrik enerji dolduruculannın idxalı hansı müddətə vergidən azaddır?",
+  answer: "B)	2022-ci il yanvarın 1 -dən 3 il müddətinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2022-ci il yanvarın 1-dən 2 il müddətinə",
+    "B)	2022-ci il yanvarın 1 -dən 3 il müddətinə",
+    "C)	2021-ci il yanvarın 1-dən 3 il müddətinə",
+    "D)	2022-ci il yanvarın 1-dən 5 il müddətinə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "“Məşğulluq haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq Azərbaycan Respublikası Əmək və Əhalinin Sosial Müdafiəsi Nazirliyinin tabeliyində Daya-nıqlı və Operativ Sosial Təminat Agentliyinin tərəfindən haqqı ödənilən ictimai işlərin təşkili ilə əlaqədar işçi qüvvəsinin təqdim edilməsi üzrə əməliyyatlar vergiyə necə cəlb olunur?",
+  answer: "C) Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 18 faiz dərəcə ilə",
+    "B) 2020-ci il yanvarın 1-dən 5 il müddətinə vergidən azaddır",
+    "C) Vergidən azaddır",
+    "D) 0 dərəcə ilə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "Heyvandarlıq və quşçuluq təsərrüfatlarında istifadə edilən yem və yem əlavələrinin satışı üzrə dövriyyələr - 2020-ci il yanvarın 1-dən neçə il müddətinə vergidən azaddır?",
+  answer: "B) 4 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 2 il",
+    "B) 4 il",
+    "C) 3 il",
+    "D) 5 il"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "Bina tikintisi fəaliyyəti ilə məşğul olan şəxslər tərəfindən tikilən binanın yaşayış sahəsinin dövlətə ayrılan hissəsinin təqdim edilməsi vergiyə hansı qaydada cəlb olunur?",
+  answer: "A) Vergidən azaddır ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Vergidən azaddır ",
+    "B) 2020-ci il yanvarın 1-dən 5 il müddətinə vergidən azaddır",
+    "C) 18%",
+    "D) Sıfır (0) dərəcə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Aşağıdakılardan hansı doğrudur?",
+  answer: "D) Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən dövlət adından yaradılan publik hüquqi şəxslər tərəfindən nizamnaməsində nəzərdə tutulan və ona həvalə edilən vəzifələrin yerinə yetirilməsi üçün büdcə qanunvericiliyinə uyğun olaraq dövlət büdcəsindən ayrılmış vəsait hesabına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında işlərin və xidmətlərin göstərilməsi 2020-ci il yanvarın 1-dən 4 il müddətinə vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən dövlət adından yaradılan publik hüquqi şəxslər tərəfindən nizamnaməsində nəzərdə tutulan və ona həvalə edilən vəzifələrin yerinə yetirilməsi üçün büdcə qanunvericiliyinə uyğun olaraq dövlət büdcəsindən ayrılmış vəsait hesabına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında işlərin və xidmətlərin göstərilməsi 2020-ci il yanvarın 1-dən 5 il müddətinə vergidən azaddır",
+    "B) Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən dövlət adından yaradılan publik hüquqi şəxslər tərəfindən nizamnaməsində nəzərdə tutulan və ona həvalə edilən vəzifələrin yerinə yetirilməsi üçün büdcə qanunvericiliyinə uyğun olaraq dövlət büdcəsindən ayrılmış vəsait hesabına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında işlərin və xidmətlərin göstərilməsi 2020-ci il yanvarın 1-dən 3 il müddətinə vergidən azaddır",
+    "C) Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən dövlət adından yaradılan publik hüquqi şəxslər tərəfindən nizamnaməsində nəzərdə tutulan və ona həvalə edilən vəzifələrin yerinə yetirilməsi üçün büdcə qanunvericiliyinə uyğun olaraq dövlət büdcəsindən ayrılmış vəsait hesabına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında işlərin və xidmətlərin göstərilməsi 2020-ci il yanvarın 1-dən 7 il müddətinə vergidən azaddır",
+    "D) Siyahısı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilən dövlət adından yaradılan publik hüquqi şəxslər tərəfindən nizamnaməsində nəzərdə tutulan və ona həvalə edilən vəzifələrin yerinə yetirilməsi üçün büdcə qanunvericiliyinə uyğun olaraq dövlət büdcəsindən ayrılmış vəsait hesabına müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında işlərin və xidmətlərin göstərilməsi 2020-ci il yanvarın 1-dən 4 il müddətinə vergidən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Azərbaycan Respublikasında keçirilən Formula 1 və Formula 2 yarışları ilə bağlı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ilə bağlanılmış müqavilə əsasında mal, iş və xidmətin təqdim edilməsi hansı müddətə vergidən azaddır?",
+  answer: "A) 2018-ci il yanvarm 1-dən 6 il müddətinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 2018-ci il yanvarm 1-dən 6 il müddətinə",
+    "B) 2020-çİ İl yanvarm 1-dən 6 il müddətinə",
+    "C) 2019-cu il yanvarın 1-dən 6 il müddətinə",
+    "D) 2018-ci il yanvarın 1-dən 5 il müddətinə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Azərbaycan Respublikasında daimi nümayəndəlik yaratmayan qeyri-rezident şəxslərin mülki aviasiya fəaliyyəti çərçivəsində hava gəmilərinin və hava gəmilərinin mühərriklərinin rezident hüquqi şəxslərə icarəyə və ya lizinqə verilməsi hansı müddətə vergidən azaddır?",
+  answer: "D)	Müddətsiz vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2018-ci il yanvarm 1-dən 6 il müddətinə",
+    "B)	2020-ci il yanvarm 1-dən 6 il müddətinə",
+    "C)	2021-ci il yanvarm 1-dən 6 il müddətinə",
+    "D)	Müddətsiz vergidən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 35,
+  question: "“Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq İcbari tibbi sığorta fondunun vəsaiti hesabına tibbi sığorta xidmətlərinin göstərilməsi hansı müddətə vergidən azaddır?",
+  answer: "B)	2020-ci il yanvarm 1-dən 3 il müddətinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2020-ci il yanvarm 1-dən 2 il müddətinə",
+    "B)	2020-ci il yanvarm 1-dən 3 il müddətinə",
+    "C) 2020-ci il yanvarm 1-dən 1 il müddətinə",
+    "D)	Müddətsiz vergidən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 36,
+  question: "Azərbaycan Respublikasının Minatəmizləmə Agentliyinin təsdiqedici sənədi əsasında Azərbaycan Respublikasının işğaldan azad edilmiş ərazilərinin, habelə müharibə və hərbi əməliyyatların təsirinə məruz qalmış digər ərazilərin minalardan və partlamamış hərbi Slirsatdau, tərkibində partlayıcı olan qurğulardan və digər partlayıcı qalıqlardan təmizlənməsi çərçivəsində bütün növ texnikanın, avadanlıqların, texniki vasitələrin və qurğuların, onların ehtiyat hissələrinin, fərdi zirehli qoruyucu geyimlərin, alətlərin, minaaxtaran itlərin, partlayıcı və pirotexniki vasitələrin idxalı hansı tarixdən və hansı müddətə vergidən azaddır?",
+  answer: "C) 2021-ci il oktyabrın 15-dən 5 il müddəfınə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 2021-ci il oktyabrın 15-dən 3 il müddəfmə ",
+    "B) 2022-ci il oktyabrın 15-dən 5 il müddəfınə ",
+    "C) 2021-ci il oktyabrın 15-dən 5 il müddəfınə",
+    "D)	Müddətsiz vergidən azaddır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 37,
+  question: "Lotereya biletlərinin satıcısı ilə bağlanmış müqavilə əsasında və ya onun tapşırığı əsasında lotereya biletlərinin bütün mərhələlərdə agent qaydasında satışının həyata keçirilməsi üzrə xidmətlərin göstərilməsi vergiyə hansı qaydada cəlb olunur?",
+  answer: "A) Vergidən azaddır ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Vergidən azaddır ",
+    "B) 5 il müddətinə vergidən azaddır",
+    "C) 18%",
+    "D) sıfır (0) "
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 38,
+  question: "Sıfır [0] dərəcə ilə ƏDV tutulan əməliyyatları göstərin: 1.	idxal olunan əmlak istisna olmaqla, müəssisənin nizamnamə fonduna [kapitalına] pay şəklində hər hansı əmlakın qoyulması; 2.	qrant müqaviləsi (qərarı) əsasında xaricdən alman qrantlar hesabma malların idxalı, qrant üzrə resipiyentlərə mailarm təqdim edilməsi, işlərin görülməsi və xidmətlərin göstərilməsi; 3.	beynəlxalq və tranzit yük və sərnişin daşınması. Beynəlxalq və tranzit uçuşlarla bilavasitə bağlı olan işlərin görülməsi, xidmətlərin göstərilməsi; 4.	malların və Vergi Məcəlləsinin 168.1.5-ci maddəsində göstərilmiş xidmətlərin ixracı; 5.	Azərbaycan Respublikası Mərkəzi Bankının və Azərbaycan Respublikasının Dövlət Neft Fondunun qanunvericiliklə nəzərdə tutulmuş vəzifələrinin yerinə yetirilməsi ilə bağlı mal idxalı, iş görülməsi və xidmət göstərilməsi.",
+  answer: "D) 2,3,4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,4",
+    "B) 1,3,5",
+    "C) 3,4,5",
+    "D) 2,3,4"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 39,
+  question: "Azərbaycan Respublikasında akkreditə edilmiş beynəlxalq təşkilatların və xarici ölkələrin diplomatik və konsulluq nümayəndəliklərinin rəsmi istifadəsi üçün nəzərdə tutulan mal və xidmətlərdən ƏDV hansı dərəcə ilə tutulur?",
+  answer: "A) Sıfır [0] dərəcə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Sıfır [0] dərəcə",
+    "B) 18 faiz",
+    "C) ƏDV-dən azaddır",
+    "D) 10 faiz"
   ]
 },
 ];
