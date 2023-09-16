@@ -244,13 +244,13 @@ let questions = [
 },
 {
   numb: 23,
-  question: "Aşağıda göstərilənlərdən hansı doğrudur? 1.	malların (işlərin, xidmətlərin) alıcısı agentdən aldığı elektron qaimə-faktura əsasında digər şəxsə (vəkalət verənə) malların (işlərin, xidmətlərin) dəyərini nağdsız qaydada, ƏDV məbləğini ƏDV-nin depozit hesabına ödəməklə ödənilmiş ƏDV məbləğini əvəzləşdirir" 2.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, alıcı tərəfindən alınmış malların (işlərin, xidmətlər) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənilsədə, agent tərəfindən həmin malların (işlərin, xidmətlərin) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir. 3.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olmadıqda, ahcı tərəfindən alınmış malların (işlərin, xidmətlərin) dəyəri digər şəxsin (vəkalət verənin) hesabına nağdsız qaydada, ƏDV məbləği ƏDV-nin depozit hesabına ödənildiyi halda agent tərəfindən həmin malların (işlərin, xidmə) alıcısına verilmiş elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir. 4.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas vermir 5.	agent ƏDV-nin məqsədləri üçün qeydiyyatda olduğu halda digər şəxsdən (vəkalət verəndən) qəbul etdiyi mallar (işlər, xidmətlər) üçün həmin malların (işlərin, xidmətlərin) alıcılarına Vergi Məcəlləsinin 71-1.5.5-ci maddəsində nəzərdə tutulan elektron qaimə-faktura verir. Həmin elektron qaimə-faktura Vergi Məcəlləsinin 175-ci maddəsinə uyğun olaraq ödənilmiş ƏDV-nin əvəzləşdirilməsinə əsas verir",
-  answer: "D) 1,3,5",
+  question: "Hansı halda 2022-ci il yanvarm 1-dən əldə edilmiş kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) topdan və pərakəndə satışından 3 il müddətində ƏDV ticarət əlavəsindən hesablanır?",
+  answer: "C)	Kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) alışı elektron qaimə-faktura, idxal gömrük bəyannaməsi və bu bəyannamə ilə bağlı hesab-faktura (invoys), habelə elektron alış aktı ilə, topdan və pərakəndə satışı müvafiq olaraq elektron qaimə-faktura və nəzarət kassa-aparatının çeki ilə rəsmiləşdirildiyi halda",
   options: [
-    "A) 1,2,5",
-    "B) 2,3,4",
-    "C) 1,3,4",
-    "D) 1,3,5"
+    "A)	Kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) topdan və pərakəndə satışı müvafiq olaraq yalnız elektron qaimə-faktura ilə rəsmiləşdirildikdə",
+    "B)	Kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) alışı yalnız elektron qaimə-faktura, idxal gömrük bəyannaməsi və bu bəyannamə ilə bağlı hesab-faktura (invoys), topdan və pərakəndə satışı müvafiq olaraq elektron qaimə-faktura və nəzarət kassa-aparatınm çeki ilə rəsmiləşdirildiyi halda ",
+    "C)	Kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) alışı elektron qaimə-faktura, idxal gömrük bəyannaməsi və bu bəyannamə ilə bağlı hesab-faktura (invoys), habelə elektron alış aktı ilə, topdan və pərakəndə satışı müvafiq olaraq elektron qaimə-faktura və nəzarət kassa-aparatının çeki ilə rəsmiləşdirildiyi halda",
+    "D)	Kənd təsərrüfatı məhsullarının (yerli və xarici mənşəli) alışı yalnız elektron alış aktı ilə idxal gömrük bəyannaməsi və bu bəyannamə ilə bağlı hesab-faktura (invoys), topdan və pərakəndə satışı müvafiq olaraq elektron qaimə-faktura və nəzarət kassa-aparatının çeki ilə rəsmiləşdirildiyi halda"
   ]
 },
 {
@@ -366,17 +366,17 @@ let questions = [
 {
   numb: 34,
   question: "Komisyon qaydasında idxal olunmuş mallar ƏDV ödəyicisi olan komisyonçc tərəfindən satılmadan tam və ya qismən komitentin tapşırığı ilə Azərbaycan Respublikas ərazisində başqa şəxsə verildikdə	",
-  answer: "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+  answer: "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
   options: [
-    "A)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satıla. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "A)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satıla." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
     "B)	Komisyonçunun büdcə qarşısında ƏDV öhdəliyi yaranmır",
-    "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa. hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
+    "C)	Gömrük orqanlarına ödənilmiş ƏDV-nin əvəzləşdirilən məbləğinin malların satılmasa." hissəsinə düşən məbləği komisyonçu tərəfindən büdcəyə hesablanmalıdır.",
     "D)	ƏDV öhdəliyi komitentin üzərinə düşür"
   ]
 },
 {
   numb: 35,
-  question: "ƏDV ödəyicisi olan şəxslər tərəfindən Vergi Məcəlləsinin 172-ci maddəsində göstərilən əməliyyatlardan başqa digər əməliyyatlar da həyata keçirildikdə	",
+  question: "ƏDV ödəyicisi olan şəxslər tərəfindən Vergi Məcəlləsinin 172-ci maddəsində göstərilən əməliyyatlardan başqa digər əməliyyatlar da həyata keçirildikdə",
   answer: "A)	Həmin əməliyyatların uçotu ayrıca aparılır",
   options: [
     "A)	Həmin əməliyyatların uçotu ayrıca aparılır",
