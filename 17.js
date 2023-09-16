@@ -298,80 +298,80 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "Vergi tutulan idxal üzrə ƏDV Vergi Məcəlləsinə və gömrük qanunvericiliyinə uyğun olaraq gömrük rüsumlarının ödənilməsi üçün nəzərdə tutulan qaydada hansı dövlət orqanı tərəfindən hesablanır və alınır?",
+  answer: "D) Gömrük orqanları tərəfindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi orqanları tərəfindən ",
+    "B)	Bələdiyyələr tərəfindən ",
+    "C) Məhkəmə orqanları tərəfindən",
+    "D) Gömrük orqanları tərəfindən"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "ƏDV üzrə qeydiyyat keçmiş tarixlə aparıldıqda, keçmiş hesabat dövrləri üçün bəyannamə necə təqdim olunur?",
+  answer: "C)	Keçmişdə aparılan əməliyyatlar vergi ödəyicisi tərəfindən verilən birinci bəyannamədə əks etdirilir və bu əməliyyatlar bəyannamə verildiyi ay ərzində baş vermiş əməliyyatlar sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Keçmiş hər bir hesabat dövrü üçün ayrıca bəyannamə təqdim edilir",
+    "B)	Keçmiş hesabat dövrləri üçün ümumilikdə bir bəyannamə təqdim edilir",
+    "C)	Keçmişdə aparılan əməliyyatlar vergi ödəyicisi tərəfindən verilən birinci bəyannamədə əks etdirilir və bu əməliyyatlar bəyannamə verildiyi ay ərzində baş vermiş əməliyyatlar sayılır",
+    "D)	Keçmiş hesabat dövrləri üçün bəyannamə təqdim edilmir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "Naxçıvan MR-da tutulan ƏDV hansı büdcəyə ödənilir?",
+  answer: "A)	Naxçıvan MR-nın büdcəsinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Naxçıvan MR-nın büdcəsinə",
+    "B)	Respublika büdcəsinə",
+    "C)	Yerli icra hakimiyyətinin büdcədənkənar fonduna",
+    "D)	Bələdiyyə büdcəsinə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "ƏDV üzrə hesabat dövrü hansı dövr sayıhr?",
+  answer: "D) Təqvim ayı",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Təqvim ili",
+    "B) Rüb",
+    "C) Hesabat dövrü müəyyənləşdirilməyib",
+    "D) Təqvim ayı"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Hesabat dövründə vergi tutulan dövriyyəsinin azı neçə faizi sıfır [0] dərəcəsi ilə vergi cəlb olunan vergi ödəyicisinə ƏDV-nin artıq ödənilmiş məbləği onun ərizəsinin verildiyi vaxtdan 20 gün ərzində qaytarılır?",
+  answer: "B) 50 faizi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 45 faizi",
+    "B) 50 faizi",
+    "C) 75 faizi",
+    "D) 25 faizi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Hesabat dövründə vergi tutulan dövriyyəsinin azı 50 faizi sıfır [0] dərəcəsi ilə vergi cəlb olunan vergi ödəyiciləri istisna olmaqla, digər vergi ödəyiciləri üçün əvəzləşdirilən vergi məbləğinin hesabat dövrü ərzində hesablanmış vergi məbləğindən artıq olan hissəsi vergi ödəyicisinin vergi və gömrük orqanlarına ərizəsini verdiyi vaxtdan hansı müddətə büdcədən qaytarılır?",
+  answer: "C)	Ödəyicinin vergi və gömrük orqanlarına ərizəsini verdiyi vaxtdan 4 aydan gec olmayaraq qaytarılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Artıq olan məbləğ qaytarılmır",
+    "B)	Ödəyicinin vergi və gömrük orqanlarına ərizəsini verdiyi vaxtdan 20 gün ərzində qaytarılır",
+    "C)	Ödəyicinin vergi və gömrük orqanlarına ərizəsini verdiyi vaxtdan 4 aydan gec olmayaraq qaytarılır",
+    "D)	Ödəyicinin vergi və gömrük orqanlarına elektron formada ərizəsini verdiyi vaxtdan 3 aydan gec olmayaraq qaytarılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Müəyyən məbləğlərin vergi ödəyicisinə səhvən qaytarıldığı hansı hallarda vergi və ya gömrük orqanları həmin məbləğlərin vergilərin tutulması üçün müəyyən edilmiş qaydada qaytarılmasını tələb etməlidir?",
+  answer: "A)	Bütün hallarda",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bütün hallarda",
+    "B)	Heç bir halda",
+    "C) Səhvən qaytaran orqandan tutulur",
+    "D) Xüsusi hallarda"
   ]
 },
 {
