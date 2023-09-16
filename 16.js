@@ -57,167 +57,167 @@ let questions = [
 },
 {
   numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  question: "Vergi agenti ƏDV-nin məqsədləri üçün qeydiyyatdan keçmişdirsə, qeyri- rezidentdən hesablanan ƏDV nə vaxt büdcəyə ödənilir?",
+  answer: "C)	Ödəmənin verildiyi ay üçün ƏDV-nin bəyannaməsi verilərkən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ödəmə verildiyi gün ərzində",
+    "B)	Ödəmə verildiyi gündən sonrakı 5 gün ərzində ",
+    "C)	Ödəmənin verildiyi ay üçün ƏDV-nin bəyannaməsi verilərkən",
+    "D)	Ödəmə verildiyi gündən sonrakı 7 gün ərzində"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 7,
+  question: "Vergi agenti ƏDV-nin məqsədləri üçün qeydiyyatdan keçmişdirsə, qeyri-rezidentə hesablanan verginin ödənilməsini təsdiq edən ödəmə sənədi vergi agentinə ƏDV-nin məbləğini əvəzləşdirmək hüququnu verirmi?",
+  answer: "A)	ödənişin formasından asılı olmayaraq əvəzləşdirmək hüququ verir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ödənişin formasından asılı olmayaraq əvəzləşdirmək hüququ verir",
+    "B)	Ödənişin formasından asılı olmayaraq əvəzləşdirmək hüququ vermir",
+    "C)	Ödəniş nağd qaydada aparıldıqda vermir",
+    "D)	Elektron qaimə faktura əldə edildikdə verir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+  numb: 8,
+  question: "Vergi agenti ƏDV-nin məqsədləri üçün qeydiyyatdan keçməmişdirsə, o qeyri- rezidentdən hesablanan ƏDV-ni nə vaxt büdcəyə ödəməyə borcludur?",
+  answer: "D)	Ödəmə verildiyi gündən sonrakı 7 gün ərzində",
+  options: [    
+    "A)	Ödəmə verildiyi gün ərzində",
+    "B)	Ödəmə verildiyi gündən sonrakı 5 gün ərzində ",
+    "C)	Ödəmənin verildiyi ay üçün ƏDV-nin bəyannaməsi verilərkən",
+    "D)	Ödəmə verildiyi gündən sonrakı 7 gün ərzində"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 9,
+  question: "Qeyri-rezidentə məxsus əmlak vergi agentinə icarəyə verilmək üçün idxal edildikdə, hansı şərt daxilində vergi agenti idxaldan ödənilmiş vergidən ƏDV-nin məbləğinin əvəzləşdirilməsini tələb edə bilər?",
+  answer: "C)	Əmlakın sahibi olan qeyri-rezidentin icazəsi olduqda",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi orqanının icazəsi olduqda",
+    "B)	Gömrük orqanının icazəsi olduqda",
+    "C)	Əmlakın sahibi olan qeyri-rezidentin icazəsi olduqda",
+    "D)	Maliyyə orqanının icazəsi olduqda"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 10,
+  question: "Malların idxalı zamanı ƏDV üzrə vergi tutulan əməliyyatın aparıldığı vaxt hansı vaxt sayılır ?",
+  answer: "B)	Gömrük qanunvericiliyinə uyğun olaraq gömrük rüsumlarının tutulduğu vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İdxal mallarının təqdim edildiyi vaxt",
+    "B)	Gömrük qanunvericiliyinə uyğun olaraq gömrük rüsumlarının tutulduğu vaxt",
+    "C)	Gömrük xidməti nəzarətindən çıxdıqdan sonrakı ayın 1-ci günü",
+    "D)	Mallar idxal ediləndən 5 gün sonra"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 11,
+  question: "Əgər idxal olunan mallar gömrük rüsumlarından azad edilirsə, ƏDV tutulan əmə-liyyatın vaxtı necə müəyyənləşdirilir?",
+  answer: "B)	Malların gömrük xidməti nəzarətindən çıxdığı vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İdxal mallarının təqdim edildiyi vaxt",
+    "B)	Malların gömrük xidməti nəzarətindən çıxdığı vaxt",
+    "C)	Malların gömrük xidməti nəzarətindən çıxdıqdan sonrakı ayın 1 -ci günü",
+    "D)	Mallar idxal ediləndən 5 gün sonra"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 12,
+  question: "Aşağıdakılardan hansı dorudur?",
+  answer: "A)	Mallar göndərilməsinə, işlər görülməsinə və ya xidmətlər göstərilməsinə yardımçı xarak¬ter daşıyan mallar göndərilməsi, işlər görülməsi, xidmətlər göstərilməsi onların bir hissəsi sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mallar göndərilməsinə, işlər görülməsinə və ya xidmətlər göstərilməsinə yardımçı xarak¬ter daşıyan mallar göndərilməsi, işlər görülməsi, xidmətlər göstərilməsi onların bir hissəsi sayılır",
+    "B)	Mallar göndərilməsinə, işlər görülməsinə və ya xidmətlər göstərilməsinə yardımçı xarak¬ter daşıyan mallar göndərilməsi, işlər görülməsi, xidmətlər göstərilməsi onların bir hissəsi sayılmır",
+    "C)	Ayrı-ayrı əməliyyatlar kimi baxılır",
+    "D)	Əməliyyatlara ayrılmır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 13,
+  question: "Aşağıdakılardan hansı doğru olmayanlara aid deyil?",
+  answer: "B)	İxracatçının malların idxalına yardımçı xarakter daşıyan işlər görməsi və ya xidmətlər göstərməsi malların idxalının bir hissəsi sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İxracatçının malların idxalına yardımçı xarakter daşıyan işlər görməsi və ya xidmətlər göstərməsi malların idxalının bir hissəsi sayılmır",
+    "B)	İxracatçının malların idxalına yardımçı xarakter daşıyan işlər görməsi və ya xidmətlər göstərməsi malların idxalının bir hissəsi sayılır",
+    "C)	Ayrı-ayrı əməliyyatlar kimi baxıhr",
+    "D)	İxracatçının malların idxalına yardımçı xarakter daşıyan işlər görməsi və ya xidmətlər göstərməsi malların ixracının bir hissəsi sayılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 14,
+  question: "Müstəqil elementlərdən ibarət əməliyyat bölünərkən vergiyə cəlb edilən və ƏDV- dən azad olan əməliyyatlara aynlırsa, onlara necə baxılır?",
+  answer: "C)	Ayrı-ayrı əməliyyatlar kimi baxılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bir əməliyyat kimi baxılır",
+    "B)	Yalnız vergi orqanının razılığı ilə bir əməliyyatlar kimi baxılır",
+    "C)	Ayrı-ayrı əməliyyatlar kimi baxılır",
+    "D)	Əməliyyatlara ayrılmır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 15,
+  question: "ƏDV məqsədləri üçün digər şəxsin (vəkalət verən) agenti (vəkalət alan) olan şəxs tərəfindən mallar göndərilməsi, işlər görülməsi və ya xidmətlər göstərilməsi kimin həyata keçirdiyi əməliyyat sayılır?",
+  answer: "A)	Vəkalət verənin ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vəkalət verənin ",
+    "B)	Vəkalət alanm ",
+    "C) Hər ikisinin",
+    "D) Vəkalət verənlə vəkalət alanın razılığı ilə müəyyənləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 16,
+  question: "Rezident olmayan və Azərbaycan Respublikasında ƏDV-nin ödəyicisi kimi qeydiyyatdan keçməmiş şəxsin rezident agentinin Azərbaycan Respublikasına mallar göndərməsi ƏDV-nin məqsədləri üçün kim tərəfindən həyata keçirilən əməliyyat sayılır?",
+  answer: "B)	Rezident olmayan və Azərbaycan Respublikasında ƏDV-nin ödəyicisi kimi qeydiyyatdan keçməmiş şəxsin agenti tərəfindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Rezident olmayan və Azərbaycan Respublikasında ƏDV-nin ödəyicisi kimi qeydiyyatdan keçməmiş şəxs tərəfindən",
+    "B)	Rezident olmayan və Azərbaycan Respublikasında ƏDV-nin ödəyicisi kimi qeydiyyatdan keçməmiş şəxsin agenti tərəfindən",
+    "C)	Hər ikisi tərəfindən",
+    "D) Belə əməliyyatlara icazə verilmir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 17,
+  question: "Agent ƏDV üzrə vergi ödəyicisi olduqda, agentin digər şəxsdən [vəkalət verəndən) aldığı elektron qaimə-faktura ona ƏDV məbləğini əvəzləşdirmək hüququ verirmi?",
+  answer: "B)	Digər şəxsdən alınmış elektron qaimə-faktura agentə ƏDV əvəzləşdirmək hüququ vermir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Elektron qaimə-faktura əldə edildikdə əvəzləşdirmək hüququ verir",
+    "B)	Digər şəxsdən alınmış elektron qaimə-faktura agentə ƏDV əvəzləşdirmək hüququ vermir",
+    "C)	Elektron qaimə-faktura üzrə ödəniş nağdsız qaydada aparıldıqd əvəzləşdirmək hüququ verir",
+    "D)	Agentin heç bir halda ƏDV əvəzləşdirmək hüququ yoxdur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 18,
+  question: "Aşağıdakılardan hansı doğrudur?",
+  answer: "D)	Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqlar (mükafatlar) agentin vergi tutulan əməliyyatlarına daxil edilməklə yanaşı, digər şəxsin gəlirdən çıxılan xərclərinə aid edilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqların (mükafatların) 50 faizi agentin vergi tutulan əməliyyatlarına daxil edilməklə yanaşı, digər şəxsin gəlirdən çıxılan xərclərinə aid edilir",
+    "B)	Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqlar (mükafatlar) agentin vergi tutulan əməliyyatlarına daxil edilir, lakin digər şəxsin gəlirdən çıxılan xərclərinə aid edilmir",
+    "C)	Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqlar (mükafatlar) agentin vergi tutulan əməliyyatlarına daxil edilmir, lakin digər şəxsin gəlirdən çıxılan xərclərinə aid edilir",
+    "D)	Agent tərəfindən göstərilən xidmətlərə görə ona ödənilən haqlar (mükafatlar) agentin vergi tutulan əməliyyatlarına daxil edilməklə yanaşı, digər şəxsin gəlirdən çıxılan xərclərinə aid edilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 19,
+  question: "Digər şəxs (vəkalət verən) üçün vergi tutulan əməliyyatların vaxtı necə müəyyən edilir?",
+  answer: "A)	Vergi Məcəlləsinin 166-cı maddəsi ilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsinin 166-cı maddəsi ilə",
+    "B)	Mallar (işlər, xidmətlər) agentə tam verildikdən sonra müəyyən edilir",
+    "C)	Mal alanın müəyyən etdiyi qaydada",
+    "D)	Agent tərəfindən sərbəst müəyyən edilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "Digər şəxs (vəkalət verən) tərəfindən malların agentə təhvil verilməsi hansı sənəd ilə rəsmiləşdirilir?",
+  answer: "B)	Bu məqsəd üçün nəzərdə tutulan elektron qaimə-faktura ilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İstənilən növ elektron qaimə-faktura ilə",
+    "B)	Bu məqsəd üçün nəzərdə tutulan elektron qaimə-faktura ilə",
+    "C)	Qəbzlə",
+    "D)	Qaimə-faktura ilə"
   ]
 },
 {
