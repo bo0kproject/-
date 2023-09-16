@@ -210,223 +210,223 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 20,
+  question: "Vergİ ÖdəyİCİSİ tərəfindən təqdim edilən və dəyəri ödənilməyən mallar (işlər, xidmətlər) üzrə həmin malların (işlərin, xidmətlərin) alıcısı tərəfindən malları (işləri, xidmətləri) təqdim edən vergi ödəyicisinə borc vəsait verildikdə, ƏDV tutulan əməliyyatın vaxtı necə müəyyən olunur?",
+  answer: "D)	Mallar (işlər, xidmətlər) təqdim edilənədək verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) - malların (işlərin, xidmətlərin) təqdim edildiyi vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mallar (işlər, xidmətlər) təqdim edilənədək verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar da daxil olmaqla) - malların (işlərin, xidmətlərin) təqdim edildiyi vaxt",
+    "B)	Mallar (işlər, xidmətlər) təqdim edilənədək verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) - malların (işlərin, xidmətlərin) təqdim edildiyi vaxtadək",
+    "C)	Mallar (işlər, xidmətlər) təqdim edildikdən sonra verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) - malların (işlərin, xidmətlərin) təqdim edildiyi vaxt",
+    "D)	Mallar (işlər, xidmətlər) təqdim edilənədək verilmiş borclar üzrə (kredit təşkilatları və bank əməliyyatları aparan şəxslər tərəfindən verilmiş borclar istisna olmaqla) - malların (işlərin, xidmətlərin) təqdim edildiyi vaxt"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 21,
+  question: "Vergi tutulan əməliyyat üzrə iki və ya daha çox ödəmə aparılırsa, vergi tutulan əməliyyatın vaxtı necə müəyyən olunur?",
+  answer: "D)	Hər ödəmə ödəniş miqdarmda ayrıca əməliyyat sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ödəmələr tam qurtardıqdan sonra əməliyyat bitmiş sayılır",
+    "B)	Hər ödəmə ödəniş miqdarında ayrıca əməliyyat sayılmır",
+    "C)	Hər ödəmə ödəniş miqdarında bir əməliyyat sayılır",
+    "D)	Hər ödəmə ödəniş miqdarmda ayrıca əməliyyat sayılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 22,
+  question: "Ödəmə malların (işlərin, xidmətlərin) təqdim edilməsinədək həyata keçirildikdə, vergi tutulan əməliyyatın vaxtı necə müəyyən olunur?",
+  answer: "B)	Ödəmənin həyata keçirildiyi vaxt vergi tutulan əməliyyatın vaxtı sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ödəmələr tam qurtardıqdan sonra əməliyyat bitmiş sayılır",
+    "B)	Ödəmənin həyata keçirildiyi vaxt vergi tutulan əməliyyatın vaxtı sayılır",
+    "C)	Ödəmə həyata keçirilənədək vergi tutulan əməliyyatın vaxtı sayılır",
+    "D)	Ödəmənin həyata keçirildiyi gündən sonra vergi tutulan əməliyyatın vaxtı sayılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 23,
+  question: "Alınmış avans ödəmələri üzrə elektron qaimə-faktura verilə bilərmi?",
+  answer: "B)	Verilə bilməz ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Verilə bilər ",
+    "B)	Verilə bilməz",
+    "C) Vergi ödəyicisinin tələbi ilə verilə bilər",
+    "D) Vergi orqanının qərarı əsasında verilə bilər"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 24,
+  question: "Vergi Məc. 166-cı maddəsinin məqsədləri üçün ödəmə dedikdə nə nəzərdə tutulur?",
+  answer: "A)	Təqdim edilmiş malların (işlərin, xidmətlərin) ƏDV-siz dəyərinin ödənilməsi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təqdim edilmiş malların (işlərin, xidmətlərin) ƏDV-siz dəyərinin ödənilməsi",
+    "B)	Təqdim edilmiş malların (işlərin, xidmətlərin) ƏDV-li dəyərinin ödənilməsi",
+    "C)	Təqdim edilmiş malların (işlərin,xidmətlərin) ƏDV-siz dəyərinin ən azı 50%-nin ödənməsi",
+    "D)	Təqdim edilmiş malların (işlərin,xidmətlərin) ƏDV-li dəyərinin ən azı 50%-nin ödənməsi"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 25,
+  question: "Malların göndərilməsi şərtlərində malların yola salınması və ya nəql edilməsi [onları mal alıcısında quraşdırmamaqla] nəzərdə tutulursa, ƏDV məqsədləri üçün maiiarm təqdim edilməsi yeri hansı yer sayılır?",
+  answer: "C)	Malların yola salınmasına və ya nəql edilməsinə başlandığı yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların alıcıya təqdim edildiyi yer",
+    "B)	Malların nəql edilməsinin başa çatdırıldığı yer",
+    "C)	Malların yola salınmasına və ya nəql edilməsinə başlandığı yer",
+    "D)	Malları təqdim edənin olduğu yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 26,
+  question: "Malların göndərilməsi şərtlərində malların yola salınması və ya nəql edilməsi [onları mal alıcısında quraşdırmaqla) nəzərdə tutulursa, ƏDV məqsədləri üçün malların təqdim edilməsi yeri hansı yer sayılır?",
+  answer: "C) Malların qurulduğu və ya quraşdırıldığı yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların nəqlinin başlandığı yer	",
+    "B)	Malların təqdim edildiyi yer",
+    "C) Malların qurulduğu və ya quraşdırıldığı yer",
+    "D) Malların nəqlinin başa çatdığı "
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 27,
+  question: "İşlər (xidmətlər) bilavasitə daşınmaz əmlakla bağlı olduqda, ƏDV məqsədləri üçün işlərin görüldüyü, yaxud xidmətlərin göstərildiyi yer hansı yer sayılır?",
+  answer: "C)	Daşınmaz əmlakın olduğu yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İşləri görən və xidmətləri göstərən şəxsin fəaliyyət göstərildiyi yer",
+    "B)	İşlərin və xidmətlərin alıcısının yerləşdiyi yer",
+    "C)	Daşınmaz əmlakın olduğu yer",
+    "D)	İşləri görən şəxsin qeydiyyatda olduğu yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 28,
+  question: "İşlərin görüldüyü yer daşınan əmlakla bağlıdırsa, ƏDV məqsədləri üçün işlərin görüldüyü yer hansı yer saydır?",
+  answer: "A)	İşlərin faktiki görüldüyü yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İşlərin faktiki görüldüyü yer",
+    "B)	İşlərin alıcısının yerləşdiyi yer ",
+    "C) Daşınan əmlakın mülkiyyətçisinin olduğu yer",
+    "D) İşləri görən şəxsin qeydiyyatda olduğu yer "
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 29,
+  question: "Xidmətlər mədəniyyət, incəsənət, təhsil, bədən tərbiyəsi və ya idman sahəsində göstərilirsə, ƏDV məqsədləri üçün xidmətlərin göstərildiyi yer hansı yer sayılır?",
+  answer: "B)	Xidmətlərin faktiki göstərildiyi yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Xidmət göstərən şəxsin olduğu yer",
+    "B)	Xidmətlərin faktiki göstərildiyi yer",
+    "C)	Xidmət göstərən şəxsin qeydiyyatda olduğu yer",
+    "D)	Xidmətlərin alıcısının təsis edildiyi yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 30,
+  question: "ƏDV-nin məqsədləri üçün nəqliyyatın həyata keçirildiyi yer [işlər, xidmətlər bu nəqletmə ilə bağlı olduqda] hara sayılır?",
+  answer: "D)	c faktiki həyata keçirildiyi yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nqliyyat vasitəsinin qeydiyyatda olduğu yer",
+    "B)	Nəqliyyat xidmətinin faktiki ödənildiyi yer",
+    "C)	Nəqliyyat xidmətindən istifadə edən şəxsin olduğu yer",
+    "D)	Nəqliyyatın faktiki həyata keçirildiyi yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 31,
+  question: "ƏDV-nin məqsədləri üçün işlərin və ya xidmətlərin alıcısının yerləşdiyi və ya qeydiyyatda olduğu, təsis edildiyi, işlərin və ya xidmətlərin alıcının daimi nümayəndəliyi ilə bilavasitə bağlı olduğu halda həmin daimi nümayəndəliyin olduğu yer aşağıdakı hansı xidmətlərə tətbiq edilir? 1.	tentlərin, lisenziyaların, ticarət markalarının, müəlliflik və digər analoji hüquqların mülkiyyətə verilməsi və ya güzəşt edilməsi, o cümlədən istifadəyə verilməsi 2.	sləhət, hüquq, mühasibat, mühəndis və ya reklam xidmətlərinin, həmçinin məlumatların işlənilməsi üzrə xidmətlərin və digər analoji xidmətlərin göstərilməsi 3.	çi qüvvəsinin təchiz edilməsi üzrə xidmətlərin göstərilməsi (işçilər bu xidmətlərin alıcısının fəaliyyət göstərdiyi yerdə işlədikləri halda) 4. radio və televiziya yayımı, poçt rabitəsi xidmətlərinin göstərilməsi 5. daşınmaz əmlakın icarəyə verilməsi",
+  answer: "A) 1,2,3,4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1,2,3,4",
+    "B) 2,3,4,5",
+    "C) 1,2,4.5",
+    "D) 1.3,4,5"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 32,
+  question: "Kompüter, internet və digər elektron şəbəkələr, elektron poçt və digər oxşar vasitələrlə xidmətlərin göstərilməsi, yaxud bu cür şəbəkələrdən və ya xidmətlərdən istifadə hüququnun verilməsi xidmətləri üzrə işlərin görüldüyü və ya xidmətlərin göstərildiyi yer (ƏDV məqsədləri üçün) aşağıdakılardan hansıdır?",
+  answer: "A)	İşlərin və ya xidmətlərin alıcısının yerləşdiyi və ya qeydiyyatda olduğu, təsis edildiyi, işlər və ya xidmətlər alıcının daimi nümayəndəliyi ilə bilavasitə bağlı olduğu halda həmin daimi nümayəndəliyin olduğu yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İşlərin və ya xidmətlərin alıcısının yerləşdiyi və ya qeydiyyatda olduğu, təsis edildiyi, işlər və ya xidmətlər alıcının daimi nümayəndəliyi ilə bilavasitə bağlı olduğu halda həmin daimi nümayəndəliyin olduğu yer",
+    "B)	İşlərin faktiki görüldüyü (xidmətlərin faktiki göstərildiyi) yer",
+    "C)	Daşınmaz əmlakın olduğu yer",
+    "D) Nəqliyyatın faktiki həyata keçirildiyi yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 33,
+  question: "Elektron ticarətin satıcıları tərəfindən işlərin və xidmətlərin təqdim edilməsi, habelə elektron qaydada təşkil olunan lotereyaların (o cümlədən virtual lotereyaların),idman mərc oyunlarının, digər yarışların və müsabiqələrin keçirilməsi xidmətləri üzrə işlərin görül-düyü və ya xidmətlərin göstərildiyi yer (ƏDV məqsədləri üçün) aşağıdakılardan hansıdır?",
+  answer: "C)	İş və xidmət təqdim edildikdə və ya lotereya, digər yarış və müsabiqə keçirildikdə vergi tutulan əməliyyatın yeri kimi xidmətlərin alıcısının və lotereya, yarış və müsabiqənin iştirakçısının olduğu yer müəyyən olunur və həmin dövlətdə də ƏDV tətbiq olunur.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İşlərin və ya xidmətlərin satıcısının yerləşdiyi və ya qeydiyyatda olduğu, təsis edildiyi, işlər və ya xidmətlər alıcının daimi nümayəndəliyi ilə bilavasitə bağh olduğu halda həmin daimi nümayəndəliyin olduğu yer,",
+    "B)	İşlərin faktiki görüldüyü (xidmətlərin faktiki göstərildiyi) yer",
+    "C)	İş və xidmət təqdim edildikdə və ya lotereya, digər yarış və müsabiqə keçirildikdə vergi tutulan əməliyyatın yeri kimi xidmətlərin alıcısının və lotereya, yarış və müsabiqənin iştirakçısının olduğu yer müəyyən olunur və həmin dövlətdə də ƏDV tətbiq olunur.",
+    "D) Nəqliyyatın faktiki həyata keçirildiyi yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 34,
+  question: "Aşağıdakılardan hansı ƏDV-nin məqsədləri üçün işlərin görüldüyü və ya xidmətlərin göstərildiyi yer sayılır?",
+  answer: "A)	İşi yerinə yetirən və ya xidmət göstərən şəxsin fəaliyyəti həyata keçirdiyi yer",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İşi yerinə yetirən və ya xidmət göstərən şəxsin fəaliyyəti həyata keçirdiyi yer",
+    "B)	İş görülən və ya xidmət göstərilən şəxsin olduğu yer",
+    "C)	Daşınmaz əmlakın olduğu yer",
+    "D)	Dşi yerinə yetirən və ya xidmət göstərən şəxsin uçotda olduğu yer"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 35,
+  question: "Vergi Məcəlləsinin 168.1-ci maddəsi tətbiq edildikdə, birdən çox maddədə sadala-nan işlərin görüldüyü və ya xidmətlərin göstərildiyi yer necə müəyyən olunur?",
+  answer: "D)	Maddələrin sıra üzrə birincisi ilə müəyyənləşdirilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər bir maddə üzrə müəyyənləşdirilir",
+    "B)	Maddələrin sıra üzrə axırıncısı ilə müəyyənləşdirilir",
+    "C)	İşi görən və xidməti göstərənin isəyi ilə müəyyənləşdirilir",
+    "D)	Maddələrin sıra üzrə birincisi ilə müəyyənləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 36,
+  question: "ƏDV-nin məqsədləri üçün qeydiyyata alınmayan qeyri-rezident Azərbaycan Res. ərazisində işlərin görülməsi və ya xidmətlərin göstərilməsi üzrə vergiyə cəlb olunurmu?",
+  answer: "D)	Qeyri-rezidentə ödənilməli olan məbləğə [ƏDV nəzərə alınmadan] 18 faiz vergi dərəcə¬sini tətbiq etməklə cəlb olunur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Qeyri-rezidentə ödənilməli olan məbləğə sıfır [0] faiz vergi dərəcəsini tətbiq etməklə cəlb olunur",
+    "B)	Qeyri-rezidentə ödənilməli olan məbləğə [ƏDV ilə birlikdə] 18 faiz vergi dərəcəsini tətbiq etməklə olunur",
+    "C)	Qeyri-rezidentə ödənilməli olan məbləğə ƏDV hesablanmır",
+    "D)	Qeyri-rezidentə ödənilməli olan məbləğə [ƏDV nəzərə alınmadan] 18 faiz vergi dərəcə¬sini tətbiq etməklə cəlb olunur"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 37,
+  question: "Aşağıdakılardan hansı doğrudur?",
+  answer: "C)	ƏDV-nin məqsədləri üçün qeydiyyata alınan hər hansı şəxs qeyri-rezidentə ödəmə edər¬kən vergi agenti sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	ƏDV-nin məqsədləri üçün qeydiyyata alman hər hansı şəxs qeyri-rezidentə ödəmə edər¬kən vergi agenti sayılmır",
+    "B)	İstənilən şəxs qeyri-rezidentə ödəmə edərkən vergi agenti sayılmır",
+    "C)	ƏDV-nin məqsədləri üçün qeydiyyata alınan hər hansı şəxs qeyri-rezidentə ödəmə edər¬kən vergi agenti sayılır",
+    "D)	Yalnız ƏDV-nin məqsədləri üçün qeydiyyata alınmayan hər hansı şəxs qeyri-rezidentə ödəmə edərkən vergi agenti sayılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 38,
+  question: "ƏDV-nin məqsədləri üçün qeydiyyata alınmayan qeyri-rezident Azərbaycan Respublikasının ərazisində vergi agenti üçün xidmət göstərirsə və ya iş görürsə, vergi tutulan əməliyyatın vaxtı necə müəyyən olunur?",
+  answer: "A)	Vergi tutulan əməliyyat ödəmənin həyata keçirildiyi vaxt sayılır, ödəmə əməliyyatın həyata keçirilməsinədək aparıldıqda isə, vergi tutulan əməliyyat ödəmə həyata keçirildikdə aparılmış sayılır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi tutulan əməliyyat ödəmənin həyata keçirildiyi vaxt sayılır, ödəmə əməliyyatın həyata keçirilməsinədək aparıldıqda isə, vergi tutulan əməliyyat ödəmə həyata keçirildikdə aparılmış sayılır",
+    "B)	Vergi tutulan əməliyyatın vaxtı xidmət və ya işin başa çatdığı vaxt sayılır",
+    "C)	Elektron qaimə-fakturanm verildiyi vaxt vergi tutulan əməliyyatın vaxtı sayılır",
+    "D)	Vergi tutulan əməliyyat ödəmənin həyata keçirildiyi gündən sonrakı gün sayılır, ödəmə əməliyyatın həyata keçirilməsinədək aparıldıqda isə, vergi tutulan əməliyyat ödəmə həyata keçirildikdə aparılmış sayılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 39,
+  question: "Qeyri-rezidentə ödənməli olan məbləğə ƏDV necə hesablanır?",
+  answer: "D)	Vergi dərəcəsinin qeyri-rezidentə ödənməli olan məbləğə (ƏDV nəzərə alınmadan) tətbiq edilməsi yolu ilə müəyyənləşdirilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi dərəcəsinin qeyri-rezidentə ödənməli olan məbləğə (ƏDV nəzərə alınmaqla) tətbiq edilməsi yolu ilə müəyyənləşdirilir",
+    "B)	ƏDV hesablanmır",
+    "C)	(0) dərəcə ilə hesablanır",
+    "D)	Vergi dərəcəsinin qeyri-rezidentə ödənməli olan məbləğə (ƏDV nəzərə alınmadan) tətbiq edilməsi yolu ilə müəyyənləşdirilir"
   ]
 },
 ];
