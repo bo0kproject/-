@@ -232,106 +232,84 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "Azərbaycan Respublikasına idxal olunan istirahət və ya idman üçün yaxtalara və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "B)	Mühərrikinin həcminin hər kub santimetrinə görə - 6 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mühərrikinin həcminin hər kub santimetrinə görə -1 manat",
+    "B)	Mühərrikinin həcminin hər kub santimetrinə görə - 6 manat",
+    "C)	Mühərrikinin həcminin hər kub santimetrinə görə - 2,5 manat",
+    "D)	Mühərrikinin həcminin hər kub santimetrinə görə -1,5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Azərbaycan Respublikasına idxal olunan avtobusların (sıxılmış qazla işləyən avto-buslar istisna olmaqla) mühərrikinin həcmi 4000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "A)	Mühərrikin həcminin hər kubsantimetrinə görə - 2 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mühərrikin həcminin hər kubsantimetrinə görə - 2 manat",
+    "B)	8000 manat + mühərrikinin həcminin 4000 kub santimetrindən çox hissəsi üçün hər kub santimetrinə görə - 4 manat",
+    "C)	Mühərrikin həcminin hər kubsantimetrinə görə - 4 manat",
+    "D)	Vergi tutulmur."
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 24,
+  question: "Azərbaycan Respublikasına idxal olunan avtobusların (sıxılmış qazla işləyən avto-buslar istisna olmaqla) mühərrikinin həcmi 6000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "D)	8000 manat + mühərrikin həcminin 4001-6000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 4 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	8000 manat + mühərrikin həcminin 4000-6000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 4 manat",
+    "B)	8000 manat + mühərrikinin həcminin 4000 kub santimetrindən çox hissəsi üçün hər kub santimetrinə görə - 4 manat",
+    "C)	8000 manat + mühərrikin həcminin 4001-6000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 2 manat",
+    "D)	8000 manat + mühərrikin həcminin 4001-6000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 4 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Azərbaycan Respublikasına idxal olunan avtobusların (sıxılmış qazla işləyən avtobuslar istisna olmaqla) mühərrikinin həcmi 8000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "C)	16000 manat + mühərrikin həcminin 6001-8000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 6 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	16000 manat + mühərrikin həcminin 6001-8000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 8 manat",
+    "B)	16000 manat + mühərrikin həcminin 6001-8000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 4 manat",
+    "C)	16000 manat + mühərrikin həcminin 6001-8000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 6 manat",
+    "D)	16000 manat + mühərrikin həcminin 6000-8000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 6 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "66.	Azərbaycan Respublikasına idxal olunan avtobusların (sıxılmış qazla işləyən avtobuslar istisna olmaqla) mühərrikinin həcmi 10000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir? ",
+  answer: "B)	28000 manat + mühərrikin həcminin 8001-10000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 8 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	28000 manat + mühərrikin həcminin 8000-10000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 8 manat",
+    "B)	28000 manat + mühərrikin həcminin 8001-10000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 8 manat",
+    "C)	28000 manat + mühərrikin həcminin 8001-10000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 6 manat",
+    "D)	28000 manat + mühərrikin həcminin 8001-10000 kubsantimetr hissəsi üçün hər kubsantimetrə görə - 10 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Azərbaycan Respublikasına idxal olunan avtobusların (sıxılmış qazla işləyən avtobuslar istisna olmaqla) mühərrikinin həcmi 10000 kubsantimetrdən çox olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "A)	44000 manat + mühərrikin həcminin 10000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 10 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	44000 manat + mühərrikin həcminin 10000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 10 manat",
+    "B)	44000 manat + mühərrikin həcminin 10000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 12 manat",
+    "C)	44000 manat + mühərrikin həcminin 10000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 8 manat",
+    "D)	44000 manat + mühərrikin həcminin 10000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 15 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Azərbaycan Respublikasına idxal olunan avtobusların istehsal tarixi 1 ildən artıq və ya qət etdiyi məsafə 100000 kilometrdən artıq olduqda, aksiz vergisi necə hesablanır?",
+  answer: "C)	Aksiz hesablanmış məbləğə 1,5 əmsal tətbiq edilməklə hesablanır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi hesablanmır",
+    "B)	Hesablanmış məbləğə 1 əmsal tətbiq edilməklə hesablanır",
+    "C)	Aksiz hesablanmış məbləğə 1,5 əmsal tətbiq edilməklə hesablanır",
+    "D)	Hesablanmış məbləğə 2 əmsal tətbiq edilməklə hesablanır"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-{
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-{
-  numb: 31,
+  numb: 29,
   question: "Azərbaycan Respublikasına idxal olunan mühərrikin həcmi 5000 kubsantimetrdən və istehsal tarixi 3 ildən çox olan minik avtomobillərinə görə aksiz vergisi necə hesablanır?",
   answer: "B)	60600 manat + mühərrikinin həcminin 5000 kubsantimetrdən çox hissəsi üçün hər kubsantimetrə görə - 80 manat",
   options: [
@@ -342,7 +320,7 @@ let questions = [
   ]
 },
 {
-  numb: 32,
+  numb: 30,
   question: "Azərbaycan Respublikasına idxal olunan minik avtomobillərinin istehsal tarixi 7 ildən artıq olduqda, aksiz Vergi Məcəlləsinin 190.4.1-ci və 190.4.1-3-cü maddələrinə əsasən hesablanmış məbləğə benzin mühərrikli minik avtomobillərinə neçə yüksəldici əmsal tətbiq edilməklə hesablanır?",
   answer: "C) 1,2 ",
   options: [
@@ -353,7 +331,7 @@ let questions = [
   ]
 },
 {
-  numb: 33,
+  numb: 31,
   question: "Azərbaycan Resp. idxal olunan minik avtomobillərinin istehsal tarixi 7 ildən artıq olduqda, aksiz Vergi Mə. 190.4.1-ci və 190.4.1-3-cü maddələrinə əsasən hesablanmış məbləğə dizel mühərrikli minik avtomobillərinə neçə yüksəldici əmsal tətbiq edilməklə hesablanır’",
   answer: "A) 1,5",
   options: [
@@ -364,7 +342,7 @@ let questions = [
   ]
 },
 {
-  numb: 34,
+  numb: 32,
   question: "Azərbaycan Respublikasına idxal olunan platinin hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "A)	İdxal olunan platinin hər qramına görə - 4,0 manat",
   options: [
@@ -375,7 +353,7 @@ let questions = [
   ]
 },
 {
-  numb: 35,
+  numb: 33,
   question: "Azərbaycan Respublikasına idxal olunan qızılın min çəki vahidindəki miqdarı 375 (üç yüz yetmiş beş) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "B)	Qızılın min çəki vahidindəki miqdarı 375 olduqda, hər qramına görə - 1,5 manat;",
   options: [
@@ -386,7 +364,7 @@ let questions = [
   ]
 },
 {
-  numb: 36,
+  numb: 34,
   question: "Azərbaycan Respublikasına idxal olunan qızılın min çəki vahidindəki miqdarı 500 (beş yüz) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "D)	Qızılın min çəki vahidindəki miqdarı 500 olduqda, hər qramına görə - 2,0 manat;",
   options: [
@@ -397,7 +375,7 @@ let questions = [
   ]
 },
 {
-  numb: 37,
+  numb: 35,
   question: "Azərbaycan Respublikasına idxal olunan qızılın min çəki vahidindəki miqdarı 585 (beş yüz səksən beş) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "A)	Qızılın min çəki vahidindəki miqdarı 585 olduqda, hər qramına görə - 2,4 manat;",
   options: [
@@ -408,7 +386,7 @@ let questions = [
   ]
 },
 {
-  numb: 38,
+  numb: 36,
   question: "Azərbaycan Respublikasına idxal olunan qızılın min çəki vahidindəki miqdarı 750 (yeddi yüz əlli) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "C) Qızılın min çəki vahidindəki miqdarı 750 olduqda, hər qramına görə - 3,0 manat;",
   options: [
@@ -419,7 +397,7 @@ let questions = [
   ]
 },
 {
-  numb: 39,
+  numb: 37,
   question: "Azərbaycan Resp. idxal olunan qızılın min çəki vahidindəki miqdarı 958 (doqquz yüz əlli səkkiz) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "B)	Qızılın min çəki vahidindəki miqdarı 958 olduqda, hər qramına görə - 5,0 manat;",
   options: [
@@ -430,7 +408,7 @@ let questions = [
   ]
 },
 {
-  numb: 40,
+  numb: 38,
   question: "Azərbaycan Respublikasına idxal olunan qızılın min çəki vahidindəki miqdarı 999 (doqquz yüz doxsan doqquz) olduqda, hər qramına görə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
   answer: "D)	Qızılın min çəki vahidindəki miqdarı 999 olduqda, hər qramına görə - 6,0 manat;",
   options: [
