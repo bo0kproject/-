@@ -96,7 +96,7 @@ let questions = [
     "A)	Yol verilmir",
     "B) Yol verilir",
     "C)	Yalnız əyləncə və yemək xərclərinə görə ƏDV-nin əvəzləşdirilməsinə yol verilir",
-    "D)	Yalnız işçilərin mənzil və digər sosial xarakterli xərclərinə görə ƏDV-nin əvəzləşdiril¬məsinə yol verilir
+    "D)	Yalnız işçilərin mənzil və digər sosial xarakterli xərclərinə görə ƏDV-nin əvəzləşdiril¬məsinə yol verilir"
   ]
 },
 {
