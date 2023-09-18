@@ -2,200 +2,200 @@
 let questions = [
   {
   numb: 1,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  question: "Azərbaycan Respublikasına idxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "A)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün - 400 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün - 400 manat",
+    "B)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün - 200 manat",
+    "C)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün - 150 manat",
+    "D)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatı üçün - 250 manat"
   ]
 },
   {
   numb: 2,
-  question: "Вопрос номер 2?",
-  answer: "1",
+  question: "Almazın bir ədədinin miqdarı 1 karatdan aşağı olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "B)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatdan aşağı olduqda - 400 manat x faktiki çəki",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatdan aşağı olduqda - 200 manat x 2 əmsal",
+    "B)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatdan aşağı olduqda - 400 manat x faktiki çəki",
+    "C)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatdan aşağı olduqda - 150 manat x faktiki çəki",
+    "D)	İdxal olunan emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almazın 1 karatdan aşağı olduqda - 300 manat"
   ]
 },
   {
   numb: 3,
-  question: "Вопрос номер 3?",
-  answer: "1",
+  question: "Almazın bir ədədinin miqdarı 1 karatdan yuxarı olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "C)	1	karatdan	2 karatadək olduqda -	400 manat x faktiki çəki x	2	əmsal",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	1	karatdan	2 karatadək olduqda -	400 manat x faktiki çəki x	3	əmsal",
+    "B)	1	karatdan	2 karatadək olduqda -	200 manat x faktiki çəki x	1,5 əmsal",
+    "C)	1	karatdan	2 karatadək olduqda -	400 manat x faktiki çəki x	2	əmsal",
+    "D)	1	karatdan	2 karatadək olduqda -	200 manat x faktiki çəki"
   ]
 },
   {
   numb: 4,
-  question: "Вопрос номер 4?",
-  answer: "1",
+  question: "Almazın bir ədədinin miqdarı 2 karatdan yuxan olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "A)	2 karatdan 3 karatadək olduqda - 400 manat x faktiki çəki x 3 əmsal",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2 karatdan 3 karatadək olduqda - 400 manat x faktiki çəki x 3 əmsal",
+    "B)	2 karatdan 3 karatadək olduqda - 400 manat x faktiki çəki x 2,5 əmsal",
+    "C)	2 karatdan 3 karatadək olduqda - 200 manat x faktiki çəki x 2 əmsal",
+    "D)	2 karatdan 3 karatadək olduqda - 200 manat x faktiki çəki x 4 əmsal"
   ]
 },
   {
   numb: 5,
-  question: "Вопрос номер 5?",
-  answer: "1",
+  question: "Almazın bir ədədinin miqdarı 3 karatdan yuxarı olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "D)	3 karatdan 4 karatadək olduqda -	400	manat x	faktiki çəki x 4	əmsal",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	3 karatdan 4 karatadək olduqda -	400	manat x	faktiki çəki x 3	əmsal",
+    "B)	3 karatdan 4 karatadək olduqda -	200	manat x	faktiki çəki x 3,5 əmsal",
+    "C)	3 karatdan 4 karatadək olduqda -	200	manat x	faktiki çəki x 5	əmsal",
+    "D)	3 karatdan 4 karatadək olduqda -	400	manat x	faktiki çəki x 4	əmsal"
   ]
 },
 {
   numb: 6,
-  question: "?",
-  answer: "1",
+  question: "Almazın bir ədədinin miqdarı 4 karatdan yuxarı olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "B)	4 karatdan 5 karatadək olduqda - 400 manat x faktiki çəki x 5 əmsal",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	4 karatdan 5 karatadək olduqda - 200 manat x faktiki çəki x 7 əmsal",
+    "B)	4 karatdan 5 karatadək olduqda - 400 manat x faktiki çəki x 5 əmsal",
+    "C)	4 karatdan 5 karatadək olduqda - 400 manat x faktiki çəki x 4 əmsal",
+    "D)	4 karatdan 5 karatadək olduqda - 200 manat x faktiki çəki x 3 əmsal"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 7,
+  question: "Almazın bir ədədinin miqdarı 5 karatdan yuxan olduqda, tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "C)	5 karatdan olduqda - 400 manat x faktiki çəki x 10 əmsal",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	5 karatdan olduqda - 400 manat x faktiki çəki x 8 əmsal",
+    "B)	5 karatdan olduqda - 200 manat x faktiki çəki x 11 əmsal",
+    "C)	5 karatdan olduqda - 400 manat x faktiki çəki x 10 əmsal",
+    "D)	5 karatdan olduqda - 200 manat x faktiki çəki x 13 əmsal"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 8,
+  question: "İdxal olunan xəz-dəri məmulatlarına aksiz vergi tutulan əməliyyatın məbləği nədir?",
+  answer: "C)	Topdansatış bazar qiymətindən aşağı olmayan gömrük dəyərinin 10 faizi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Onların topdansatış bazar qiyməti",
+    "B)	İdxal olunan malların miqdarı",
+    "C)	Topdansatış bazar qiymətindən aşağı olmayan gömrük dəyərinin 10 faizi",
+    "D)	Həmin məmulatların gömrük dəyəri"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 9,
+  question: "Azərbaycan Resrublikasında istehsal edilən neft məhsullarına, minik avtomobilləri, istirahət və ya idman üçün yaxtalar və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə tətbiq edilən aksizlərin dərəcələri hansı dövlət orqanı tərəfindən müəyyən edilir?",
+  answer: "A)	Nazirlər Kabineti",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nazirlər Kabineti",
+    "B)	Yerli icra hakimiyyəti orqanları",
+    "C) Maliyyə Nazirliyi",
+    "D) Gömrük Komitəsi"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 10,
+  question: "Aksiz vergisi üçün hesabat dövrü aşağıdakılardan hansıdır?",
+  answer: "D) Ay",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Dekada",
+    "B) Həftə",
+    "C) Rüb",
+    "D) Ay"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 11,
+  question: "Aksizli malların istehsalı zamanı vergi tutulan əməliyyatlar üzrə aksizlər hesabat dövründən sonrakı ayın neçəsinədək ödənilməlidir?",
+  answer: "C)	Hesabat dövründən sonrakı aym 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat dövründən sonrakı ayın 15-dən gec olmayaraq",
+    "B)	Hesabat dövründən sonrakı aym 10-dan gec olmayaraq",
+    "C)	Hesabat dövründən sonrakı aym 20-dən gec olmayaraq",
+    "D)	Hesabat dövründən sonrakı aym 3-dən gec olmayaraq"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 12,
+  question: "Vergi ödəyicisinin aksizin ödənişi üzrə borcu yoxdursa, həyata keçirilən vergi tutulan əməliyyatlar üzrə aksizlər nə vaxt büdcəyə ödənilir?",
+  answer: "A)	Həmin əməliyyatların baş verdiyi aydan sonrakı ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin əməliyyatların baş verdiyi aydan sonrakı ayın 20-dən gec olmayaraq",
+    "B)	Həmin əməliyyatların aparıldığı vaxt",
+    "C)	Həmin əməliyyatların aparıldığı vaxtdan sonrakı bir ay müddətində",
+    "D)	Həmin əməliyyatlar aparıldıqdan sonra bir həftə müddətində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 13,
+  question: "Vergi ödəyicisinin aksizin ödənişi üzrə borcu varsa, həmin borc yaranandan ödənilənədək həyata keçirilən vergi tutulan əməliyyatlar üzrə aksizlər nə vaxt büdcəyə ödənilir?",
+  answer: "B)	Həmin əməliyyatların aparıldığı vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin əməliyyatların baş verdiyi aydan sonrakı ayın 20-dən gec olmayaraq",
+    "B)	Həmin əməliyyatların aparıldığı vaxt",
+    "C)	Həmin əməliyyatların aparıldığı vaxtdan sonrakı bir ay müddətində",
+    "D)	Həmin əməliyyatlar aparıldıqdan sonra bir həftə müddətində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 14,
+  question: "Aksizli mallar idxal edildikdə aksiz hansı orqan tərəfindən tutulur?",
+  answer: "B) Gömrük orqanları",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Vergi orqanları ",
+    "B) Gömrük orqanları",
+    "C) Maliyyə orqanları",
+    "D) Xəzinədarlıq və statistika orqanları"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 15,
+  question: "Aksizli mallar idxal edildikdə aksiz gömrük orqanları tərəfindən hansı qaydada tutulur?",
+  answer: "A)	Gömrük rüsumlarının tutulduğu qaydada",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gömrük rüsumlarının tutulduğu qaydada",
+    "B)	ƏDV tutulduğu qaydada",
+    "C)	Gömrük rəsmiləşdirilməsinə görə haqq tutulduğu qaydada",
+    "D)	Gömrük anbarlarından istifadəyə görə haqqın tutulması qaydasında"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 16,
+  question: "Aksizlər hansı büdcəyə ödənilir?",
+  answer: "B)	Dövlət büdcəsinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yerli büdcələrə",
+    "B)	Dövlət büdcəsinə",
+    "C) Həm yerli, həm də dövlət büdcəsinə",
+    "D) Büdcədənkənar dövlət fondlarına"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 17,
+  question: "Vergi Məcəlləsi ilə müəyyən edilən aksizli mallara tətbiq edilən aksiz dərəcələrinin “Tibbi sığorta haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş hissəsi hara ödənilir?",
+  answer: "A)	İcbari tibbi sığorta fonduna",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İcbari tibbi sığorta fonduna",
+    "B)	Dövlət büdcəsinə",
+    "C) Müdafiə fonduna",
+    "D) Büdcədənkənar dövlət fondlarına"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 18,
+  question: "Aksiz vergisi üzrə bəyannamə vergi orqanına hansı müddətdə verilməlidir?",
+  answer: "C)	Hesabat dövründən sonrakı ayın 20-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat dövründən sonrakı ayın 15-dən gec olmayaraq",
+    "B)	Hesabat dövründən sonrakı ayın 10-dan gec olmayaraq",
+    "C)	Hesabat dövründən sonrakı ayın 20-dən gec olmayaraq",
+    "D)	Hesabat dövründən sonrakı ayın 3-dən gec olmayaraq"
   ]
 },
 {
