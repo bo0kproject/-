@@ -155,157 +155,157 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 15,
+  question: "Aksizli malların istehsalçısı tərəfindən malların istehsal binasının hüdudlarından kənara buraxılmasına görə vergi hesablanmışdırsa, həmin malların xarab olması, yaxud istifadə müddətinin bitməsi və ya digər səbəblərdən geri qaytarılması zamanı hesablanmış aksiz nə vaxt azaldılır?",
+  answer: "D)	Malların qaytarıldığı hesabat dövründə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Azaldılmır",
+    "B)	Malların qaytarıldığı hesabat dövründə sonrakı ay",
+    "C)	Malların istehsal binasının hüdudlarından kənara buraxıldığı dövrdə",
+    "D)	Malların qaytarıldığı hesabat dövründə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 16,
+  question: "Aksizli malların istehsalçısı tərəfindən malların istehsal binasının hüdudlarından kənara özünə məxsus obyektlərə buraxılmasından sonra həmin malların xarab olması, yaxud istifadə müddətinin bitməsi səbəbindən geri qaytarılması zamanı vergi ödəyicisi vergi orqanına nə üçün müraciət edir?",
+  answer: "D)	Həmin malların aktlaşdırılması və hesablanmış verginin azaldılması üçün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi orqanını məlumatlandırmaq üçün",
+    "B)	Həmin malların məsul saxlamaya götürülməsi üçün",
+    "C)	Həmin mallar barədə protokol yazılması üçün",
+    "D)	Həmin malların aktlaşdırılması və hesablanmış verginin azaldılması üçün"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 17,
+  question: "Müraciət edilmə tarixindən neçə gün müddətində vergi orqanının məsul şəxslərinin iştirakı ilə həmin mallar aktlaşdırılır?",
+  answer: "A) 5 iş günü",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 5 iş günü",
+    "B) 5 gün",
+    "C) 3 iş günü",
+    "D) 10 gün"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 18,
+  question: "Xarab olmuş, yaxud istifadə müddəti bitmiş məhsullara görə aksizin azaldılması nə vaxt həyata keçirilir?",
+  answer: "A)	Müvafiq aktın tərtib edildiyi hesabat dövründə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müvafiq aktın tərtib edildiyi hesabat dövründə",
+    "B)	Malların qaytarıldığı hesabat dövründə sonrakı ay",
+    "C)	Müvafiq aktın tərtib edildiyi hesabat dövründən sonrakı ay",
+    "D)	Vergi orqanının müvafiq qərarının verildiyi hesabat dövründə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 19,
+  question: "Vergi hesabatı təqdim edilərkən vergi orqanına nə təqdim edilir?",
+  answer: "B)	Akt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Qərar",
+    "B)	Qkt",
+    "C)	Protokol",
+    "D)	Qrayış"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 20,
+  question: "Hansı halda xarab olmuş, yaxud istifadə müddəti bitmiş məhsulların istehsalı zamanı əvəzləşdirilmiş aksizin büdcəyə hesablanması həyata keçirilir?",
+  answer: "B)	Həmin məhsullar məhv edildikdə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Heç bir halda",
+    "B)	Həmin məhsullar məhv edildikdə",
+    "C)	Vergi orqanı qərar verdikdə",
+    "D)	Həmin mallar məsul saxlamaya verildikdə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Aksizli malların idxalı zamanı aksiz tutulan əməliyyatın vaxtı hansı qanunvericilik aktına uyğun olaraq müəyyən edilir?",
+  answer: "C) Gömrük Məcəlləsinə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsinə",
+    "B)	Mülki Məcəlləyə",
+    "C) Gömrük Məcəlləsinə",
+    "D) Mülki-Prosessual Məcəlləyə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "İdxal olunan aksizli mallar üçün vergi tutulan əməliyyatın vaxtı necə müəyyən edi-lir?",
+  answer: "A) Aksizli malların gömrük xidmətinin nəzarətindən çıxdığı vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Aksizli malların gömrük xidmətinin nəzarətindən çıxdığı vaxt",
+    "B)	Aksizli malların gömrük xidmətinin nəzarətinə daxil olduğu vaxt",
+    "C)	Aksizli malların satışa çıxarıldığı vaxt",
+    "D)	Aksizli malların təqdim edildiyi vaxt"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Aksizli malların ixracı hansı dərəcə ilə vergiyə cəlb olunur?",
+  answer: "D)	Sıfır [0] dərəcə ilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergidən azaddır",
+    "B)	Gömrük orqanının müəyyən etdiyi dərəcə ilə",
+    "C)	Qanunvericiliklə müəyyən edilən dərəcənin 50 faizi məbləğində",
+    "D)	Sıfır [0] dərəcə ilə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 24,
+  question: "Fiziki şəxs fərdi istehlakı üçün neçə ədəd siqareti aksiz vergisi ödəmədən idxal edə bilər?",
+  answer: "C) 200 ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 300",
+    "B) 60",
+    "C) 200",
+    "D) Heç nə qədər"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Fiziki şəxs fərdi istehlakı üçün neçə litr alkoqollu içkini aksiz vergisi ödənilmədən idxal edə bilər?",
+  answer: "C) 1,5 litr ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 7 litr",
+    "B) 10 litr",
+    "C) 1,5 litr",
+    "D) 5 litr"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "Fiziki şəxs fərdi istehlakı üçün neçə qram qızılı, ondan hazırlanım? zərgərlik və digər məişət məmulatlarının, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş neçə karat almazı aksiz vergisi ödənilmədən idxal edə bilər?",
+  answer: "A)	20 qram qızıl, 0.5 karat almaz",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	20 qram qızıl, 0.5 karat almaz",
+    "B)	30 qram qızıl, 0.5 karat almaz",
+    "C)	20 qram qızıl, 1 karat almaz",
+    "D)	10 qram qızıl, 0.5 karat almaz"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Azərbaycan Respublikasına avtomobillərlə gələn şəxslər nə qədər yanacağı aksiz vergisi ödəmədən ölkəyə gətirə bilər?",
+  answer: "A)	Həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakının həcmi qədər (bakın həcmi üçün məhdudiyyət yoxdur)",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakının həcmi qədər (bakın həcmi üçün məhdudiyyət yoxdur)",
+    "B)	Həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakının həcmi qədər (əgər bakın həcmi 40 litrdən çox deyilsə)",
+    "C)	Həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakının həcmi qədər (əgər bakın həcmi 50 litrdən çox deyilsə)",
+    "D)	Həmin avtomobilin texniki pasportu ilə nəzərdə tutulmuş bakının həcmi qədər (əgər bakın həcmi 60 litrdən çox deyilsə)"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Azərbaycan Respublikası ərazisindən tranzitlə daşınan aksizli mallar aksiz vergisi¬nə hansı qaydada cəlb olunur?",
+  answer: "B)	Vergidən azaddır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sıfır [0] dərəcə ilə",
+    "B)	Vergidən azaddı",
+    "C)	Ümumi qaydada vergiyə cəlb olunur",
+    "D)	Gömrük orqanının müəyyən etdiyi dərəcə ilə vergiyə cəlb olunur"
   ]
 },
 {
