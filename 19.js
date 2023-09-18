@@ -111,124 +111,124 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 11,
+  question: "Azərbaycan Respublikasında istehsal olunan elektron siqaretlər üçün mayeyə tət¬biq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "A)	Hər litrinə 100,0 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər litrinə 100,0 manat",
+    "B)	Hər litrinə 10,0 manat",
+    "C) Hər litrinə 80 manat",
+    "D) Hər litrinə 12,0 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 12,
+  question: "Azərbaycan Respublikasında istehsal olunan, 190.3-cü maddədə nəzərdə tutul¬mayan tündləşdirilməmiş alkoqollu içkilərə (tərkibindəki spirtin miqdarı 9 faizdən çox olmayan) tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "C) Hər litrinə 0,4 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər litrinə 0,2 manat",
+    "B)	Hər litrinə 0,1 manat",
+    "C) Hər litrinə 0,4 manat",
+    "D) Hər litrinə 0,3 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 13,
+  question: "Qəlyan üçün tütünlər və tütün əvəzləyiciləri, istehsal məqsədli tütünlər istisna olmaqla digər çəkməli tütünlər, “homogenləşdirilmiş” və ya “bərpa edilmiş” tütünlər, çeynənilən və ya buruna çəkilən tütünlər üçün aksizin dərəcəsi nə qədərdir?",
+  answer: "B)	Hər kiloqramına 30,0 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər kiloqramına 32,0 manat",
+    "B)	Hər kiloqramına 30,0 manat",
+    "C) Topdansatış bazar qiymətinin 12,5 faizi",
+    "D) Hər kiloqramına 35,0 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 14,
+  question: "Qızdırılma nəticəsində istehlak edilən (buxar) tütün və tütün məhsullarına tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "B)	1000 ədədinə 14,0 manat ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	1000 ədədinə 12,9 manat ",
+    "B)	1000 ədədinə 14,0 manat ",
+    "C) 1000 ədədinə 13,0 manat",
+    "D) 1000 ədədinə 15,0 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 15,
+  question: "Birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzedicilərinə tətbiq olunan aksizin dərəcəsi nə qədərdir?",
+  answer: "C) Hər bir ədədinə 0,25 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər bir ədədinə 0,20 manat ",
+    "B)	1000 ədədinə 10,0 manat",
+    "C) Hər bir ədədinə 0,25 manat",
+    "D) Hər bir ədədinə 0,15 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 16,
+  question: "Vergi Məcəlləsinin 190.3.1-ci - 190.3.8-ci, 190.3.10-cu, 190.3.12-ci və 190.3.13-cü maddələrində qeyd olunan mallara görə aksizin məbləği necə müəyyən olunur?",
+  answer: "D)	Aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aksiz dərəcəsi ilə həmin malların faktiki satış qiymətinin hasilinə tətbiq edilməklə",
+    "B)	Aksiz dərəcəsi ilə həmin malların faktura dəyərinin hasilinə tətbiq edilməklə",
+    "C)	Aksiz dərəcəsi ilə həmin malların bazar qiymətinin hasilinə tətbiq edilməklə",
+    "D)	Aksiz dərəcəsi ilə həmin malların faktiki həcminin (miqdarının) hasilinə tətbiq edilməklə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 17,
+  question: "Azərbaycan Respublikasına idxal olunan minik avtomobilinin mühərrikinin həcmi 2000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "A)	Mühərrikin həcminin hər kub santimetrinə görə 0,3 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Mühərrikin həcminin hər kub santimetrinə görə 0,3 manat",
+    "B)	Mühərrikin həcminin hər kub santimetrinə görə 0,15 manat",
+    "C)	Mühərrikin həcminin hər kub santimetrinə görə 2,5 manat",
+    "D)	Mühərrikin həcminin hər kub santimetrinə görə 1,15 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 18,
+  question: "Azərbaycan Respublikasına idxal olunan minik avtomobilinin mühərrikinin həcmi 3000 kub santimetrədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "A)	600 manat + mühərrikinin həcminin 2001-3000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 5 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	600 manat + mühərrikinin həcminin 2001-3000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 5 manat",
+    "B)	400 manat + mühərrikinin həcminin 2001-3000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 2 manat",
+    "C)	400 manat + mühərrikinin həcminin 2001-3000 kub santimetr hissəsi üçün -1 manat",
+    "D)	400 manat + mühərrikinin həcminin 2001-3000 kub santimetr hissəsi üçün - 2,5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 19,
+  question: "Azərbaycan Respublik. idxal olunan minik avtomobilinin mühərrikinin həcmi 4000 kub santimetrədək və istehsal tarixi 3 ilədək olan olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "B)	5600 manat + mühərrikinin həcminin 3001-4000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 13 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	1900 manat + mühərrikinin həcminin 3001-4000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 3 manat",
+    "B)	5600 manat + mühərrikinin həcminin 3001-4000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 13 manat",
+    "C)	1900 manat + mühərrikinin həcminin 3001-4000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 2 manat",
+    "D)	1900 manat + mühərrikinin həcminin 3001-4000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 1,5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 20,
+  question: "Azərbaycan Respublik. idxal olunan minik avtomobilinin mühərrikinin həcmi 5000 kub santimetrdən çox, istehsal tarixi 3 ilədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "C)	53600 manat + mühərrikinin həcminin 5000 kub santimetrdən çox hissəsi üçün hər kub santimetrinə görə - 70 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	13900 manat + mühərrikinin həcminin 5000 kub santimetrdən çox hissəsi üçün hər kub santimetrinə görə - 12 manat",
+    "B)	13900 manat + mühərrikinin həcminin 5000 kub santimetrindən çox hissəsi üçün hər kub santimetrinə görə - 8 manat",
+    "C)	53600 manat + mühərrikinin həcminin 5000 kub santimetrdən çox hissəsi üçün hər kub santimetrinə görə - 70 manat",
+    "D)	13900 manat + mühərrikinin həcminin 5000 kub santimetrdən çox hissəsi üçün hər kub santimetrinə görə - 6 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Azərbaycan Respublikasına idxal olunan minik avtomobilinin mühərrikinin həcmi 5000 kub santimetrədək və istehsal tarixi 3 ilədək olduqda hansı aksiz dərəcəsi tətbiq edilir?",
+  answer: "C)	18600 manat + mühərrikinin həcminin 4001-5000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 35 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	5900 manat + mühərrikinin həcminin 4001-5000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 3 manat",
+    "B)	5900 manat + mühərrikinin həcminin 4001-5000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 4 manat",
+    "C)	18600 manat + mühərrikinin həcminin 4001-5000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 35 manat",
+    "D)	5900 manat + mühərrikinin həcminin 4001-5000 kub santimetr hissəsi üçün hər kub santimetrinə görə - 1,5 manat"
   ]
 },
 {
