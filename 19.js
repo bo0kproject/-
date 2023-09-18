@@ -2,24 +2,24 @@
 let questions = [
   {
   numb: 1,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  question: "Azərbaycan Respublikasında istehsal olunan arağa [vodkaya], tündləşdirilmiş içki-lərə və tündləşdirilmiş içki materiallarına, likyor və likyor məmulatlarına tətbiq olunan aksi-zin dərəcəsi nə qədərdir?",
+  answer: "A)	Hər litrinə 4,0 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər litrinə 4,0 manat",
+    "B)	Hər litrinə 0,8 manat",
+    "C) Hər dekalitrinə 0,2 manat",
+    "D) Hər litrinə 1,5 manat"
   ]
 },
   {
   numb: 2,
-  question: "Вопрос номер 2?",
-  answer: "1",
+  question: "Azərbaycan Respublikasında istehsal olunan konyak və konyak materiallarına aşa-ğıdakılardan hansı aksiz dərəcəsi tətbiq olunur?",
+  answer: "A)	Hər litrinə 4,0 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər litrinə 4,0 manat",
+    "B)	Hər litrinə 0,8 manat",
+    "C) Hər dekalitrinə 0,2 manat",
+    "D) Hər litrinə 1,5 manat"
   ]
 },
   {
@@ -57,7 +57,381 @@ let questions = [
 },
 {
   numb: 6,
-  question: "Вопрос номер 1?",
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+  {
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
+  answer: "1",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+},
+{
+  numb: 6,
+  question: "?",
   answer: "1",
   options: [
     "1",
