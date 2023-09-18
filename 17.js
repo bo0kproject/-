@@ -170,7 +170,7 @@ let questions = [
   question: "Hansı halda ödənilmiş ƏDV-nin məbləği əvəzləşdirilə bilər?",
   answer: "C)	Sıfır (0) dərəcəsi ilə ƏDV tutulan əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) elektron qaimə-fakturaları üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) alındıqda ƏDV-nin məbləği ƏDV-nin depozit hesabı vasitəsilə ödənildikdə",
   options: [
-    "A)	"Büdcə sistemi haqqında" Azərbaycan Respublikası Qanununun 1.1.17-ci maddəsində nəzərdə tutulmuş subsidiyalar istisna olmaqla, dövlət büdcəsindən müxtəlif mənbələr üzrə dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) hesabına mallar (işlər, xidmətlər) alındıqda",
+    "A)	(Büdcə sistemi) haqqında Azərbaycan Respublikası Qanununun 1.1.17-ci maddəsində nəzərdə tutulmuş subsidiyalar istisna olmaqla, dövlət büdcəsindən müxtəlif mənbələr üzrə dövlət əsaslı vəsait qoyuluşu (investisiya xərcləri) hesabına mallar (işlər, xidmətlər) alındıqda",
     "B)	ƏDV-dən azad olunan, yaxud ƏDV-yə cəlb edilməyən əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) alındıqda",
     "C)	Sıfır (0) dərəcəsi ilə ƏDV tutulan əməliyyatlar aparan şəxslər tərəfindən mallar (işlər, xidmətlər) elektron qaimə-fakturaları üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) alındıqda ƏDV-nin məbləği ƏDV-nin depozit hesabı vasitəsilə ödənildikdə",
     "D)	Vergi ödəyicisinə verilmiş elektron qaimə-fakturaları üzrə mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər edildikdə"
