@@ -67,91 +67,91 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 7,
+  question: "İdxal malları üçün aksizin vergitutma obyekti aşağıdakılardan hansıdır?",
+  answer: "A)	Gömrük Məcəlləsi uyğun olaraq aksizli malların gömrük xidmətinin nəzarətindən çıxması",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Gömrük Məcəlləsi uyğun olaraq aksizli malların gömrük xidmətinin nəzarətindən çıxması",
+    "B)	Gömrük Məcəll uyğun olaraq aksizli malların gömrük xidmətinin nəzarətinə daxil olması",
+    "C)	İdxal mallarının gömrük dəyəri",
+    "D)	İdxal "
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 8,
+  question: "Aksizin vergitutma obyektinin məqsədləri üçün istehsal binasına aşağıdakılardan hansı daxildir?",
+  answer: "A)	İstehsalın olduğu ərazidə yerləşən anbarlar, köməkçi anbar sahələri və digər oxşar binalar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İstehsalın olduğu ərazidə yerləşən anbarlar, köməkçi anbar sahələri və digər oxşar binalar",
+    "B)	İstehsalın olduğu ərazidə yerləşən anbarlar və ticarət obyektləri",
+    "C)	Aksizli malları istehsal edən şəxslərin aksizli malları saxladığı anbarlar",
+    "D)	İstehsalın olduğu ərazidən kənr yerləşən anbarlar, köməkçi anbar sahələri və digər binalar"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 9,
+  question: "Azərbaycan Respublikası ərazisində istehsal olunan neft məhsulları üçün aksizlər üzrə vergi tutulan əməliyyatın məbləği dedikdə nə başa düşülür?",
+  answer: "C)	Müştəridən ahnan və ya alınmah olan haqqın topdansatış bazar qiymətindən [aksiz, yol vergisi və ƏDV çıxılmaqla] aşağı olmayan məbləğ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müştəridən alman və ya alınmalı olan haqqın topdansatış bazar qiymətindən [ƏDV çıxılmadan] aşağı olmayan məbləğ",
+    "B)	Müştəridən alınan və ya alınmah olan haqqın topdansatış bazar qiymətindən [ƏDV çıxılmaqla] aşağı olmayan məbləğ",
+    "C)	Müştəridən ahnan və ya alınmah olan haqqın topdansatış bazar qiymətindən [aksiz, yol vergisi və ƏDV çıxılmaqla] aşağı olmayan məbləğ",
+    "D)	Müştəridən alman və ya alınmalı olan haqqın topdansatış bazar qiymətindən [aksiz çıxılmaqla] aşağı olmayan məbləğ"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 10,
+  question: "Neft məhsulları istisna olmaqla, Azərbaycan Respublikası ərazisində istehsal olunan digər aksizli mallar üçün vergi tutulan əməliyyat nə hesab olunur?",
+  answer: "D)	İstehsal olunan malların miqdarı",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	İstehsal olunan malların pərakəndəsatış bazar qiyməti",
+    "B)	İstehsal olunan malların topdansatış bazar qiyməti",
+    "C)	İstehsal olunan malların maya dəyəri",
+    "D)	İstehsal olunan malların miqdarı"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 11,
+  question: "İdxal malları üçün (platin, qızıl, ondan hazırlanmış zərgərlik və digər məişət məmu-latları, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz istisna olmaqla) aksiz tutulan əməliyyatın məbləği dedikdə nə başa düşülür?",
+  answer: "B)	Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin topdansatış bazar qiymətindən aşağı olmayan malların gömrük dəyəri [ƏDV və aksiz çıxılmaqla]",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Azərb. Respub. Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin pərakəndəsatış bazar qiymətindən aşağı olmayan malların gömrük dəyəri [ƏDV və aksiz çıxılmaqla]",
+    "B)	Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin topdansatış bazar qiymətindən aşağı olmayan malların gömrük dəyəri [ƏDV və aksiz çıxılmaqla]",
+    "C)	Azərbaycan Respublikasının Vergi Məcəlləsinə uyğun olaraq müəyyən edilən, lakin topdansatış bazar qiymətindən aşağı olmayan malların satış dəyəri [ƏDV və aksiz çıxılmaqla]",
+    "D)	Azərbaycan Respublikasının Gömrük Məcəlləsinə uyğun olaraq müəyyən edilən, lakin topdansatış bazar qiymətindən yuxarı olmayan malların gömrük dəyəri [ƏDV və aksiz çıxılmaqla]"
+  ]
+},
+
+  numb: 12,
+  question: "İdxal olunan avtobuslar, minik avtomobilləri, istirahət və ya idman üçün yaxtalar və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələrə görə vergi tutulan əməliyyat üçün aksiz üzrə vergi tutulan əməliyyatın məbləği nədir?",
+  answer: "B)	Onların mühərrikinin həcmi",
+  options: [
+    "A)	Onların topdansatış bazar qiyməti ",
+    "B)	Onların mühərrikinin həcmi",
+    "C) İdxal olunan malların miqdarı",
+    "D) Həmin vasitələrin gömrük dəyəri"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 13,
+  question: "İdxal olunan platinə, qızıla, ondan hazırlanmış zərgərlik və digər məişət məmulat-larına görə vergi tutulan əməliyyat üçün aksiz üzrə vergi tutulan əməliyyatın məbləği nədir?",
+  answer: "B)	Platinin hər qramı, qızıla, ondan hazırlanmış zərgərlik və digər məişət məmulatlarına görə - qızılın min çəki vahidindəki miqdarı",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Platin, qızıl və ondan hazırlanmış zərgərlik və digər məişət məmulatlarına görə - platin və qızılın min çəki vahidindəki miqdarı",
+    "B)	Platinin hər qramı, qızıla, ondan hazırlanmış zərgərlik və digər məişət məmulatlarına görə - qızılın min çəki vahidindəki miqdarı",
+    "C)	İdxal olunan malların miqdarı",
+    "D) Həmin vasitələrin gÖmrÜK UƏYƏI İ"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 14,
+  question: "Azərbaycan Respublikası ərazsində istehsal olunan aksizli mallar üçün vergi tutu¬lan əməliyyatın vaxtı necə müəyyən edilir?",
+  answer: "C)	Malların istehsal binasının hüdudlarından kənara buraxıldığı vaxt",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-{
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların alıcıya verildiyi vaxt",
+    "B)	Malların təqdim edildiyi vaxt",
+    "C)	Malların istehsal binasının hüdudlarından kənara buraxıldığı vaxt"",
+    "D)	Malların istehsalının başa çatdığı vaxt"
   ]
 },
 {
