@@ -309,135 +309,135 @@ let questions = [
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 29,
+    question: "Azərbaycan Respublikası ərazisinə müvəqqəti idxal edilən mallar aksizə necə cəlb edilir?",
+    answer: "B) Vergidən azaddır",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) Ümumi qaydada",
+      "B) Vergidən azaddır",
+      "C) Sıfır (0) dərəcə ilə",
+      "D) Gömrük qanunvericiliyində nəzərdə tutulan qaydada"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 30,
+    question: "Azərbaycan Respublikası Mərkəzi Bankının aktivlərində yerləşdirilmək üçün idxal olunan platin, qızıl və emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz, Azərbaycan Respublikası Dövlət Neft Fondunun aktivlərində yerləşdirilmək üçün idxal olunan qızıl aksizə necə cəlb edilir?",
+    answer: "B) Vergidən azaddır",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) Ümumi qaydada",
+      "B) Vergidən azaddır",
+      "C) Sıfır (0) dərəcə ilə",
+      "D) Gömrük qanunvericiliyində nəzərdə tutulan qaydada"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 31,
+    question: "Fiziki şəxsin fərdi istehlakı üçün 1,5 litr alkoqollu içki və 200 ədəd siqaret idxal edi-lərkən aksizdən azadolmalar hansı halda tətbiq edilir?",
+    answer: "A)	Gömrük rüsumlarından azadolmaların şərtlərinə əməl edilmiş olduqda",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Gömrük rüsumlarından azadolmaların şərtlərinə əməl edilmiş olduqda",
+      "B)	Bütün hallarda",
+      "C)	Əlavə dəyər vergisindən azadolmaların şərtlərinə əməl edilmiş olduqda",
+      "D)	Nazirlər Kabinetinin sərəncamına əsasən"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 32,
+    question: "Əgər gömrük rüsumu tutulması məqsədləri üçün idxal, rüsumun geri qaytarılması rejiminin təsiri altına düşürsə və ya azadolmanm şərtləri pozulduğu üçün gömrük rüsu¬munun ödənilməsi tələb edilirsə, həmin rejim aksizin tutulmasına da tətbiq olunurmu?",
+    answer: "C) Tətbiq olunur",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) Tətbiq olunmur",
+      "B) Müstəsna hallarda tətbiq olunur",
+      "C) Tətbiq olunur",
+      "D) Gömrük orqanının qərarından asılıdır"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 33,
+    question: "Aksizli malları alan və bu malları vergi tutulan digər aksizli malların istehsalı üçün istifadə edən şəxs malları alarkən ödənilmiş aksiz məbləğini hansı qaydada əvəzləşdirir?",
+    answer: "C)	Ödənilmiş məbləğ tam həcmdə əvəzləşdirilir",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	Ödənilmiş məbləğ əvəzləşdirilmir",
+      "B)	Ödənilmiş məbləğin 50 faizi əvəzləşdirilir",
+      "C)	Ödənilmiş məbləğ tam həcmdə əvəzləşdirilir",
+      "D)	Ödənilmiş məbləğin malm maya dəyərinə aid edilməyən hissəsi əvəzləşdirilir"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 34,
+    question: "İdxal mallarına görə aksizlər nə vaxt əvəzləşdirilir?",
+    answer: "A)	İdxalda aksizin ödənildiyini təsdiq edən müvafiq sənədlər vergi orqanına verildiyi zaman",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A)	İdxalda aksizin ödənildiyini təsdiq edən müvafiq sənədlər vergi orqanına verildiyi zaman",
+      "B)	İdxahn baş verdiyi aydan əvvəlki ay",
+      "C)	İdxalı təsdiq edən müvafiq sənədlər vergi orqanına verildiyi aydan sonrakı ay",
+      "D)	Ödənilən aksizlər əvəzləşdirilmir"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 35,
+    question: "İstehsal ehtiyacları üçün aksizlərin əvəzləşdirilməsinə uyğun olaraq, xammal və materiallar idxal edildikdə, tutulmuş aksiz məbləği müvafiq sənədlər vergi orqanına veril-dikdən sonra neçə gün ərzində vergi ödəyicisinə qaytarılmalıdır?",
+    answer: "C) 45 gün",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 45 gün",
+      "D) 10 gün"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 36,
+    question: "Aksizli malları göstərin. 1. spirtli içkilər 2. tütün məmulatları 3. qənnadı məmulatları 4.	neft məhsulları 5. zinət əşyaları 6. idxal olunan xəz-dəri məmulatları",
+    answer: "C) 1,2,4,6",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) 1,2,3,6",
+      "B) 2,3,4,6",
+      "C) 1,2,4,6",
+      "D) 3,4,5,6"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 37,
+    question: "Aşağıdakı mallardan hansı aksizli mallara aid deyildir?",
+    answer: "D) Maya",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) İçməli spirt",
+      "B) Neft məhsulları",
+      "C) Tütün məmulatları ",
+      "D) Maya"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 38,
+    question: "Aksizli malları göstərin. 1.	birdəfəlik istifadə üçün elektron siqaret, qəlyan və onların əvəzediciləri 2. avtobuslar (sıxılmış qazla işləyən avtobuslar istisna olmaqla) 3. qənnadı məmulatları 4. energetik içkilər 5. zinət əşyaları 6. elektron siqaretlər üçün maye",
+    answer: "C) 1,2,4,6",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) 1,2,3,6",
+      "B) 2,3,4,6",
+      "C) 1,2,4,6",
+      "D) 3,4,5,6"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 39,
+    question: "Azərbaycan Respublikasına idxal edilən aksizli mallara (avtobuslar, minik avto-mobilləri, istirahət və ya idman üçün yaxtalar və bu məqsədlər üçün nəzərdə tutulan digər üzən vasitələr, habelə platin, qızıl, ondan hazırlanmış zərgərlik və digər məişət məmu-latlan, emal olunmuş, çeşidlənmiş, çərçivəyə salınmış və bərkidilmiş almaz, xəz-dəri məmulatları istisna olmaqla) aksizlərin dərəcələri hansı dövlət orqanı tərəfindən müəyyən edilir?",
+    answer: "D) Nazirlər Kabineti",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) Maliyyə Nazirliyi",
+      "B) İqtisadiyyat Nazirliyi",
+      "C) Dövlət Vergi Xidməti",
+      "D) Nazirlər Kabineti"
     ]
   },
   {
-    numb: 6,
-    question: "?",
-    answer: "1",
+    numb: 40,
+    question: "Azərb Resp istehsal olunan içməli spirtə tətbiq olunan aksizin dərəcəs nə qədərdir?",
+    answer: "C) Hər litrinə 4,0 manat",
     options: [
-      "1",
-      "2",
-      "3",
-      "4"
+      "A) Hər litrinə 1 manat",
+      "B) Hər litrinə 12,5 manat",
+      "C) Hər litrinə 4,0 manat",
+      "D) Hər litrinə 0,5 manat"
     ]
   },
   ];
