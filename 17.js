@@ -2,167 +2,167 @@
 let questions = [
   {
   numb: 1,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  question: "Kənd təsərrüfatı məhsullarının alışı elektron qaimə-faktura, idxal gömrük bəyan-naməsi və bu bəyannamə ilə bağlı hesab-faktura (invoys), habelə elektron alış aktı ilə, topdan və pərakəndə satışı müvafiq olaraq elektron qaimə-faktura və nəzarət kassa-aparatmın çeki ilə rəsmiləşdirilmədikdə, ƏDV necə hesablanır?",
+  answer: "A)	Ümumi dövriyyədən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi dövriyyədən",
+    "B)	Alış və satış arasındakı fərqdən",
+    "C) Ümumi dövriyyədən 20%-lə",
+    "D) Ümumi dövriyyədən 10%-lə"
   ]
 },
   {
   numb: 2,
-  question: "Вопрос номер 2?",
-  answer: "1",
+  question: "Hansı halda ödənilmiş ƏDV-nin məbləği əvəzləşdirilə bilər?",
+  answer: "A)	Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, ƏDV tutulan əməliyyatlar üçün malların (işlərin, xidmətlərin) alışı zamanı ödənilmiş ƏDV məbləği əməliyyatın dəyəri alıcının bank hesabından həmin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına, ƏDV məbləği ƏDV-nin depozit hesabına ödənildikdə əvəzləşdirilir.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu maddədə başqa hallar nəzərdə tutulmamışdırsa, ƏDV tutulan əməliyyatlar üçün malların (işlərin, xidmətlərin) alışı zamanı ödənilmiş ƏDV məbləği əməliyyatın dəyəri alıcının bank hesabından həmin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına, ƏDV məbləği ƏDV-nin depozit hesabına ödənildikdə əvəzləşdirilir.",
+    "B)	Mlların (işlərin, xidmətlərin) alışı sahibkarlıq fəaliyyəti və ƏDV tutulan əməliyyatların məqsədləri üçün olsun, əməliyyatın dəyəri bank hesabından həmin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına köçürülsün, ƏDV məbləği ƏDV-nin depozit hesabına ödənilsin",
+    "C)	Vergi ödəyicisinə verilmiş elektron qaimə-fakturalar üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər də daxil edilməklə) ödəmələr üzrə mallar alınarkən ƏDV-nin məbləği ƏDV-nin depozit hesabı vasitəsilə ödənildikdə",
+    "D)	Vergi ödəyicisinə verilmiş elektron qaimə-fakturalar üzrə nağdsız qaydada (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) ödəmələr üzrə mallar (işlər, xidmətlər) alınarkən ƏDV-nin məbləği də nağdsız ödənildikdə"
   ]
 },
   {
   numb: 3,
-  question: "Вопрос номер 3?",
-  answer: "1",
+  question: "Aşağıdakılardan hansı doğrudur?",
+  answer: "D)	Malların (işlərin, xidmətlərin) barter edilməsi həmin əməliyyatın ƏDV-siz dəyərinin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına ödənilməsinə bərabər tutulur.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların (işlərin, xidmətlərin) barter edilməsi həmin əməliyyatın ƏDV-li dəyərinin malları (işləri, xidmətləri) alan şəxsin bank hesabına ödənilməsinə bərabər tutulur.",
+    "B)	Malların (işlərin, xidmətlərin) barter edilməsi həmin əməliyyatın ƏDV-siz dəyərinin malları (işləri, xidmətləri) alan şəxsin bank hesabına ödənilməsinə bərabər tutulur.",
+    "C)	Malların (işlərin, xidmətlərin) barter edilməsi həmin əməliyyatın ƏDV-li dəyərinin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına ödənilməsinə bərabər tutulur.",
+    "D)	Malların (işlərin, xidmətlərin) barter edilməsi həmin əməliyyatın ƏDV-siz dəyərinin malları (işləri, xidmətləri) təqdim edən şəxsin bank hesabına ödənilməsinə bərabər tutulur."
   ]
 },
   {
   numb: 4,
-  question: "Вопрос номер 4?",
-  answer: "1",
+  question: "Hesabat dövrü ərzində həyata keçirilmiş sayılan mal göndərilməsini, iş görül¬məsini, yaxud xidmət göstərilməsini nəzərdə tutan əməliyyatlar üzrə ödənilmiş ƏDV məbləği nə vaxt əvəzləşdirilir?",
+  answer: "C)	Alınmış elektron qaimə-faktura üzrə malların (işlərin, xidmətlərin) dəyərinin və ona mütənasib ƏDV məbləğinin tam ödənildiyi vaxt ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Alınmış elektron qaimə-faktura üzrə malların (işlərin, xidmətlərin) dəyərinin və ƏDV məbləğinin ən azı 80 faizinin ödənildiyi vaxt",
+    "B)	Alınmış elektron qaimə-faktura üzrə malların (işlərin, xİdmötbrİn) (ЬуЭППШ Y0 ÖDY məbləğinin ən azı 50 faizinin ödənildiyi vaxt",
+    "C)	Alınmış elektron qaimə-faktura üzrə malların (işlərin, xidmətlərin) dəyərinin və ona mütənasib ƏDV məbləğinin tam ödənildiyi vaxt ",
+    "D)	Alınmış elektron qaimə-faktura üzrə malların (işlərin, xidmətlərin) dəyərinin və ƏDV məbləğinin tam ödənildiyi vaxt"
   ]
 },
   {
   numb: 5,
-  question: "Вопрос номер 5?",
-  answer: "1",
+  question: "Vergi ödəyicisinə verilmiş elektron qaimə-faktura üzrə alınmış malların (iş və xid-mətlərin) dəyəri ödənilərkən, malların (iş və xidmətlərin) dəyəri üzrə iki və ya daha çox ödəmə aparılarsa, ƏDV-nin məbləği necə ödənilməlidir?",
+  answer: "A)	Vergi ödəyicisinə verilmiş elektron qaimə-faktura üzrə alınmış malların (iş və xidmətlərin) dəyəri ödənilən gündən gec olmayaraq, ƏDV-nin məbləği aparılmış ödəniş məbləğinə uyğun olaraq ƏDV-nin depozit hesabı vasitəsilə ödənilməlidir.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi ödəyicisinə verilmiş elektron qaimə-faktura üzrə alınmış malların (iş və xidmətlərin) dəyəri ödənilən gündən gec olmayaraq, ƏDV-nin məbləği aparılmış ödəniş məbləğinə uyğun olaraq ƏDV-nin depozit hesabı vasitəsilə ödənilməlidir.",
+    "B)	Aparılmış ödəniş məbləğinə uyğun olaraq bank hesabı vasitəsilə ödənilməlidir.",
+    "C)	Vergi ödəyicisinə verilmiş elektron qaimə-faktura üzrə alınmış malların (iş və xidmətlərin) dəyəri ödənilən gündən gec olmayaraq, ƏDV-nin məbləği aparılmış ödəniş məbləğindən asılı olmayaraq ƏDV-nin depozit hesabı vasitəsilə ödənilməlidir.",
+    "D)	Ümumi ödəniş məbləğinə uyğun olaraq birinci ödəmə zamanı ƏDV-nin depozit hesabı vasitəsilə ödənilməlidir"
   ]
 },
 {
   numb: 6,
-  question: "Вопрос номер 1?",
-  answer: "1",
+  question: "Bir hissəsi vergi ödəyicisinin sahibkarlıq fəaliyyəti, digər hissəsi isə başqa məqsədlər üçün nəzərdə tutulan vergiyə cəlb edilən əməliyyatlara görə nağdsız qaydada ƏDV-nin depozit hesabı vasitəsilə ödənilmiş (mal, iş və xidmət təqdim edənin bank hesabına birbaşa nağd qaydada ödənişlər istisna edilməklə) və malların idxalı üçün, o cümlədən ƏDV tutulmayan əməliyyatlar üçün vergi ödəyicisinə verilmiş elektron qaimə-fakturaları üzrə onun tərəfindən ödənilmiş ƏDV-nin məbləği hansı qaydada əvəzləşdirilir?",
+  answer: "A)	Sahibkarlıq fəaliyyəti üçün istifadə olunan malların (işlərin, xidmətlərin) xüsusi çəkisinə görə müəyyənləşdirilən ƏDV-nin məbləği qədər əvəzləşdirilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sahibkarlıq fəaliyyəti üçün istifadə olunan malların (işlərin, xidmətlərin) xüsusi çəkisinə görə müəyyənləşdirilən ƏDV-nin məbləği qədər əvəzləşdirilir",
+    "B)	Əvəzləşdirməyə yol verilmir",
+    "C)	Başqa məqsədlər üçün istifadə olunan malların (işlərin, xidmətlərin) xüsusi çəkisinə görə müəyyənləşdirilən ƏDV-nin məbləği qədər əvəzləşdirilir",
+    "D)	Ödənilmiş ƏDV tam məbləğdə əvəzləşdirilir"
   ]
 },
   {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 7,
+  question: "Əyləncə və yemək xərclərinin, habelə işçilərin mənzil və digər sosial xarakterli xərclərinin çəkilməsi nəticəsində ödənilmiş ƏDV necə əvəzləşdirilir?",
+  answer: "B)	Ödənişin formasından asıh olmayaraq əvəzləşdirilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nağdsız ödəmələr olduqda ",
+    "B)	Ödənişin formasından asıh olmayaraq əvəzləşdirilmir",
+    "C) Ödənişin 50 faizi həcmində əvəzləşdirilir",
+    "D) Nağd ödəmələr olduqda əvəzləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 8,
+  question: "Vergi ödəyicisi tərəfindən əyləncə və yemək xərcləri, habelə işçilərin mənzil və digər sosial xarakterli xərcləri çəkiləndə ƏDV-nin əvəzləşdirilməsinə yol verilirmi?",
+  answer: "A)	Yol verilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yol verilmir",
+    "B) Yol verilir",
+    "C)	Yalnız əyləncə və yemək xərclərinə görə ƏDV-nin əvəzləşdirilməsinə yol verilir",
+    "D)	Yalnız işçilərin mənzil və digər sosial xarakterli xərclərinə görə ƏDV-nin əvəzləşdiril¬məsinə yol verilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 9,
+  question: "Sahibkarlıq fəaliyyəti əyləncə və ya sosial xarakteri daşıyan vergi ödəyicisinin xərcləri bu cür fəaliyyət çərçivəsində çəkilirsə, ƏDV-nin əvəzləşdirilməsinə yol verilirmi?",
+  answer: "B) Yol verilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yol verilmir",
+    "B) Yol verilir",
+    "C)	Yalnız əyləncə və yemək xərclərinə görə ƏDV-nin əvəzləşdirilməsinə yol verilir",
+    "D)	Yalnız işçilərin mənzil və digər sosial xarakterli xərclərinə görə ƏDV-nin əvəzləşdiril¬məsinə yol verilir
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 10,
+  question: "Vergi ödəyicisi vergi tutulan əməliyyatlar və ƏDV-dən azad edilmiş əməliyyatlar aparırsa, ƏDV üzrə əvəzləşdirmə hansı qaydada həyata keçirilir?",
+  answer: "D)	Vergi tutulan dövriyyənin ümumi dövriyyədəki xüsusi çəkisinə uyğun olaraq müəyyən edilən nağdsız qaydada ödənilən ƏDV-nin məbləği əvəzləşdirilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Heç bir əvəzləşdirməyə yol verilmir",
+    "B)	Bu əməliyyatlar nəticəsində nağsız qaydada ödənilən ƏDV tam məbləğdə əvəzləşdirilir",
+    "C)	Bu əməliyyatlar nəticəsində nağdsız qaydada ödənilən ƏDV 50% həcmində əvəzləşdirilir",
+    "D)	Vergi tutulan dövriyyənin ümumi dövriyyədəki xüsusi çəkisinə uyğun olaraq müəyyən edilən nağdsız qaydada ödənilən ƏDV-nin məbləği əvəzləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 11,
+  question: "Vergi ödəyicisi tərəfindən ƏDV-yə cəlb edilən əməliyyatlarla yanaşı, ƏDV-dən azad olunan əməliyyatlar aparılarkən, bu əməliyyatlara aid olan mallar (işlər, xidmətlər) üzrə sənədləşdirilmiş məlumatlar əsasında ƏDV ödənilməklə və ƏDV-dən azad edilməklə mədaxil edilən malların (işlərin, xidmətlərin) ayrı-ayrılıqda uçotu aparıldığı halda, ƏDV tutulan əməliyyatlar üçün alınmış mallara (işlərə, xidmətlərə) görə ödənilmiş ƏDV-nin məbləği hansı qaydada əvəzləşdirilir?",
+  answer: "A)	Vergi Məcəlləsinin 175.1-ci maddəsinə uyğun olaraq tam məbləğdə əvəzləşdirilir.",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi Məcəlləsinin 175.1-ci maddəsinə uyğun olaraq tam məbləğdə əvəzləşdirilir.",
+    "B)	50 faizi əvəzləşdirilir",
+    "C)	Vergi tutulan dövriyyənin ümumi dövriyyədəki xüsusi çəkisinə uyğun olaraq müəyyən edilən nağdsız qaydada ödənilən ƏDV-nin məbləği əvəzləşdirilir",
+    "D)	Əvəzləşdiməyə yol verilmir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 12,
+  question: "Vergi tutulan dövriyyənin dəqiqləşdirilməsi zamanı bəyannamədə büdcəyə çatası ƏDV-nin məbləği düzgün göstərilməmişdirsə, büdcəyə ödənilməli olan ƏDV-nin məbiəgı hansı dövr üzrə vergi ödəyicisi tərəfindən təqdim edilmiş bəyannamədə dəqiqləşdirilir?",
+  answer: "A)	Həmin halların yarandığı hesabat dövrü üzrə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Həmin halların yarandığı hesabat dövrü üzrə",
+    "B)	ƏDV üçün elektron qaimə-faktura verildiyi və ƏDV-nin məbləğini həmin elektron qaimə- faktura düzgün göstərildiyi dövr üzrəB)	ƏDV üçün elektron qaimə-faktura verildiyi və ƏDV-nin məbləğini həmin elektron qaimə- faktura düzgün göstərildiyi dövr üzrə",
+    "C)	Vergi tutulan dövriyyə dəqiqləşdirilmir",
+    "D)	Mallar, işlər və xidmətlərlə bağlı ödəmə aparılan dövr üzrə"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 13,
+  question: "Əlavə dəyər vergisindən azad olunan, yaxud ƏDV-yə cəlb edilməyən əməliyyatlar aparan şəxslər tərəfindən mallar, işlər, xidmətlər alınarkən Vergi Məcəlləsi ilə müəyyən edilmiş qaydada ödənilmiş ƏDV məbləği hansı qaydada əvəzləşdirilir?",
+  answer: "A)	Əvəzləşdirilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Əvəzləşdirilmir",
+    "B)	50 faiz əvəzləşdirilir ",
+    "C)	100 faiz əvəzləşdirilir ",
+    "D) Vergi ödəyicisinə qaytarılır"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 14,
+  question: "Sıfır [0] dərəcəsi ilə ƏDV tutulan əməliyyatlar aparan şəxslər tərəfindən mallar, işlər, xidmətlər alınarkən nağdsız qaydada ƏDV-nin depozit hesabı vasitəsilə ödənilmiş ƏDV-nin məbləği hansı qaydada əvəzləşdirilir?",
+  answer: "C) Ümumi qaydada əvəzləşdirilir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	50 faiz əvəzləşdirilir",
+    "B)	Əvəzləşdirilmir",
+    "C) Ümumi qaydada əvəzləşdirilir",
+    "D)	30 faiz əvəzləşdirilir"
   ]
 },
 {
-  numb: 6,
-  question: "Вопрос",
-  answer: "1",
+  numb: 15,
+  question: "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqaviləyə uyğun olaraq beynəlxalq təşkilatın, yaxud xarici hüquqi və ya fiziki şəxsin əvəzsiz köçürmələri ilə ödənilmiş malları alan və yaxud işlərin və ya xidmətlərin nəticələrini həmin əsaslarla əldə edən şəxs vergi orqanına elektron qaimə-fakturaları verərkən, həmin mallara, işlərə və ya xidmətlərə görə ödənilmiş ƏDV-ni vergi orqanına ərizə verdiyi vaxtdan hansı müddət ərzində geri almaq hüququna malikdir?",
+  answer: "D) 45 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 gün",
+    "B) 20 gün",
+    "C) 30 gün",
+    "D) 45 gün"
   ]
 },
 {
@@ -427,17 +427,6 @@ let questions = [
     "B)	Vergi Məcəlləsinə uyğun olaraq vergi orqanları və onların vəzifəli şəxsləri tərəfindən öz səlahiyyətləri daxilində həyata keçirilir.",
     "C)	Vergi Məcəlləsinə uyğun olaraq vergi və maliyyə orqanları və onların vəzifəli şəxsləri tərəfindən öz səlahiyyətləri daxilində həyata keçirilir.",
     "D)	Vergi ödəyicisi və onun vəzifəli şəxsləri tərəfindən həyata keçirilir."
-  ]
-},
-{
-  numb: 40,
-  question: "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqaviləyə uyğun olaraq beynəlxalq təşkilatın, yaxud xarici hüquqi və ya fiziki şəxsin əvəzsiz köçürmələri ilə ödənilmiş malları alan və yaxud işlərin və ya xidmətlərin nəticələrini həmin əsaslarla əldə edən şəxs vergi orqanına elektron qaimə-fakturaları verərkən, həmin mallara, işlərə və ya xidmətlərə görə ödənilmiş ƏDV-ni vergi orqanına ərizə verdiyi vaxtdan hansı müddət ərzində geri almaq hüququna malikdir?",
-  answer: "D) 45 gün",
-  options: [
-    "A) 10 gün",
-    "B) 20 gün",
-    "C) 30 gün",
-    "D) 45 gün"
   ]
 },
 ];
