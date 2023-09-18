@@ -265,91 +265,91 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Azərbaycan Respublikasında istehsal edilən, yaxud ölkəyə idxal olunan aksiz markası ilə markalanmalı malların siyahısı, həmin mallara aksiz markalarının tətbiqi qaydası hansı dövlət orqanı tərəfindən müəyyən edilir?",
+  answer: "D) Nazirlər Kabineti ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Maliyyə Nazirliyi",
+    "B) Dövlət Vergi Xidməti",
+    "C) Gömrük Komitəsi ",
+    "D) Nazirlər Kabineti "
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "Aksiz markalarının hazırlanmasına dair sifarişin verilməsi, onların satışı və uçotunun aparılması qaydası hansı dövlət orqanı tərəfindən müəyyən edilir?",
+  answer: "C) Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Maliyyə Nazirliyi",
+    "B)	Mərkəzi Bank",
+    "C) Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+    "D) Nazirlər Kabineti"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Müvafiq icra hakimiyyəti orqanının qərarına əsasən markalanmalı olan aksizli mallar istehsal edən vergi ödəyicisinin istehsal sahəsinin hansı hissəsində nəzarət postları yaradılır?",
+  answer: "A)	Giriş və çıxış qapısının yaxınlığında",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Giriş və çıxış qapısının yaxınlığında",
+    "B)	Ancaq çıxış qapısında",
+    "C) Yalnız giriş qapısının yaxınlığında",
+    "D) İstənilən yerdə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Aksizli mallar üzərində vergi nəzarəti məqsədilə yaradılmış nəzarət postları telefon və digər zəruri avadanlıqlarla təchiz edilməlidirmi?",
+  answer: "B)	Edilməlidir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müstəsna hallarda",
+    "B)	Edilməlidir",
+    "C) Edilməli deyil",
+    "D) Vergi ödəyicisinin razılığı olduğu halda"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 29,
+  question: "Nəzarət postları yaradıldıqda markalanmalı olan aksizli malları istehsal edən vergi ödəyicisinin texnoloji avadanlıqlarının, ölçü vasitələrinin və laboratoriya cihazlarının texniki sazlığının, standartlara uyğunluğunun yoxlanması və həmin cihazların ploblanması hansı orqan tərəfindən yerinə yetirilir?",
+  answer: "C)	Azərbaycan Respublikasının Standartlaşdırma, Metrologiya və Patent üzrə Dövlət Agentliyi tərəfindən Dövlət Vergi Xidmətinin iştirakı ilə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nazirlər Kabineti",
+    "B)	Azərbaycan Respublikası Standartlaşdırma, Metrologiya və Patent üzrə Dövlət Agentliyi",
+    "C)	Azərbaycan Respublikasının Standartlaşdırma, Metrologiya və Patent üzrə Dövlət Agentliyi tərəfindən Dövlət Vergi Xidmətinin iştirakı ilə",
+    "D)	Hesablama Palatası və Dövlət Vergi Xidmətinin iştirakı ilə"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 30,
+  question: "Aksizli mallar üzərində vergi nəzarəti məqsədilə yaradılmış nəzarət postlarının işçiləri aşağıda sadalanan hansı qaydalara riayət olunmasına nəzarət edirlər? 1)	aksiz markalarının qalıqlarının inventarizasiya edilməsi 2)	istehsalın həcmi üzrə nəzarət ölçü cihazlarının plomblanması 3)	hazır məhsul satışının təmin edilməsi 4)	istehsal sahələrindəki texnoloji avadanlıqların plomblanması 5)	xammal və material alışının təşkil edilməsi",
+  answer: "B) 1;2;4",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1;3;4",
+    "B) 1;2;4",
+    "C) 1;2;5",
+    "D) 1;4;5"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 31,
+  question: "Aksizli mallar üzərində vergi nəzarəti zamanı istehsal həcmi üzrə nəzarət-ölçü cihazlarının, xammal, material VƏ hazır məhsul anbarlarının, istehsal sahələrindəki texnoloji avadanlıqların plomblanması hansı şəxslər tərəfindən həyata keçirilir?",
+  answer: "A)	Nəzarət postlarının işçiləri tərəfindən istehsalçının nümayəndəsi ilə birlikdə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nəzarət postlarının işçiləri tərəfindən istehsalçının nümayəndəsi ilə birlikdə",
+    "B)	Yalnız nəzarət postlarının işçiləri tərəfindən",
+    "C)	İstehsalçının özü tərəfindən",
+    "D)	İstənilən vergi işçisi tərəfindən"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 32,
+  question: "Aksizli mallar üzərində vergi nəzarəti məqsədilə yaradılmış nəzarət postlarının işçiləri tərəfindən istehsalçının nümayəndəsi ilə birlikdə plomblanma həyata keçirilən zaman müvafiq qeydlər harada aparılır?",
+  answer: "C) Xergi orqanının təsdiq etdiyi forma üzrə kitabda",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Xüsusi bir qeydiyyat kitabı yoxdur ",
+    "B)	Heç bir qeydiyyat aparılmır ",
+    "C) Vergi orqanının təsdiq etdiyi forma üzrə kitabda",
+    "D) Nəzarət postlarının işçilərinin qeydiyyat kitabında "
   ]
 },
 {
