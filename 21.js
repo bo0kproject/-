@@ -221,129 +221,129 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Azərbaycan Respublikasının Mərkəzi Bankı və onun qurumları əmlak vergisini hansı faiz dərəcəsi ilə ödəyirlər?",
+  answer: "C)	Əmlak vergisi ödəməkdən azaddırlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Balansında olan əsas vəsaitlərinin orta illik qalıq dəyərinin 1 faizi miqdarında",
+    "B)	Balansında olan əsas vəsaitlərinin ilkin dəyərinin 1 faizi miqdarında",
+    "C)	Əmlak vergisi ödəməkdən azaddırla",
+    "D)	Balansında olan əsas vəsaitlərinin balans dəyərinin 0,1 faizi miqdarında"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "Dövlət fondları əmlak vergisini hansı faiz dərəcəsi ilə ödəyirlər?",
+  answer: "B)	Əmlak vergisi ödəməkdən azaddırla",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Balansında olan əsas vəsaitlərinin orta illik qalıq dəyərinin 1 faizi miqdarında",
+    "B)	Əmlak vergisi ödəməkdən azaddırla",    
+    "C)	balansında olan əsas vəsaitlərinin ilkin dəyərin 1 faizi miqdarında",
+    "D)	balansmda olan əsas vəsaitlərinin balans dəyərinin 0,1 faizi miqdarında"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Əlilliyi olan şəxslərin qeyri-hökumət təşkilatlan əmlak vergisini hansı faiz dərəcəsi ilə ödəyirlər?",
+  answer: "D)	Əmlak vergisi ödəməkdən azaddırlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Balansında olan əsas vəsaitlərinin orta illik qalıq dəyərinin 1 faizi miqdarında",
+    "B)	Balansında olan əsas vəsaitlərinin balans dəyərinin 0,1 faizi miqdarında",
+    "C)	Balansında olan əsas vəsaitlərinin ilkin dəyərinin 1 faizi miqdarında",
+    "D)	Əmlak vergisi ödəməkdən azaddırlar"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 24,
+  question: "Dövlətin adından yaradılan publik hüquqi şəxslər əmlak vergisini hansı qayda ilə ödəyirlər?",
+  answer: "A)	Sahibkarlıq fəaliyyəti məqsədləri üçün istifadə olunan əmlaka görə ödənilməli əmlak vergisi istisna olmaqla, əmlak vergisi ödəməkdən azaddırlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sahibkarlıq fəaliyyəti məqsədləri üçün istifadə olunan əmlaka görə ödənilməli əmlak vergisi istisna olmaqla, əmlak vergisi ödəməkdən azaddırlar",
+    "B)	Balansında olan əsas vəsaitlərinin balans dəyərinin 0,1 faizi miqdarında",
+    "C)	Əmlak vergisi ödəməkdən azaddırlar",
+    "D)	Balansında olan əsas vəsaitlərinin orta illik qalıq dəyərinin 1 faizi miqdarında"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Misgərlik, qalayçılıq və saxsı məmulatlarının, təsərrüfat müxəlləfatının, bağçılıq- bostançılıq alətlərinin, xalq musiqi alətlərinin hazırlanması sahəsində hüquqi şəxs yaratma¬dan sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslərin sənətkarlıq emalatxanalarının binaları əmlak vergisinə hansı qaydada cəlb edilir?",
+  answer: "B)	Əmlak vergisinə cəlb edilmir",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada əmlak vergisi tutulur",
+    "B)	Əmlak vergisinə cəlb edilmir",
+    "C) 50 faiz güzəşt verilir",
+    "D) Hesablanmış əmlak vergisinin 1/4 hissəsi tutulur"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "Hansı hallarda müharibə əlillərinin binalara görə ödəməli olduğu əmlak vergisinin məbləği 30 manat azaldılmır?",
+  answer: "A)	Binaların icarəyə, kirayəyə verildiyi, habelə sahibkarlıq və ya kommersiya fəaliyyəti ilə məşğul olmaq üçün istifadə edildiyi hallarda",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Binaların icarəyə, kirayəyə verildiyi, habelə sahibkarlıq və ya kommersiya fəaliyyəti ilə məşğul olmaq üçün istifadə edildiyi hallarda",
+    "B)	İstənilən halda",
+    "C) Yalnız binaların icarəyə, kirayəyə verildiyi hallarda",
+    "D) Yalnız binaların sahibkarlıq və ya kommersiya fəaliyyəti ilə məşğul olmaq üçün istifadə edildiyi hallarda"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Binaların icarəyə, kirayəyə verildiyi, habelə sahibkarlıq və ya kommersiya fəaliyyəti ilə məşğul olmaq üçün istifadə edildiyi hallar istisna olmaqla, müharibə əlillərinin binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
+  answer: "C) 30 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 manat",
+    "B) 20 manat",
+    "C) 30 manat",
+    "D) Güzəşt nəzərdə tutulmayıb"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Pensiya alan şəxslərin binalara görə ödəməli olduqları əmlak vergi-sinin məbləği nə qədər azaldılır?",
+  answer: "A)	30 manat ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	30 manat ",
+    "B)	55 manat",
+    "C) Güzəşt nəzərdə tutulmayıb",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 29,
+  question: "Məcburi köçkünlərin binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
+  answer: "B)	Güzəşt nəzərdə tutulmayıb",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	55 manat",
+    "B)	Güzəşt nəzərdə tutulmayıb",
+    "C) 30 manat",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 30,
+  question: "Həlak olmuş döyüşçülərin valideynlərinin binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
+  answer: "C) Güzəşt nəzərdə tutulmayıb",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	55 manat",
+    "B) 30 manat",
+    "C) Güzəşt nəzərdə tutulmayıb",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 31,
+  question: "Həlak olmuş döyüşçülərin dul arvadlarının binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
+  answer: "A)	30 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	30 manat",
+    "B)	Güzəşt nəzərdə tutulmayıb",
+    "C) 55 manat",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
+  numb: 32,
+  question: "Çernobıl AES-də şüa xəstəliyinə tutulmuş şəxslərin icarəyə verdikləri binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
   answer: "1",
   options: [
     "1",
