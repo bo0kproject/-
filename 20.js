@@ -199,69 +199,69 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 19,
+  question: "Vergi ödəyicisi olan hüquqi şəxs ləğv edildikdə və ya hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxsin fəaliyyətinə xitam verildikdə, aksiz bəyannaməsi Vergi Məcəlləsində nəzərdə tutulmuş müddətdən gec olmamaq şərti ilə neçə gün müddətində vergi orqanına təqdim edilməlidir?",
+  answer: "B) 30 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 40 gün",
+    "B) 30 gün",
+    "C) 45 gün",
+    "D) 20 gün"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 20,
+  question: "Aksizli malları (xammal və materialları) alan və bu malları vergi tutulan digər aksizli malların istehsalı üçün istifadə edən şəxs xammal və materialları alarkən ödənilmiş aksizin məbləğini əvəzləşdirmək üçün ərizəni nə vaxt vergi orqanına təqdim etməlidir?",
+  answer: "A)	Aksizin ödənilməsinə dair bəyannamə ilə birlikdə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aksizin ödənilməsinə dair bəyannamə ilə birlikdə",
+    "B)	Hesabat ayından sonrakı ayın 5-nə kimi",
+    "C)	Aksizin ödənilməsinə dair bəyannamə təqdim edildikdən sonra 10 gün müddətində",
+    "D)	Aksizin ödənilməsinə dair bəyannamə təqdim edildikdən sonra 15 gün müddətində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Aksizli mallar istehsal edən vergi ödəyicisi istehsal ehtiyacları üçün alman aksizli mallara görə ödənilmiş aksiz məbləğini əvəzləşdirmə üçün ərizəni nə vaxt vergi orqanına təqdim edir?",
+  answer: "B)	Aksizin bəyannaməsini təqdim etdiyi vaxt ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Növbəti ayın sonuna qədər",
+    "B)	Aksizin bəyannaməsini təqdim etdiyi vaxt ",
+    "C) Cari ilin sonuna qədər",
+    "D) Cövbəti ay başlananadək"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "Sonradan təkrar ixrac məqsədi ilə idxal olunan mallara görə ödənilən aksizlər hansı orqan tərəfindən geri qaytarılır?",
+  answer: "A)	Aksizi almış gömrük orqanları tərəfindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Aksizi almış gömrük orqanları tərəfindən",
+    "B)	Maliyyə orqanları və vergi orqanları tərəfindən",
+    "C)	Vergi orqanlarının rəyinə əsasən maliyyə orqanları tərəfindən",
+    "D)	Xəzinədarlıq orqanları tərəfindən"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Sonradan təkrar ixrac məqsədi ilə idxal olunan mallara görə ödənilən aksizlər təkrar ixrac baş verdiyi vaxtdan hansı müddətdə geri qaytarılır?",
+  answer: "D) 15 gün",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 30 gün",
+    "B) 20 gün",
+    "C) 10 gün ",
+    "D) 15 gün"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 24,
+  question: "Sonradan təkrar ixrac məqsədi ilə idxal olunan mallara aksiz nə vaxt ödənilir?",
+  answer: "D) Malların idxalı zamanı",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Malların təkrar ixracı zamanı",
+    "B)	Malların gömrük ərazisində emalı zamanı ",
+    "C) Malların gömrük ərazisindən çıxması zamanı",
+    "D) Malların idxalı zamanı"
   ]
 },
 {
