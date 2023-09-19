@@ -436,7 +436,7 @@ let questions = [
     options: [
       "A)	Bu əmlakların dəyərinin 30%-i qədər",
       "B)	Bu əmlakların dəyərinin 10%-i qədər",
-      "C)  Bu əmlakların tam dəyərində",
+      "C)   Bu əmlakların tam dəyərində",
       "D)	Bu əmlakların dəyərinin 15%-i qədər"
     ]
   },
@@ -447,7 +447,7 @@ let questions = [
     options: [
       "A)	Bu əmlakların dəyərinin 30%-i qədər",
       "B)	Bu əmlakların dəyərinin 10%-i qədər",
-      "C)  Bu əmlakların tam dəyərində",
+      "C)   Bu əmlakların tam dəyərində",
       "D)	Bu əmlakların dəyərinin 15%-i qədər"
     ]
   },
