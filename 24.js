@@ -161,7 +161,7 @@ let questions = [
   options: [
     "A)	Təqaüdçülərin",
     "B)	1941—1945ci illərdə arxa cəbhədə fədakar əməyinə görə orden və medallar ilə təltif edilmiş şəxslərin;",
-    "C)	"mək veteranlarının",
+    "C)	Əmək veteranlarının",
     "D)	Büdcə təşkilatının işçilərinin"
   ]
 },
@@ -195,7 +195,7 @@ let questions = [
     "A)	7 il",
     "B)	Torpaq vergisini ödəməkdən azad deyillər",
     "C) Müddətsiz olaraq azaddırlar",
-    "D) 5 il
+    "D) 5 il"
   ]
 },
   {
@@ -206,7 +206,7 @@ let questions = [
     "A)	7 il",
     "B)	Torpaq vergisini ödəməkdən azad deyillər",
     "C) Müddətsiz olaraq azaddırlar",
-    "D) 5 il
+    "D) 5 il"
   ]
 },
   {
@@ -217,7 +217,7 @@ let questions = [
     "A)	2019-cu il yanvarın 1-dən müddətsiz olaraq azaddırlar",
     "B)	Torpaq vergisini ödəməkdən azad deyillər",
     "C) 7 il",
-    "D) 5 il
+    "D) 5 il"
   ]
 },
   {
