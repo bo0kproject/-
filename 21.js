@@ -359,8 +359,8 @@ let questions = [
     options: [
       "A)	30 manat ",
       "B)	50 manat",
-      "C) Güzəşt nəzərdə tutulmayıb",
-      "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
+      "C)  Güzəşt nəzərdə tutulmayıb",
+      "D)  Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
     ]
   },
   {
@@ -379,8 +379,8 @@ let questions = [
     question: "Vergitutma məqsədləri üçün müəssisənin əmlakının dəyəri ekologiya, yanğından mühafizə və ya mülki müdafiə üçün istifadə edilən əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
     answer: "D) Bu əmlakların tam dəyərində",
     options: [
-      "A)	Bu əmlakların dəyərinin 10%-i qədər",
-      "B)	Bu əmlakların dəyərinin 50%-i qədər",
+      "A) Bu əmlakların dəyərinin 10%-i qədər",
+      "B) Bu əmlakların dəyərinin 50%-i qədər",
       "C) Bu əmlakların dəyərinin 25%-i qədər",
       "D) Bu əmlakların tam dəyərində"
     ]
@@ -390,8 +390,8 @@ let questions = [
     question: "Vergitutma məqsədləri üçün fərdi sahibkarın əmlakının dəyəri ekologiya, yanğından mühafizə və ya mülki müdafiə üçün istifadə edilən əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
     answer: "D) Bu əmlakların tam dəyərində",
     options: [
-      "A)	Bu əmlakların dəyərinin 10%-i qədər",
-      "B)	Bu əmlakların dəyərinin 50%-i qədər",
+      "A) Bu əmlakların dəyərinin 10%-i qədər",
+      "B) Bu əmlakların dəyərinin 50%-i qədər",
       "C) Bu əmlakların dəyərinin 25%-i qədər",
       "D) Bu əmlakların tam dəyərində"
     ]
@@ -401,8 +401,8 @@ let questions = [
     question: "Vergitutma məqsədləri üçün müəssisənin əmlakının dəyəri məhsul ötürən kəmər-lərin, dəmir və avtomobil yollarının, rabitə və enerji ötürücü xətlərinin, meliorasiya və suvarma sistemi obyektlərinin dəyərinin hansı hissəsi qədər azaldılır?",
     answer: "D) Bu əmlakların tam dəyərində",
     options: [
-      "A)	Bu əmlakların dəyərinin 10%-i qədər",
-      "B)	Bu əmlakların dəyərinin 15%-i qədər",
+      "A) Bu əmlakların dəyərinin 10%-i qədər",
+      "B) Bu əmlakların dəyərinin 50%-i qədər",
       "C) Bu əmlakların dəyərinin 25%-i qədər",
       "D) Bu əmlakların tam dəyərində"
     ]
@@ -412,8 +412,8 @@ let questions = [
     question: "Vergitutma məqsədləri üçün fərdi sahibkarın əmlakının dəyəri məhsul ötürən kəmərlərin, dəmir və avtomobil yollarının, rabitə və enerji ötürücü xətlərinin, meliorasiya və suvarma sistemi obyektlərinin dəyərinin hansı hissəsi qədər azaldılır?",
     answer: "D) Bu əmlakların tam dəyərində",
     options: [    
-      "A)	Bu əmlakların dəyərinin 10%-i qədər",
-      "B)	Bu əmlakların dəyərinin 15%-i qədər",
+      "A) Bu əmlakların dəyərinin 10%-i qədər",
+      "B) Bu əmlakların dəyərinin 50%-i qədər",
       "C) Bu əmlakların dəyərinin 25%-i qədər",
       "D) Bu əmlakların tam dəyərində"
     ]
