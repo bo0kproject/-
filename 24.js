@@ -155,113 +155,113 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 15,
+  question: "Aşağıdakı fiziki şəxslərdən kimlərin torpaq vergisi üzrə güzəştdən istifadə etmək hüququ vardır?",
+  answer: "B)	1941—1945ci illərdə arxa cəbhədə fədakar əməyinə görə orden və medallar ilə təltif edilmiş şəxslərin;",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Təqaüdçülərin",
+    "B)	1941—1945ci illərdə arxa cəbhədə fədakar əməyinə görə orden və medallar ilə təltif edilmiş şəxslərin;",
+    "C)	"mək veteranlarının",
+    "D)	Büdcə təşkilatının işçilərinin"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 16,
+  question: "Azərbaycan Respublikasının Prezidentinin qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının rezidenti olan hüquqi şəxslər və hüquqi şəxs yaratmadan sahibkarlıq fəaliyyətini həyata keçirən fiziki şəxslər qanunvericiliyə uyğun olaraq, sənaye və texnologiyalar parkında qeydiyyata alındıqları hesabat ilindən başlayaraq, sənaye və texnologiyalar parkında istifadə etdikləri torpaqlara görə neçə il müddətinə torpaq vergisini ödəməkdən azaddırlar?",
+  answer: "D) 10 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müddətsiz olaraq azaddırlar",
+    "B)	Torpaq vergisini ödəməkdən azad deyillər",
+    "C) 5 il",
+    "D) 10 il"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 17,
+  question: "Azərbaycan Respublikasının Prezidentinin qərarına əsasən yaradılan sənaye, yaxud texnologiyalar parklarının idarəedici təşkilatı və ya operatoru sənaye, yaxud texnologiyalar parklarının ərazisində istifadə etdiyi torpaqlara görə neçə il müddətinə torpaq vergisini ödəməkdən azaddır",
+  answer: "C) Müddətsiz olaraq azaddırlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	7 il",
+    "B)	Torpaq vergisini ödəməkdən azad deyillər",
+    "C) Müddətsiz olaraq azaddırlar",
+    "D) 5 il"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 18,
+  question: "İnvestisiya təşviqi sənədini almış hüquqi şəxs və fərdi sahibkar həmin sənədi aldığı tarixdən mülkiyyətində və ya istifadəsində olan müvafiq torpaqlara görə neçə il müddətinə torpaq vergisini ödəməkdən azaddır?",
+  answer: "A)	7 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	7 il",
+    "B)	Torpaq vergisini ödəməkdən azad deyillər",
+    "C) Müddətsiz olaraq azaddırlar",
+    "D) 5 il
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 19,
+  question: "KOB klaster şirkətləri KOB klaster şirkətlərinin reyestrinə daxil edildiyi tarixdən neçə il müddətinə mülkiyyətində və ya istifadəsində olan torpaqlara görə torpaq vergisini ödəməkdən azad edilirlər?",
+  answer: "A)	7 il",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	7 il",
+    "B)	Torpaq vergisini ödəməkdən azad deyillər",
+    "C) Müddətsiz olaraq azaddırlar",
+    "D) 5 il
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 20,
+  question: "Ödəmə qabiliyyətini itirmiş bankların rezolyusiyası və sağlamlaşdırma tədbirləri çərçivəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanının (qurumun) qərarına əsasən aldığı problemli aktivlərin (borcların) əvəzində əldə etdiyi və onun mülkiyyətində (balansında) olan torpağa görə neçə il müddətinə torpaq vergisini ödəməkdən azaddırlar?",
+  answer: "A)	2019-cu il yanvarın 1-dən müddətsiz olaraq azaddırlar",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	2019-cu il yanvarın 1-dən müddətsiz olaraq azaddırlar",
+    "B)	Torpaq vergisini ödəməkdən azad deyillər",
+    "C) 7 il",
+    "D) 5 il
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 21,
+  question: "Geoloji ayırma sənədi əsasında faydalı qazıntı yataqlarının (neft və qaz yataqları istisna olmaqla) axtarışı, qiymətləndirilməsi və kəşfiyyatı işlərinə cəlb edilən torpaq sahələrinə görə torpaq vergisi müvafiq təsdiqedici sənədlər (geoloji-kəşfiyyat işlərini həyata keçirən şəxsin podrat müqaviləsi, geoloji-kəşfiyyat planı, geoloji-kəşfiyyatla bağlı təqdim edilən hesabat) əsasında faydalı qazıntı yataqlarının axtarışı, qiymətləndirilməsi və kəşfiyyatı işlərinə başlanıldığı təqvim ili üzrə neçə faiz azaldılır?",
+  answer: "C) 75%",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 50%",
+    "B) 70%",
+    "C) 75%",
+    "D) 100%"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 22,
+  question: "Eyni vergi ilində geoloji ayırma sənədi əsasında faydalı qazıntı yataqlarının (neft və qaz yataqları istisna olmaqla) axtarışı, qiymətləndirilməsi və kəşfiyyatı işlərinə cəlb edilən və istismar edilərək faydalı qazıntılar çıxarılan torpaq sahələrinə münasibətdə torpaq vergisi neçə faiz azaldılır?",
+  answer: "C) Azaldılmır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 50%",
+    "B) 30%",
+    "C) Azaldılmır",
+    "D) 75%"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 23,
+  question: "Torpaq vergisi hansı sənədlər əsasında müəyyənləşdirilir?",
+  answer: "A)	Torpaq barəsində mülkiyyət və istifadə hüququnu təsdiq edən sənədlər əsasında",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Torpaq barəsində mülkiyyət və istifadə hüququnu təsdiq edən sənədlər əsasında",
+    "B)	Torpaq barəsində sərəncamvermə hüququnu təsdiq edən sənədlər əsasında",
+    "C)	Torpaq barəsində yalnız mülkiyyət hüququnu təsdiq edən sənədlər əsasında",
+    "D)	Torpaq barəsində yalnız istifadə hüququnu təsdiq edən sənədlər əsasında"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 24,
+  question: "Tikililərin və qurğuların altında olan torpaqlara görə torpaq vergisi hansı qaydada tutulur?",
+  answer: "A)	Ümumi qaydada tutulur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Ümumi qaydada tutulur",
+    "B)	Bu torpaqlara görə vergi tutulmur",
+    "C)	Bu torpaqlara görə xüsusi vergitutma rejimi tətbiq edilir",
+    "D)	Tikinti altında olan torpağa vergi dərəcəsi 2 dəfə artırılır"
   ]
 },
   {
