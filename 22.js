@@ -199,62 +199,62 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 19,
+  question: "Əmlak vergisi əmlakın əvvəlki sahibi tərəfindən ödənilmədiyi hallarda, vergi kim tərəfindən ödənilir?",
+  answer: "A)	Müəyyən edilmiş ödəmə vaxtında həmin əmlakın sahibi tərəfindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müəyyən edilmiş ödəmə vaxtında həmin əmlakın sahibi tərəfindən",
+    "B)	Müəyyən edilmiş ödəmə vaxtında həmin əmlakın əvvəlki sahibi tərəfindən",
+    "C)	Müəyyən edilmiş ödəmə vaxtında vergi orqanı tərəfindən müəyyən edilən şəxs tərəfindən",
+    "D)	Müəyyən edilmiş ödəmə vaxtında bərabər məbləğlərdə əmlakın əvvəlki və yeni sahibi tərəfindən"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 20,
+  question: "Binalara, su və hava nəqliyyatı vasitələrinə görə fiziki şəxslərin əmlak vergisi hansı büdcəyə ödənilir?",
+  answer: "A)	Yerli büdcəyə (bələdiyyə büdcəsinə) ",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Yerli büdcəyə (bələdiyyə büdcəsinə) ",
+    "B)	Dövlət büdcəsinə",
+    "C) Büdcədənkənar fonlara",
+    "D) Xüsusi fondlara"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Müəssisənin əsas vəsaitləri qalıq dəyərindən artıq qiymətə sığortalandığı halda əmlak vergisi necə hesablanır?",
+  answer: "B)	Bazar qiymətinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sığortalandığı qiymətə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "B)	Bazar qiymətinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "C)	Orta illik qalıq dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "D)	"Əmlakların alış dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "Fərdi sahibkarın əsas vəsaitləri qalıq dəyərindən artıq qiymətə sığortalandığı halda əmlak vergisi necə hesablanır?",
+  answer: "B)	Bazar qiymətinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Sığortalandığı qiymətə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "B)	Bazar qiymətinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "C)	Orta illik qalıq dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
+    "D)	"Əmlakların alış dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Müəssisənin və fərdi sahibkarın əmlak vergisi üçün vergi dövrü hansı dövr sayılır?",
+  answer: "D) Təqvim ili",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Təqvim ayı",
+    "B) Yarım illik",
+    "C) Rüb ",
+    "D) Təqvim ili"
   ]
 },
   {
-  numb: 25,
+  numb: 24,
   question: "Əvvəlki vergi ilində əmlak vergisi ödəyicisi olmayan və növbəti ildə bu verginin ödə-yicisi olan hüquqi şəxslər əmlak vergisi üzrə cari vergi ödəmələrini hansı qaydada ödəyirlər?",
   answer: "A)	Hüquqi şəxslər və fərdi sahibkarlar əsas vəsaitlərin əldə edildiyi rübdən sonra hər rübün ikinci ayının 15-dən gec olmayaraq həmin əmlaka görə hesablanmalı olan illik əmlak vergisinin 20 faizi miqdarında",
   options: [
@@ -265,7 +265,7 @@ let questions = [
   ]
 },
   {
-  numb: 26,
+  numb: 25,
   question: "Dövlət büdcəsinə hesabat dövrü üçün ödənilməli olan əmlak vergisinin məbləği müəyyən edilərkən hesabat dövrü ərzində əvvəllər hesablanmış ödəmələr nəzərə alınırım?",
   answer: "B)	Tam məbləğdə nəzərə alınır",
   options: [
@@ -276,7 +276,7 @@ let questions = [
   ]
 },
   {
-  numb: 27,
+  numb: 26,
   question: "Əmlak vergisi Üzrə cari vergi Ödəmələri vaxtında ödənilmədikdə vergi orqanı tərə-findən hansı tədbirlər görülür ?",
   answer: "D)	Vergi ödəyicisinə ödəmə müddətindən sonrakı hər bir ötmüş gün üçün 0,1 faiz dərəcəsi ilə faiz hesablanır",
   options: [
@@ -287,8 +287,8 @@ let questions = [
   ]
 },
   {
-  numb: 28,
-  question: "Əmlak vergisi üzrə cari vergi ödəmələri nə vaxt yenidən haqq-hesab edilir ?",
+  numb: 27,
+  question: "Əmlak vergisi üzrə cari vergi ödəmələri nə vaxt yenidən haqq-hesab edilir?",
   answer: "C)	Hesabat ili başa çatdıqdan sonra",
   options: [
     "A)	Hesabat rübü başa çatdıqdan sonra",
@@ -298,18 +298,18 @@ let questions = [
   ]
 },
   {
-  numb: 29,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Müəssisələr və fərdi sahibkarlar əmlak vergisi üzrə cari vergi ödəmələrini nə vaxt ödəyirlər?",
+  answer: "B)	Hər rübün ikinci ayının 15-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hər rübün sonundan gec olmayaraq",
+    "B)	Hər rübün ikinci ayının 15-dən gec olmayaraq",
+    "C)	Hər rübün birinci ayının 15-dən gec olmayaraq",
+    "D)	Hər rübün ikinci aymın 20-dən gec olmayaraq"
   ]
 },
   {
-  numb: 30,
+  numb: 29,
   question: "Hesablanmış cari vergi məbləği hesabat üzrə vergi məbləğindən çox olduğu halda:",
   answer: "A)	Artıq hesablanmış cari vergi və ona uyğun faiz məbləğləri azaldılır",
   options: [
@@ -320,7 +320,7 @@ let questions = [
   ]
 },
   {
-  numb: 31,
+  numb: 30,
   question: "Müəssisə və fərdi sahibkar əmlak vergisinin illik bəyannaməsini nə vaxt təqdim edir?",
   answer: "C)	Hesabat ilindən sonrakı ilin mart ayının 31 -dən gec olmayaraq",
   options: [
@@ -331,7 +331,7 @@ let questions = [
   ]
 },
   {
-  numb: 32,
+  numb: 31,
   question: "Hüquqi şəxs və ya qeyri-rezidentin daimi nümayəndəliyi iəğvetmə balansını qeydiyyat orqanına təqdim etdiyi tarixdən neçə gün müddətində əmlak vergisi bəyanna¬məsini vergi orqanına təqdim etməlidir?",
   answer: "D) 30 gün müddətində",
   options: [
@@ -342,7 +342,7 @@ let questions = [
   ]
 },
   {
-  numb: 33,
+  numb: 32,
   question: "Fərdi sahibkar fəaliyyətinin ləğvi hallarında vergi uçotundan çıxarılma barədə ərizənin verildiyi tarixdən neçə gün müddətində əmlak vergisi bəyannaməsini vergi orqanına təqdim etməyə borcludur?",
   answer: "D) 30 gün müddətində",
   options: [
@@ -353,7 +353,7 @@ let questions = [
   ]
 },
   {
-  numb: 34,
+  numb: 33,
   question: "Müəssisənin hesabladığı əmlak vergisinin məbləği nəyə aid edilir?",
   answer: "B)	Məhdudlaşdırılmayan gəlirdən çıxılmalara aid edilir",
   options: [
@@ -364,7 +364,7 @@ let questions = [
   ]
 },
   {
-  numb: 35,
+  numb: 34,
   question: "İllik bəyannamələr üzrə əmlak vergisi nə vaxt ödənilir?",
   answer: "B)	Həmin bəyannamələrin verilməsi üçün müəyyən edilmiş müddətlərədək",
   options: [
@@ -375,7 +375,7 @@ let questions = [
   ]
 },
   {
-  numb: 36,
+  numb: 35,
   question: "Müəssisələrin və fərdi sahibkarın əmlak vergisi hansı büdcəyə ödənilir?",
   answer: "B)	Dövlət büdcəsinə",
   options: [
@@ -386,7 +386,7 @@ let questions = [
   ]
 },
   {
-  numb: 37,
+  numb: 36,
   question: "Vergitutma məqsədləri üçün müəssisənin və fərdi sahibkarın əsas vəsaitlərinin hansı dəyərinə əsasən əmlak vergisi hesablanır?",
   answer: "C) Orta illik qahq dəyərinə",
   options: [
@@ -397,7 +397,7 @@ let questions = [
   ]
 },
   {
-  numb: 38,
+  numb: 37,
   question: "Müəssisənin və fərdi sahibkarın əsas vəsaitlərinin orta illik qahq dəyəri necə müəyyən edilir?",
   answer: "B)	Müəssisənin və fərdi sahibkarın əsas vəsaitlərinin hesabat ilinin əvvəlinə və sonuna qahq dəyəri toplanıb ikiyə bölünür.",
   options: [
@@ -408,7 +408,7 @@ let questions = [
   ]
 },
   {
-  numb: 39,
+  numb: 38,
   question: "Müəssisənin və fərdi sahibkarın əsas vəsaitlərinin orta illik qahq dəyəri hesablanarkən hansı amil nəzərə aıınmır?",
   answer: "B)	Əsas vəsaitlərin yenidən qiymətləndirilməsindən yaranan artım",
   options: [
@@ -419,7 +419,7 @@ let questions = [
   ]
 },
   {
-  numb: 40,
+  numb: 39,
   question: "Müəssisə və ya fərdi sahibkar hesabat ili ərzində yaradıldıqda, vergitutma məqsədləri üçün əmlakın orta illik qalıq dəyəri necə müəyyən edilir?",
   answer: "B)	Müəssisənin və ya fərdi sahibkarın yaradıldığı və ya əmlak vergisi ödəyicisi olduğu tarixə və ilin sonuna əmlakın qalıq dəyəri toplanaraq 24-ə bölünür və müəssisənin yaradıldığı aydan sonra ilin sonuna qədər olan ayların sayına vurulur",
   options: [
@@ -430,7 +430,7 @@ let questions = [
   ]
 },
   {
-  numb: 41,
+  numb: 40,
   question: "Müəssisə və ya fərdi sahibkar hesabat ili ərzində ləğv edildikdə, vergitutma məqsədləri üçün əmlakın orta illik qalıq dəyəri necə müəyyən edilir?",
   answer: "A)	İlin əvvəlinə və müəssisənin və ya fərdi sahibkarın ləğv edildiyi tarixə əmlakın qalıq dəyəri toplanaraq 24-ə bölünür və ilin əvvəlindən müəssisənin ləğv edildiyi aya qədər olan ayların sayma vurulur",
   options: [
@@ -441,7 +441,7 @@ let questions = [
   ]
 },
   {
-  numb: 42,
+  numb: 41,
   question: "Vergitutma məqsədləri üçün fərdi sahibkarın əsas vəsaitlərinin orta illik qalıq dəyəri müəyyən edilərkən hansı əsas vəsaitlər nəzərə alınmır?",
   answer: "D)	Rezident və qeyri-rezident fiziki şəxslərin xüsusi mülkiyyətində olan və Azərbaycan Respublikasının ərazisində yerləşən tikililər və ya onların hissələri (binaları), həmçinin yerindən və istifadə edilib-edilməməsindən asılı olmayaraq rezident fiziki şəxslərə məxsus su və hava nəqliyyatı vasitələri",
   options: [
@@ -452,14 +452,14 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 42,
+  question: "Müəssisələr və fərdi sahibkarlar əmlak vergisi üzrə cari vergi ödəmələrini hansı miqdarda ödəyirlər?",
+  answer: "A)	Əvvəlki ildəki əmlak vergisinin məbləğinin 20 faizi",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Əvvəlki ildəki əmlak vergisinin məbləğinin 20 faizi",
+    "B)	Əvvəlki ildəki əmlak vergisinin məbləğinin 25 faizi",
+    "C)	Əvvəlki ildəki əmlak vergisinin məbləğinin 15 faizi",
+    "D) Əvvəlki rübdəki əmlak vergisinin məbləği qədər"
   ]
 },
 ];
