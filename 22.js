@@ -239,7 +239,7 @@ let questions = [
     "A)	Sığortalandığı qiymətə əmlak vergisinin dərəcəsi tətbiq edilməklə",
     "B)	Bazar qiymətinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
     "C)	Orta illik qalıq dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə",
-    "D)	"Əmlakların alış dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə"
+    "D)	Əmlakların alış dəyərinə əmlak vergisinin dərəcəsi tətbiq edilməklə"
   ]
 },
   {
