@@ -265,25 +265,25 @@ let questions = [
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 25,
+  question: "Fiziki şəxslərə torpaq vergisi nə vaxt hesablanır və tədiyə bildirişləri nə zaman onlara çatdırılır?",
+  answer: "A)	Müvafiq olaraq iyulun 1 -dək və avqustun 1 -dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Müvafiq olaraq iyulun 1 -dək və avqustun 1 -dən gec olmayaraq",
+    "B)	Müvafiq olaraq maym 15-dək və avqustun 15-dək",
+    "C)	Müvafiq olaraq avqustun 15-dək və noyabrın 15-dək",
+    "D)	Müvafiq olaraq iyulun 1-dək və avqustun 15-dən gec olmayaraq"
   ]
 },
   {
-  numb: 1,
-  question: "Воп",
-  answer: "1",
+  numb: 26,
+  question: "Müəssisələr torpaq vergisi üzrə hesablamaları hansı müddətdə vergi orqanına təq-dim etməlidirlər?",
+  answer: "A)	Maym 15-dən gec olmayaraq",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Maym 15-dən gec olmayaraq",
+    "B)	İyunun 1-dən gec olmayaraq",
+    "C) Avqustun 15-dən gec olmayaraq",
+    "D) İyulun 1-dən gec olmayaraq"
   ]
 },
   {
