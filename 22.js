@@ -111,14 +111,91 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 11,
+  question: "Fiziki şəxsin xüsusi mülkiyyətində olan binalarına görə əmlak vergisi hansı orqan tərəfindən hesablanır?",
+  answer: "B)	Onların yerləşdiyi ərazinin bələdiyyəsi tərəfindən",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Onların yerleşdiyi ərazi vergi orqanı tərəfindən",
+    "B)	Onların yerləşdiyi ərazinin bələdiyyəsi tərəfindən",
+    "C)	Onlarm aid olduğu inzibati ərazi vahidinin icra nümayəndəliyi tərəfindən",
+    "D)	Onların yerləşdiyi inzibati ərazi vahidinin maliyyə orqanı tərəfindən"
+  ]
+},
+  {
+  numb: 12,
+  question: "Fiziki şəxsin xüsusi mülkiyyətində olan binalara görə əmlak vergisi hansı göstəriciyə əsasən hesablanır?",
+  answer: "D) Binanın sahəsinin (yaşayış sahələrinə münasibətdə - onlarm 30 kvadratmetrdən artıq olan hissəsinin) hər kvadratmetrinə görə",
+  options: [
+    "A) Binanın bazar qiymətinə əsasən",
+    "B) Binanın inventar dəyərinə əsasən",
+    "C) Binanın qalıq dəyərinə əsasən",
+    "D) Binanın sahəsinin (yaşayış sahələrinə münasibətdə - onlarm 30 kvadratmetrdən artıq olan hissəsinin) hər kvadratmetrinə görə"
+  ]
+},
+  {
+  numb: 13,
+  question: "Bir neçə sahibi olan bina üzrə əmlak vergisi hansı qaydada hesablanır?",
+  answer: "A)	Həmin binanın hər sahibi üçün onun binanın dəyərindəki payına uyğun olaraq hesablanır",
+  options: [
+    "A)	Həmin binanın hər sahibi üçün onun binanın dəyərindəki payına uyğun olaraq hesablanır",
+    "B)	Həmin binanın dəyərində daha çox payı olan şəxs tərəfindən hesablanır",
+    "C)	Həmin bina üzrə əmlak vergisi hesablanmır",
+    "D)	Həmin binanın altında olan torpağa görə vergi ödəyən şəxs tərəfindən hesablanır"
+  ]
+},
+  {
+  numb: 14,
+  question: "Su və hava nəqliyyatı vasitələrinə görə əmlak vergisi hansı orqanlar tərəfindən verilən məlumatlar əsasında hesablanır?",
+  answer: "B)	Onlarm qeydiyyatını həyata keçirən təşkilatlar tərəfindən",
+  options: [
+    "A)	Daxili işlər orqanları tərəfindən",
+    "B)	Onlarm qeydiyyatını həyata keçirən təşkilatlar tərəfindən",
+    "C)	Maliyyə və statistika orqanları tərəfindən",
+    "D)	Ərazi vergi orqanları tərəfindən"
+  ]
+},
+  {
+  numb: 15,
+  question: "Su və hava nəqliyyatı vasitələrinin qeydiyyatı olmadığı hallarda, həmin əmlakın sahibi mülkiyyətində olan bu vasitələr barədə hansı məlumatları əks etdirən sənədləri və nə vaxt müvafiq orqana təqdim etməlidirlər?",
+  answer: "A)	Buraxılış ili, alış qiyməti və texniki xarakteristikası - yanvar ayının 1-dək",
+  options: [
+    "A)	Buraxılış ili, alış qiyməti və texniki xarakteristikası - yanvar ayının 1-dək",
+    "B)	Buraxılış ili və alış qiyməti - dekabr ayının 1 -dək",
+    "C)	Alış qiyməti və texniki xarakteristikası - dekabr ayının 20-dək",
+    "D)	Buraxılış ili və texniki xarakteristikası - yanvar ayının 20-dək"
+  ]
+},
+  {
+  numb: 16,
+  question: "Bir neçə fiziki şəxsə məxsus olan su və hava nəqliyyatı vasitəsinə görə əmlak vergisi kimdən tutulur?",
+  answer: "B)	Həmin nəqliyyat vasitəsini öz adına keçirmiş şəxsdən",
+  options: [
+    "A)	Onların bu nəqliyyat vasitəsində malik olduğu paya uyğun olaraq",
+    "B)	Həmin nəqliyyat vasitəsini öz adına keçirmiş şəxsdən",
+    "C)	Həmin nəqliyyat vasitəsinə görə əmlak vergisi tutulmur",
+    "D)	Həmin nəqliyyat vasitəsində daha çox paya malik olan şəxsdən"
+  ]
+},
+  {
+  numb: 17,
+  question: "Bələdiyyələr əmlak vergisinin ödənilməsi barədə tədiyyə bildirişini nə vaxt vergi ödəyicisinə verməlidirlər?",
+  answer: "C) Avqustun 1-dən gec olmayaraq",
+  options: [
+    "A)	Mayın 1-dən gec olmayaraq",
+    "B)	İyunun 1-dən tez olmayaraq",
+    "C) Avqustun 1-dən gec olmayaraq",
+    "D) Avqustun 15-dən gec olmayaraq"
+  ]
+},
+  {
+  numb: 18,
+  question: "Fiziki şəxslərin əmlak vergisi hansı hissələrlə və nə vaxt ödənilməlidir?",
+  answer: "B)	Bərabər hissələrlə həmin il avqustun 15-dək və noyabrın 15-dək",
+  options: [
+    "A)	Bərabər hissələrlə həmin il iyulun 15-dək və noyabrın 15-dək",
+    "B)	Bərabər hissələrlə həmin il avqustun 15-dək və noyabrın 15-dək",
+    "C)	Bərabər hissələrlə həmin il avqustun 15-dək və oktyabrın 15-dək",
+    "D)	İstənilən məbləğdə həmin il avqustun 15-dək və noyabrın 1-dək"
   ]
 },
   {
@@ -177,128 +254,51 @@ let questions = [
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Əvvəlki vergi ilində əmlak vergisi ödəyicisi olmayan və növbəti ildə bu verginin ödə-yicisi olan hüquqi şəxslər əmlak vergisi üzrə cari vergi ödəmələrini hansı qaydada ödəyirlər?",
+  answer: "A)	Hüquqi şəxslər və fərdi sahibkarlar əsas vəsaitlərin əldə edildiyi rübdən sonra hər rübün ikinci ayının 15-dən gec olmayaraq həmin əmlaka görə hesablanmalı olan illik əmlak vergisinin 20 faizi miqdarında",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hüquqi şəxslər və fərdi sahibkarlar əsas vəsaitlərin əldə edildiyi rübdən sonra hər rübün ikinci ayının 15-dən gec olmayaraq həmin əmlaka görə hesablanmalı olan illik əmlak vergisinin 20 faizi miqdarında",
+    "B)	Hüquqi şəxslər və fərdi sahibkarlar əsas vəsaitlərin əldə edildiyi rübdən sonra hər rübün sonunda həmin əmlaka görə hesablanmalı olan illik əmlak vergisinin 25 faizi miqdarında",
+    "C)	Hüquqi şəxslər əmlakın və fərdi sahibkarlar əsas vəsaitlərin əldə edildiyi rübden sonra hər rübün birinci ayının 20-dən gec olmayaraq həmin əmlaka görə hesablanmalı olan illik əmlak vergisinin 20 faizi miqdarında",
+    "D)	Cari vergi ödəmələri aparılmır"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "Dövlət büdcəsinə hesabat dövrü üçün ödənilməli olan əmlak vergisinin məbləği müəyyən edilərkən hesabat dövrü ərzində əvvəllər hesablanmış ödəmələr nəzərə alınırım?",
+  answer: "B)	Tam məbləğdə nəzərə alınır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Nəzərə alınmır",
+    "B)	Tam məbləğdə nəzərə alınır",
+    "C) 50 faiz məbləğdə nəzərə ahmr",
+    "D) Vergi orqanının müəyyən etdiyi faiz nisbətində nəzərə alınır"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Əmlak vergisi Üzrə cari vergi Ödəmələri vaxtında ödənilmədikdə vergi orqanı tərə-findən hansı tədbirlər görülür ?",
+  answer: "D)	Vergi ödəyicisinə ödəmə müddətindən sonrakı hər bir ötmüş gün üçün 0,1 faiz dərəcəsi ilə faiz hesablanır",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Vergi ödəyicisində operativ vergi nəzarəti tədbirləri həyata keçirilir",
+    "B)	Vergi ödəyicisində səyyar vergi yoxlaması həyata keçirilir",
+    "C)	Vergi ödəyicisinə hər bir ötmüş gün üçün 0,05 faiz dərəcəsi ilə faiz hesablanır",
+    "D)	Vergi ödəyicisinə ödəmə müddətindən sonrakı hər bir ötmüş gün üçün 0,1 faiz dərəcəsi ilə faiz hesablanır"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Əmlak vergisi üzrə cari vergi ödəmələri nə vaxt yenidən haqq-hesab edilir ?",
+  answer: "C)	Hesabat ili başa çatdıqdan sonra",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Hesabat rübü başa çatdıqdan sonra",
+    "B)	Hesabat rübünün ikinci ayının 15-i başa çatdıqdan sonra",
+    "C)	Hesabat ili başa çatdıqdan sonra",
+    "D)	Yenidən haqq-hesab edilmir"
   ]
 },
   {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
-  ]
-},
-  {
-  numb: 6,
+  numb: 29,
   question: "?",
   answer: "1",
   options: [
@@ -314,9 +314,9 @@ let questions = [
   answer: "A)	Artıq hesablanmış cari vergi və ona uyğun faiz məbləğləri azaldılır",
   options: [
     "A)	Artıq hesablanmış cari vergi və ona uyğun faiz məbləğləri azaldılır",
-    "2",
-    "3",
-    "4"
+    "B)	Artıq hesablanmış cari vergi məbləği dərhal vergi ödəyicisinə qaytarılır.",
+    "C)	Artıq hesablanmış cari vergi məbləğləri azaldılmır.",
+    "D)	Heç bir tədbir görülmür"
   ]
 },
   {
