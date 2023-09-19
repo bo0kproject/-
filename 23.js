@@ -188,157 +188,157 @@ let questions = [
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 18,
+  question: "Yaşayış fondlarının tutduğu torpaqların torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə Bakı şəhəri üçün torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "C) 0,6 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 0,5 manat",
+    "B) 0,4 manat",
+    "C) 0,6 manat",
+    "D) 0,8 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 19,
+  question: "Bakı şəhəri ərazisində yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "D) 10 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 4 manat",
+    "B) 6 manat",
+    "C) 8 manat",
+    "D) 10 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 20,
+  question: "Bakı şəhəri ərazisində yaşayış fondlarının, həyətyanı sahələrinin torpaqları və və-təndaşların bağ sahələrinin tutduğu torpaqlar üzrə 10000 m2- dən yuxarı olan hissə üçün tor-paq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "D) 1,2 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 4 manat",
+    "B) 0,3 manat",
+    "C) 2 manat",
+    "D) 1,2 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 21,
+  question: "Gəncə, Sumqayıt şəhərləri və Abşeron rayonu ərazisində yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "C) 8 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 4 manat",
+    "B) 3 manat",
+    "C) 8 manat",
+    "D) 2 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 22,
+  question: "Gəncə, Sumqayıt şəhərləri və Abşeron rayonu ərazisində yerləşən yaşayış fondlarının, həyətyanı sahələrinin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "D) 0,5 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 4 manat",
+    "B) 0,1 manat",
+    "C) 0,6 manat ",
+    "D) 0,5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 23,
+  question: "Gəncə, Sumqayıt şəhərləri və Abşeron rayonu ərazisində yerləşən yaşayış fond-larının, həyətyanı sahələrinin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə 10000 m2- dən yuxan olan hissə üçün, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "A) 1 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 1 manat",
+    "B) 0,1 manat",
+    "C) 0,6 manat",
+    "D) 0,5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 24,
+  question: "Gəncə, Sumqayıt şəhərləri və Abşeron rayonu ərazisində yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə 10000 m2- dəü yuxan olan hissə uçün, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "A) 16 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 16 manat",
+    "B) 13 manat",
+    "C) 8 manat",
+    "D) 12 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 25,
+  question: "Bakı, Gəncə, Sumqayıt şəhərləri, Abşeron rayonu və rayon tabeliyində olan şəhərlər istisna olmaqla, digər şəhərlərin rayon mərkəzlərinin ərazisində yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "B) 4 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 6 manat",
+    "B) 4 manat",
+    "C) 2 manat",
+    "D) 5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 26,
+  question: "Bakı, Gəncə, Sumqayıt şəhərləri, Abşeron rayonu və rayon tabeliyində olan şəhərlər istisna olmaqla, digər şəhərlərin rayon mərkəzlərinin ərazisində yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə 10000 m2- dən yuxarı olan hissə üçün, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "B) 8 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 10 manat",
+    "B) 8 manat",
+    "C) 6 manat",
+    "D) 5 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 27,
+  question: "Bakı, Gəncə, Sumqayıt şəhərləri, Abşeron rayonu və rayon tabeliyində olan şəhərlər istisna olmaqla, digər şəhərlərin rayon mərkəzlərinin ərazisində yerləşən yaşayış fondla¬rının, həyətyanı sahələrinin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "D) 0,3 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 0,4 manat",
+    "B) 0,5 manat",
+    "C) 2 manat",
+    "D) 0,3 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 28,
+  question: "Bakı, Gəncə, Sumqayıt şəhərləri, Abşeron rayonu və rayon tabeliyində olan şəhərlər istisna olmaqla, digər şəhərlərin rayon mərkəzlərinin ərazisində yerləşən yaşayış fondla¬rının, həyətyanı sahələrinin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə 10.000 m2- dən yuxarı olan hissə üçün, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "A) 0,6 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 0,6 manat",
+    "B) 0,5 manat",
+    "C) 2 manat",
+    "D) 0,3 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+  numb: 29,
+  question: "Rayon tabeliyində olan şəhərlərdə, qəsəbələrdə və kəndlərdə (Bakı və Sumqayıt şəhərlərinin, habelə Abşeron rayonunun qəsəbə, kəndləri istisna olmaqla) yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin, hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "D) 2 manat",
+  options: [    
+    "A) 4 manat",
+    "B) 3 manat",
+    "C) 6 manat",
+    "D) 2 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 30,
+  question: "Rayon tabeliyində olan şəhərlərdə, qəsəbələrdə və kəndlərdə (Bakı və Sumqayıt şəhərlərinin, habelə Abşeron rayonunun qəsəbə, kəndləri istisna olmaqla) yerləşən sənaye, tikinti, nəqliyyat, rabitə, ticarət-məişət xidməti və digər xüsusi təyinatlı torpaqlar üzrə 10000 m2- dən yuxarı olan hissə üçün, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "A) 4 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 4 manat",
+    "B) 3 manat",
+    "C) 6 manat",
+    "D) 8 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 31,
+  question: "Rayon tabeliyində olan şəhərlərdə, qəsəbələrdə və kəndlərdə (Bakı və Sumqayıt şəhərlərinin, habelə Abşeron rayonunun qəsəbə, kəndləri istisna olmaqla) yerləşən yaşayış fondlarının, həyətyanı sahələrinin torpaqları və vətəndaşların bağ sahələrinin tutduğu torpaqlar üzrə torpaq sahəsi 10000 m2- dək olduqda, torpaq sahəsinin hər 100 kvadrat metrinə görə torpaq vergisinin dərəcəsi nə qədər təşkil edir?",
+  answer: "C) 0,1 manat",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 0,2 manat",
+    "B) 0,3 manat",
+    "C) 0,1 manat",
+    "D) 2 manat"
   ]
 },
 ];
