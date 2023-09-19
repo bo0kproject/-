@@ -344,122 +344,122 @@ let questions = [
 {
   numb: 32,
   question: "Çernobıl AES-də şüa xəstəliyinə tutulmuş şəxslərin icarəyə verdikləri binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
-  answer: "1",
+  answer: "C) Güzəşt nəzərdə tutulmayıb",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	30 manat ",
+    "B)	50 manat",
+    "C) Güzəşt nəzərdə tutulmayıb",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 33,
+  question: "Pensiyaçıların sahibkarlıq fəaliyyətində istifadə etdikləri binalara görə ödəməli olduqları əmlak vergisinin məbləği nə qədər azaldılır?",
+  answer: "C) Güzəşt nəzərdə tutulmayıb",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	30 manat ",
+    "B)	50 manat",
+    "C) Güzəşt nəzərdə tutulmayıb",
+    "D) Aylıq gəlirin vergi tutulmayan məbləğinin 10 misli"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 34,
+  question: "Müharibə əlilinin mülkiyyətində olan icarəyə verilmiş binasına görə əmlak vergisi-nin məbləği nə qədər azaldılır?",
+  answer: "C) Güzəşt yoxdur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) 20 manat",
+    "B) 30 manat",
+    "C) Güzəşt yoxdur",
+    "D) 10 manat"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 35,
+  question: "Vergitutma məqsədləri üçün müəssisənin əmlakının dəyəri ekologiya, yanğından mühafizə və ya mülki müdafiə üçün istifadə edilən əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "D) Bu əmlakların tam dəyərində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu əmlakların dəyərinin 10%-i qədər",
+    "B)	Bu əmlakların dəyərinin 50%-i qədər",
+    "C) Bu əmlakların dəyərinin 25%-i qədər",
+    "D) Bu əmlakların tam dəyərində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 36,
+  question: "Vergitutma məqsədləri üçün fərdi sahibkarın əmlakının dəyəri ekologiya, yanğından mühafizə və ya mülki müdafiə üçün istifadə edilən əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "D) Bu əmlakların tam dəyərində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu əmlakların dəyərinin 10%-i qədər",
+    "B)	Bu əmlakların dəyərinin 50%-i qədər",
+    "C) Bu əmlakların dəyərinin 25%-i qədər",
+    "D) Bu əmlakların tam dəyərində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 37,
+  question: "Vergitutma məqsədləri üçün müəssisənin əmlakının dəyəri məhsul ötürən kəmər-lərin, dəmir və avtomobil yollarının, rabitə və enerji ötürücü xətlərinin, meliorasiya və suvarma sistemi obyektlərinin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "D) Bu əmlakların tam dəyərində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu əmlakların dəyərinin 10%-i qədər",
+    "B)	Bu əmlakların dəyərinin 15%-i qədər",
+    "C) Bu əmlakların dəyərinin 25%-i qədər",
+    "D) Bu əmlakların tam dəyərində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
-  options: [
-    "1",
-    "2",
-    "3",
-    "4"
+  numb: 38,
+  question: "Vergitutma məqsədləri üçün fərdi sahibkarın əmlakının dəyəri məhsul ötürən kəmərlərin, dəmir və avtomobil yollarının, rabitə və enerji ötürücü xətlərinin, meliorasiya və suvarma sistemi obyektlərinin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "D) Bu əmlakların tam dəyərində",
+  options: [    
+    "A)	Bu əmlakların dəyərinin 10%-i qədər",
+    "B)	Bu əmlakların dəyərinin 15%-i qədər",
+    "C) Bu əmlakların dəyərinin 25%-i qədər",
+    "D) Bu əmlakların tam dəyərində"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 39,
+  question: "Fiziki şəxslərə məxsus sahibkarlıq fəaliyyətində istifadə olunmayan minik avtomobillərinə görə əmlak vergisi hansı qaydada və dərəcələrlə tutulur?",
+  answer: "A)	Əmlak vergisi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Əmlak vergisi tutulmur",
+    "B)	Mühərrikinin hər kub santimetri üçün 0,02 manat",
+    "C)	Mühərrikinin hər kub santimetri üçün 0,5 manat",
+    "D)	Nəqliyyat vasitələrinin bazar qiymətinin 1 faizi"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 40,
+  question: "Vergitutma məqsədləri üçün müəssisənin əmlakının dəyəri təhsil, tibb, səhiyyə, mədəniyyət və idman müəssisələrinin yalnız bu sahələrin təyinatı üzrə istifadə etdiyi əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "C) Bu əmlakların tam dəyərində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu əmlakların dəyərinin 30%-i qədər",
+    "B)	Bu əmlakların dəyərinin 10%-i qədər,
+    "C) Bu əmlakların tam dəyərində",
+    "D)	Bu əmlakların dəyərinin 15%-i qədər"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 41,
+  question: "Vergitutma məqsədləri üçün fərdi sahibkarın əmlakının dəyəri təhsil, tibb, səhiyyə, mədəniyyət və idman müəssisələrinin yalnız bu sahələrin təyinatı üzrə istifadə etdiyi əsas vəsaitlərin dəyərinin hansı hissəsi qədər azaldılır?",
+  answer: "C) Bu əmlakların tam dəyərində",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A)	Bu əmlakların dəyərinin 30%-i qədər",
+    "B)	Bu əmlakların dəyərinin 10%-i qədər,
+    "C) Bu əmlakların tam dəyərində",
+    "D)	Bu əmlakların dəyərinin 15%-i qədər"
   ]
 },
 {
-  numb: 6,
-  question: "?",
-  answer: "1",
+  numb: 42,
+  question: "Şəhərlərdə sərnişin daşımaq üçün istifadə olunan trolleybuslar və tramvaylara görə əmlak vergisi hansı dərəcə ilə tutulur?",
+  answer: "A) Bu nəqliyyat vasitələrinə görə əmlak vergisi tutulmur",
   options: [
-    "1",
-    "2",
-    "3",
-    "4"
+    "A) Bu nəqliyyat vasitələrinə görə əmlak vergisi tutulmur",
+    "B) Bazar qiymətinin 1 faizi",
+    "C) Bazar qiymətinin 0,5 faizi",
+    "D) Bu avtonəqliyyat vasitələrinin bazar qiymətinin 0,05 faizi"
   ]
 },
 ];
