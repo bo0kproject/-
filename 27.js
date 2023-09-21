@@ -5,8 +5,8 @@ let questions = [
     question: "ƏDV məqsədləri üçün qeydiyyata alınmamış və ardıcıl on iki aylıq dövrün istənilən ayında (aylarında) vergi tutulan əməliyyatlarının həcmi ən azı hansı məbləğlərdən az olan hüquqi və fiziki şəxslər sadələşdirilmiş vergi ödəyicisi ola bilərlər?",
     answer: "A)	200000 manat və ondan az",
     options: [
-      "A)	200000 manat və ondan az",
-      "B)	210000 manat və ondan az",
+      "A) 200000 manat və ondan az",
+      "B) 210000 manat və ondan az",
       "C) 150000 manat və ondan az",
       "D) 90000 manat və ondan az"
     ]
