@@ -5,7 +5,7 @@ let questions = [
     question: "Mədən vergisi nəyə görə tutulur?",
     answer: "C)	Azərbaycan Respublikasının ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbay-can Respublikasına mənsub olan sektorunda faydalı qazıntıların çıxarılmasına görə",
     options: [
-      "1A)	Azərbaycan Respublikasının ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbay-can Respublikasına mənsub olan sektorunda yalnız neft hasilatına görə",
+      "A)	Azərbaycan Respublikasının ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbay-can Respublikasına mənsub olan sektorunda yalnız neft hasilatına görə",
       "B)	Azərbaycan Respublikasının ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbay-can Respublikasına mənsub olan sektorunda yalnız qaz hasilatına görə",
       "C)	Azərbaycan Respublikasının ərazisində, o cümlədən Xəzər dənizinin (gölünün) Azərbay-can Respublikasına mənsub olan sektorunda faydalı qazıntıların çıxarılmasına görə",
       "D)	Yalnız Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan sektorunda faydalı qazıntıların çıxarılmasına görə"
