@@ -5,8 +5,8 @@ let questions = [
     question: "ƏDV məqsədləri üçün qeydiyyata alınmamış və ardıcıl on iki aylıq dövrün istənilən ayında (aylarında) vergi tutulan əməliyyatlarının həcmi ən azı hansı məbləğlərdən az olan hüquqi və fiziki şəxslər sadələşdirilmiş vergi ödəyicisi ola bilərlər?",
     answer: "A)	200000 manat və ondan az",
     options: [
-      "A) 200000 manat və ondan az",
-      "B) 210000 manat və ondan az",
+      "A)	200000 manat və ondan az",
+      "B)	210000 manat və ondan az",
       "C) 150000 manat və ondan az",
       "D) 90000 manat və ondan az"
     ]
@@ -319,201 +319,124 @@ let questions = [
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 30,
+    question: "Sadələşdirilmiş vergidən azadolma yerli icra hakimiyyəti orqanı tərəfindən verilmiş və özündə yaşayış sahələrinin sökülməsini və sökülmüş yaşayış sahəsinin müqabilində yeni yaşayış sahəsinin verilməsini təsdiq edən hansı sənəd əsasında həyata keçirilir?",
+    answer: "B) Arayış",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A) Qərar",
+      "B) Arayış",
+      "C) Məktub",
+      "D) Rəy"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 31,
+    question: "Fiziki şəxsin sökülmüş yaşayış sahəsindən artıq sahə verildiyi halda sökülmüş yaşayış sahəsinin neçə faizi həddində artıq sahə üzrə sadələşdirilmiş vergi tətbiq edilir?",
+    answer: "C)20%-i",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)30%-i",
+      "B) 50%-i",
+      "C)20%-i",
+      "D) 10%-i"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 32,
+    question: "Fiziki şəxsin mülkiyyətində (o cümlədən ər və arvadın ümumi birgə mülkiyyətində) yalnız bir yaşayış sahəsi olduğu təqdirdə şəxsin həmin yaşayış sahəsi üzrə qeydiyyatının olub-olmamasından asılı olmayaraq, hansı halda yaşayış sahələrinin təqdim edilməsi sadələşdirilmiş vergidən azaddır?",
+    answer: "B)	Azı 3 təqvim ili ərzində həmin yaşayış sahəsində yaşamasını təsdiq edən sənədlər (kommunal xidmətləri göstərən təşkilatlar tərəfindən şəxsin həmin ünvanda abonent kimi qeydiyyatda olmasını təsdiq edən arayışlar) olduğu halda",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Məhkəmə qərarı olduqda",
+      "B)	Azı 3 təqvim ili ərzində həmin yaşayış sahəsində yaşamasını təsdiq edən sənədlər (kommunal xidmətləri göstərən təşkilatlar tərəfindən şəxsin həmin ünvanda abonent kimi qeydiyyatda olmasını təsdiq edən arayışlar) olduğu halda",
+      "C)	Azı 5 təqvim ili ərzində həmin yaşayış sahəsində yaşamasını təsdiq edən sənədlər (kommunal xidmətləri göstərən təşkilatlar tərəfindən şəxsin həmin ünvanda abonent kimi qeydiyyatda olmasını təsdiq edən arayışlar) olduğu halda",
+      "D)	Heç bir halda"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 33,
+    question: "Vergi Məcəlləsinin 102.1.3.2-ci, 102.1.18-ci, 144.1.1-ci, 144.1.2-ci və 144.1.4-cü maddələrində nəzərdə tutulmuş hallarda sadələşdirilmiş vergi hansı qaydada hesablanır?",
+    answer: "A) vergidən azaddır",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A) vergidən azaddır",
+      "B) 2 faiz dərəcəsi ilə",
+      "C) 4 faiz dərəcəsi ilə",
+      "D) 10 faiz dərəcəsi ilə"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 34,
+    question: "Fiziki şəxslərin xüsusi mülkiyyətində olan yaşayış sahələrinin təqdim olunması zamanı sadələşdirilmiş vergi necə tutulur?",
+    answer: "D)	xüsusi mülkiyyətində olan yaşayış sahələrinin 30 kvadratmetr olan sahəsindən vergi tutul¬mur",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	vergidən azaddır",
+      "B) 2 faiz dərəcəsi ilə",
+      "C)	xüsusi mülkiyyətində olan yaşayış sahələrinin 20 kvadratmetr olan sahəsindən vergi tutul¬mur",
+      "D)	xüsusi mülkiyyətində olan yaşayış sahələrinin 30 kvadratmetr olan sahəsindən vergi tutul¬mur"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 35,
+    question: "Lotereya biletlərinin satıcısı ilə bağlanmış müqavilə əsasında və ya onun tapşırığı əsasında lotereya biletlərinin bütün mərhələlərdə agent qaydasında satışının həyata keçirilməsi üzrə göstərilən xidmətlərdən əldə olunan gəiirlərdən sadələşdirilmiş vergi necə tutulur?",
+    answer: "A)	vergidən azaddır",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	vergidən azaddır",
+      "B) 2 faiz dərəcəsi ilə",
+      "C) 6 faiz dərəcəsi ilə",
+      "D) 4 faiz dərəcəsi ilə"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 36,
+    question: "POS-terminal vasitəsilə nağdsız qaydada ödənişlər aparan pərakəndə satış qaydasında malların satışının həyata keçirilməsi üzrə ticarət fəaliyyəti və (və ya) ictimai iaşə fəaliyyəti ilə məşğul olan sadələşdirilmiş vergi ödəyiciləri tərəfindən büdcəyə ödənilməli olan verginin məbləği necə müəyyən olunur.",
+    answer: "C)	2019-cu il yanvarın 1-dən 3 il müddətinə vergi orqanında uçotda olmayan şəxslər tərəfindən POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+      "B)	Vrgi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+      "C)	2019-cu il yanvarın 1-dən 3 il müddətinə vergi orqanında uçotda olmayan şəxslər tərəfindən POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 25 faizi həcmində azaldılır",
+      "D)	Vergi orqanında uçotda olmayan şəxslər tərəfindən POS-terminal vasitəsilə nağdsız qaydada aparılan ödənişlərin ümumi hasilatdakı xüsusi çəkisinə uyğun müəyyən edilən verginin 75 faizi həcmində azaldılır"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 37,
+    question: "Güzəşt hüququ müəyyən edilərkən hansı şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır?",
+    answer: "B)	vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödəniş¬lərin məbləği nəzərə alınmır",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	hüquq mühafizə orqanlarında çalışan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır",
+      "B)	vergi orqanında uçotda olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödəniş¬lərin məbləği nəzərə alınmır",
+      "C)	dövlət quluqçuları olan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır",
+      "D)	vergi orqanlarında çalışan şəxslər tərəfindən POS-terminal vasitəsilə aparılan ödənişlərin məbləği nəzərə alınmır"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 38,
+    question: "Sadələşdirilmiş vergi üzrə (Vergi Məcəlləsinin 218.4,-cü maddəsində nəzərdə tutul-muş vergi ödəyiciləri istisna olmaqla) vergitutma obyekti nədir?",
+    answer: "D)	Təqdim edilmiş mallara [işlərə, xidmətlərə] və əmlaka görə əldə edilmiş ümumi hasilat, habelə satışdankənar gəlirlər (ödəmə mənbəyində vergi tutulmuş gəlirlər istisna edilməklə)",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Yalnız təqdim edilmiş mallara görə gəlirlər",
+      "B)	Yalnız təqdim edilmiş işlərə görə gəlirlər",
+      "C)	Yalnız təqdim edilmiş əmlaka görə gəlirlər",
+      "D)	Təqdim edilmiş mallara [işlərə, xidmətlərə] və əmlaka görə əldə edilmiş ümumi hasilat, habelə satışdankənar gəlirlər (ödəmə mənbəyində vergi tutulmuş gəlirlər istisna edilməklə)"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 39,
+    question: "Mülkiyyətində və ya istifadəsində avtonəqliyyat vasitələri olan [beynəlxalq yük və sərnişin daşımaları istisna olmaqla] Azərbaycan Respublikasının ərazisində sərnişin və yük daşımalarını [o cümlədən taksi ilə] həyata keçirən şəxslərin sadələşdirilmiş vergi üzrə vergi-tutma obyekti nədir?",
+    answer: "C)	Mülkiyyətində və ya istifadəsində olan avtonəqliyyat vasitələri",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Nəqliyyat vasitəsinin mühərrikinin gücü",
+      "B)	Nəqliyyat vasitəsinin mühərrikinin həcmi",
+      "C)	Mülkiyyətində və ya istifadəsində olan avtonəqliyyat vasitələri",
+      "D)	Nəqliyyat vasitələrinin yükgötürmə qabiliyyəti"
     ]
   },
   {
-    numb: 1,
-    question: "",
-    answer: "1",
+    numb: 40,
+    question: "Mülkiyyətində olan yaşayış və qeyri-yaşayış sahələrinin təqdim edilməsini həyata keçirən şəxslər üçün vergitutma obyekti nədir?",
+    answer: "A)	Mülkiyyətində olan yaşayış və qeyri-yaşayış sahələri, o cümlədən bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən satın alınmış yaşayış və qeyri-yaşayış sahələri",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
-    ]
-  },
-  {
-    numb: 1,
-    question: "",
-    answer: "1",
-    options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Mülkiyyətində olan yaşayış və qeyri-yaşayış sahələri, o cümlədən bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən satın alınmış yaşayış və qeyri-yaşayış sahələri",
+      "B)	Mülkiyyətində olan yaşayış və qeyri-yaşayış sahələri, bina tikintisi fəaliyyəti ilə məşğul olan şəxslərdən satın alınmış yaşayış və qeyri-yaşayış sahələri İstisna olmaqla ",
+      "C)	Yalnız təqdim edilmiş əmlaka görə gəlirlər",
+      "D)	Təqdim edilmiş mallara [işlərə, xidmətlərə] və əmlaka görə əldə edilmiş ümumi hasilat, habelə satışdankənar gəlirlər (ödəmə mənbəyində vergi tutulmuş gəlirlər istisna edilməklə)"
     ]
   },
   ];
