@@ -233,101 +233,101 @@ let questions = [
   },
   {
     numb: 22,
-    question: "",
-    answer: "1",
+    question: "Avtomobil nəqliyyatı vasitələri ilə Azərbaycan Respublikasının ərazisində sərnişin və yük daşımalarını həyata keçirən sadələşdirilmiş verginin ödəyiciləri bu fəaliyyətə görə vergi orqanlarına bəyannamə təqdim etməlidirlərmi?",
+    answer: "B)	Təqdim etməməlidirlər",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Təqdim etməlidirlər",
+      "B)	Təqdim etməməlidirlər",
+      "C) Bu vergi orqanının qərarına əsasən müəyyən edilir",
+      "D) Bələdiyyə orqanlarının qərarına əsasən müəyyən edilir"
     ]
   },
   {
     numb: 23,
-    question: "",
-    answer: "1",
+    question: "Avtomobil nəqliyyatı vasitələri ilə sərnişin və yük daşımaları həyata keçirən vergi ödəyiciləri tərəfindən sadələşdirilmiş verginin düzgün hesablanmasına və vaxtında dövlət büdcəsinə ödənilməsinə hansı orqan nəzarət edir?",
+    answer: "D) Dövlət vergi orqanları",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Dövlət nəqliyyat orqanları",
+      "B)	Dövlət maliyyə orqanları",
+      "C) Dövlət statistika orqanları",
+      "D) Dövlət vergi orqanları"
     ]
   },
   {
     numb: 24,
-    question: "",
-    answer: "1",
+    question: "Fərqlənmə nişanı vergi ödəyicisinin ərizəsinə əsasən hansı sənəd əsasında verilir?",
+    answer: "B)	Sadələşdirilmiş verginin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsini təsdiq edən bank ödəniş sənədinə əsasən",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Avtomobil nəqliyyatının texniki pasportuna əsasən",
+      "B)	Sadələşdirilmiş verginin, məcburi dövlət sosial sığorta və icbari tibbi sığorta haqqının ödənilməsini təsdiq edən bank ödəniş sənədinə əsasən",
+      "C)	Sürücünün pasportuna əsasən",
+      "D)	Qət edilən yola əsasən"
     ]
   },
   {
     numb: 25,
-    question: "",
-    answer: "1",
+    question: "«Fərqlənmə nişanı»nın və «Xüsusi fərqlənmə nişanı»nın formaları hansı mərkəzi icra hakimiyyəti orqanı tərəfindən müəyyən edilir?",
+    answer: "B)	Azərbaycan Respublikası Nəqliyyat Nazirliyi",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Azərbaycan Respublikası Dövlət Vergi Xidməti",
+      "B)	Azərbaycan Respublikası Nəqliyyat Nazirliyi",
+      "C)	Azərbaycan Respublikası Maliyyə Nazirliyi",
+      "D)	Sərnişin və yük daşımasını həyata keçirən özəl şirkətlər"
     ]
   },
   {
     numb: 26,
-    question: "",
-    answer: "1",
+    question: "«Fərqlənmə nişanı»nın və «Xüsusi fərqlənmə nişanı»nın formalarında hansı məlu-matlar əks etdirilir? 1)	vergi ödəyicisi olan hüquqi şəxsin tam adı və ya fiziki şəxsin adı, atasının adı, soyadı; 2)	vergi ödəyicisinin bank hesabları; 3)	nişanın qüvvədə olma müddəti; 4)	avtonəqliyyat vasitəsinin markası və dövlət qeydiyyatı nişanı; 5)	təsisçi haqqında məlumat; 6)	vergi ödəyicisinin qeydiyyata alındığı vergi orqanı haqqında məlumat;",
+    answer: "C) 1,3,4",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A) 1,4,6",
+      "B) 2,3,5",
+      "C) 1,3,4",
+      "D) 3,5,6"
     ]
   },
   {
     numb: 27,
-    question: "",
-    answer: "1",
+    question: "Xüsusi fərqlənmə nişanı hansı hallarda alınır?",
+    answer: "A)	Öz istehsal fəaliyyətini təmin etmək üçün işçilərinin və özünə məxs. yükl. daşınm. zamanı",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Öz istehsal fəaliyyətini təmin etmək üçün işçilərinin və özünə məxs. yükl. daşınm. zamanı",
+      "B)	Nəqliyyat vasitələrini satan zaman",
+      "C)	Başqa müəssisəyə icarəyə verilərkən",
+      "D)	Təhlükəli yüklərin daşınması zamanı"
     ]
   },
   {
     numb: 28,
-    question: "",
-    answer: "1",
+    question: "Vergi ödəyicisinin işçi heyətinin və özünə məxsus yüklərin daşınmasında istifadə edilən yeni avtomobil nəqliyyatı vasitələri müvafiq qaydada qeydiyyata alındıqdan sonra həmin avtomobil nəqliyyatı vasitələrinin sahibləri neçə gün ərzində müvafiq icra hakimiyyəti orqanına bu barədə müəyyən edilmiş formada məlumat təqdim edirlər?",
+    answer: "C) 5 gün ərzində",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A) 15 gün ərzində",
+      "B) 30 gün ərzində",
+      "C) 5 gün ərzində",
+      "D) 20 gün ərzində"
     ]
   },
   {
     numb: 29,
-    question: "",
-    answer: "1",
+    question: "Hansı avtonəqliyyat vasitələri üçün «Fərqlənmə nişanı» və ya «Xüsusi fərqlənmə nişanı» alınmır? 1)	Dövlət fondlarının, xarici ölkələrin diplomatik və konsulluq nümayəndəliklərinin nəqliy-yat vasitələri üçün 2)	xüsusi nişan və avadanlıqlarla təchiz olunmuş xüsusi təyinatlı, habelə dövlət hakimiyyəti orqanlarının, büdcə təşkilatlarının və yerli özünüidarəetmə orqanlarının, Azərbaycan Respublikası Mərkəzi Bankının nəqliyyat vasitələri üçün 3)	sahibkarlıq fəaliyyətini göstərən şəxslərin balansında olan avtomobil nəqliyyatı vasitələri ilə öz istehsal fəaliyyətini təmin etmək üçün 4)	sahibkarlıq fəaliyyətini göstərən şəxslərin öz işçilərinin və özünə məxsus yüklərin daşınmasında istifadə olunan avtomobil nəqliyyat vasitələri üçün 5)	hasilatın pay bölgüsü, əsas ixrac boru kəməri haqqında və bu qəbildən olan digər sazişlər çərçivəsində fəaliyyət göstərən xarici podratçıların və subpodratçıların nəqliyyat vasitələri üçün 6)	beynəlxalq təşkilatların nümayəndəliklərinin rəsmi istifadəsi üçün nəzərdə tutulan avtomobil nəqliyyatı vasitələri üçün",
+    answer: "C) 1,2,5,6",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A) 1,3,4,6",
+      "B) 2,4,5,6",
+      "C) 1,2,5,6",
+      "D) 3,4,5,6"
     ]
   },
   {
     numb: 30,
-    question: "",
-    answer: "1",
+    question: "Mülkiyyətində və ya istifadəsində olan avtonəqliyyat vasitələri ilə [beynəlxalq yük və sərnişin daşımaları istisna olmaqla) Azərb. Resp. ərazisində sərnişin və yük daşımalarını [o cümlədən taksi ilə] həyata keçirən şəxslər digər fəaliyyət növü üzrə əldə etdikləri gəlirlərin və xərclərin uçotunu necə aparırlar?",
+    answer: "D) Hər bir fəaliyyət növü üzrə ayrılıqda aparırlar",
     options: [
-      "1",
-      "2",
-      "2",
-      "3"
+      "A)	Bir yerdə aparırlar",
+      "B)	Vergi ödəyicisi istədiyi kimi apara bilər",
+      "C) Yalnız xərcləri ayrılıqda aparırlar",
+      "D) Hər bir fəaliyyət növü üzrə ayrılıqda aparırlar"
     ]
   },
   {
